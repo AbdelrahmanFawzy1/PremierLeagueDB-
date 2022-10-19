@@ -1,0 +1,1826 @@
+PlayerName,DateOfBirth,Nationality,Weight Kg,Height Cm,PlayingPosition
+Bernd Leno,1992-03-04,Germany,83.0,190.0,Goalkeeper
+Arthur Okonkwo,2001-09-09,England,,198.0,Goalkeeper
+Kieran Tierney,1997-06-05,Scotland,70.0,178.0,Defender
+Gabriel Magalhães,1997-12-19,Brazil,78.0,190.0,Defender
+Rob Holding,1995-09-20,England,75.0,189.0,Defender
+Cédric Soares,1991-08-31,Portugal,67.0,172.0,Defender
+Bukayo Saka,2001-09-05,England,65.0,178.0,Forward
+Thomas Partey,1993-06-13,Ghana,77.0,185.0,Midfielder
+Mohamed Elneny,1992-07-11,Egypt,70.0,180.0,Midfielder
+Emile Smith Rowe,2000-07-28,England,79.0,182.0,Midfielder
+Granit Xhaka,1992-09-27,Switzerland,82.0,185.0,Midfielder
+Alexandre Lacazette,1991-05-28,France,73.0,175.0,Forward
+Nicolas Pépé,1995-05-29,Cote D’Ivoire,73.0,183.0,Forward
+Eddie Nketiah,1999-05-30,England,72.0,175.0,Forward
+Gabriel Martinelli,2001-06-18,Brazil,75.0,178.0,Forward
+Nuno Tavares,2000-01-26,Portugal,75.0,183.0,Defender
+Albert Sambi Lokonga,1999-10-22,Belgium,67.0,173.0,Midfielder
+Benjamin White,1997-10-08,England,78.0,182.0,Defender
+Martin Ødegaard,1998-12-17,Norway,68.0,178.0,Midfielder
+Aaron Ramsdale,1998-05-14,England,77.0,188.0,Goalkeeper
+Takehiro Tomiyasu,1998-11-05,Japan,70.0,188.0,Defender
+Salah-Eddine Oulad M'hand,2003-08-20,Netherlands,,,Midfielder
+Charlie Patino,2003-10-17,England,,,Midfielder
+Omari Hutchinson,2003-10-29,England,,,Midfielder
+Mika Biereth,2003-02-08,England,,,Forward
+Zach Awe,2004-01-09,England,,,Defender
+Zak Swanson,2000-09-28,England,,,Defender
+Mazeed Ogungbo,2002-10-20,Ireland,,,Defender
+Marcelo Flores,2003-10-01,Mexico,,,Midfielder
+Miguel Azeez,2002-09-20,England,,,Midfielder
+Emiliano Martínez,1992-09-02,Argentina,88.0,195.0,Goalkeeper
+Matthew Cash,1997-08-07,Poland,,185.0,Defender
+Ezri Konsa,1997-10-23,England,77.0,183.0,Defender
+Tyrone Mings,1993-03-13,England,77.0,196.0,Defender
+Kortney Hause,1995-07-16,England,77.0,191.0,Defender
+Douglas Luiz,1998-05-09,Brazil,66.0,175.0,Midfielder
+John McGinn,1994-10-18,Scotland,68.0,178.0,Midfielder
+Marvelous Nakamba,1994-01-19,Zimbabwe,71.0,178.0,Midfielder
+Morgan Sanson,1994-08-18,France,73.0,180.0,Midfielder
+Jacob Ramsey,2001-05-28,England,,,Midfielder
+Ollie Watkins,1995-12-30,England,70.0,180.0,Forward
+Bertrand Traoré,1995-09-06,Burkina Faso,73.0,181.0,Forward
+Emiliano Buendía,1996-12-25,Argentina,72.0,172.0,Midfielder
+Ashley Young,1985-07-09,England,65.0,175.0,Defender
+Leon Bailey,1997-08-09,Jamaica,77.0,178.0,Forward
+Danny Ings,1992-07-23,England,73.0,178.0,Forward
+Carney Chukwuemeka,2003-10-20,England,,,Midfielder
+Viljami Sinisalo,2001-10-11,Finland,,,Goalkeeper
+Sil Swinkels,2004-01-06,Netherlands,,,Defender
+Lamare Bogarde,2004-01-05,Netherlands,,,Midfielder
+Hayden Lindley,2002-09-02,England,,,Midfielder
+Tim Iroegbunam,2003-06-30,England,,,Midfielder
+Josh Feeney,2005-05-06,England,,,Midfielder
+Philippe Coutinho,1992-06-12,Brazil,68.0,172.0,Midfielder
+Lucas Digne,1993-07-20,France,74.0,178.0,Defender
+Robin Olsen,1990-01-08,Sweden,89.0,198.0,Goalkeeper
+Calum Chambers,1995-01-20,England,66.0,182.0,Defender
+Benjamin Chrisene,2004-01-12,England,,,Midfielder
+Tommi O'Reilly,2003-12-15,England,,,Midfielder
+David Raya,1995-09-15,Spain,80.0,183.0,Goalkeeper
+Rico Henry,1997-07-08,England,67.0,170.0,Defender
+Ethan Pinnock,1993-05-29,Jamaica,79.0,187.0,Defender
+Pontus Jansson,1991-02-13,Sweden,89.0,194.0,Defender
+Mads Bech Sørensen,1999-01-07,Denmark,92.0,189.0,Defender
+Mads Roerslev,1999-06-24,Denmark,77.0,184.0,Defender
+Christian Nørgaard,1994-03-10,Denmark,76.0,187.0,Midfielder
+Mathias Jensen,1996-01-01,Denmark,68.0,180.0,Midfielder
+Josh Dasilva,1998-10-23,England,75.0,184.0,Forward
+Bryan Mbeumo,1999-08-07,France,,171.0,Midfielder
+Tariqe Fosu-Henry,1995-11-05,Ghana,75.0,180.0,Midfielder
+Shandon Baptiste,1998-04-08,Grenada,71.0,175.0,Midfielder
+Vitaly Janelt,1998-05-10,Germany,79.0,184.0,Midfielder
+Sergi Canós,1997-02-02,Spain,75.0,177.0,Forward
+Ivan Toney,1996-03-16,England,70.0,179.0,Forward
+Saman Ghoddos,1993-09-06,Iran,75.0,176.0,Forward
+Julian Jeanvier,1992-03-31,Guinea,84.0,185.0,Defender
+Finley Stevens,2003-04-10,Wales,,,Defender
+Lewis Gordon,2001-02-12,England,,,Defender
+Maxwell Haygarth,2002-01-21,England,,,Midfielder
+Kristoffer Ajer,1998-04-17,Norway,84.0,196.0,Defender
+Frank Onyeka,1998-01-01,Nigeria,,183.0,Midfielder
+Myles Peart-Harris,2002-09-18,England,,,Midfielder
+Yoane Wissa,1996-09-03,DR Congo,74.0,176.0,Midfielder
+Álvaro Fernández,1998-04-13,Spain,75.0,185.0,Goalkeeper
+Zanka,1990-04-23,Denmark,79.0,191.0,Defender
+Paris Maghoma,2001-05-08,England,,,Midfielder
+Matthew Cox,2003-05-02,England,,,Goalkeeper
+Daniel Oyegoke,2003-01-03,England,,,Defender
+Nathan Young-Coombes,2003-01-15,England,,,Forward
+Patrik Gunnarsson,2000-11-15,Iceland,84.0,190.0,Goalkeeper
+Jonas Lössl,1989-02-01,Denmark,89.0,195.0,Goalkeeper
+Christian Eriksen,1992-02-14,Denmark,76.0,182.0,Midfielder
+Jason Steele,1990-08-18,England,79.0,188.0,Goalkeeper
+Robert Sánchez,1997-11-18,Spain,90.0,197.0,Goalkeeper
+Tariq Lamptey,2000-09-30,England,,,Defender
+Adam Webster,1995-01-04,England,75.0,191.0,Defender
+Lewis Dunk,1991-11-21,England,88.0,192.0,Defender
+Joël Veltman,1992-01-15,Netherlands,75.0,184.0,Defender
+Yves Bissouma,1996-08-30,Mali,80.0,182.0,Midfielder
+Alexis Mac Allister,1998-12-24,Argentina,72.0,176.0,Midfielder
+Pascal Groß,1991-06-15,Germany,78.0,181.0,Midfielder
+Adam Lallana,1988-05-10,England,73.0,172.0,Midfielder
+Jakub Moder,1999-04-07,Poland,78.0,188.0,Midfielder
+Steven Alzate,1998-09-08,Colombia,75.0,180.0,Forward
+Solly March,1994-07-20,England,88.0,180.0,Midfielder
+Neal Maupay,1996-08-14,France,69.0,173.0,Forward
+Leandro Trossard,1994-12-04,Belgium,61.0,171.0,Forward
+Danny Welbeck,1990-11-26,England,73.0,185.0,Forward
+Shane Duffy,1992-01-01,Ireland,76.0,193.0,Defender
+Enock Mwepu,1998-01-01,Zambia,76.0,184.0,Midfielder
+Haydon Roberts,2002-05-10,England,,,Defender
+James Furlong,2002-06-07,Ireland,,,Defender
+Marc Leonard,2001-12-19,Scotland,,,Midfielder
+Evan Ferguson,2004-10-19,Ireland,,,Forward
+Odeluga Offiah,2002-10-26,England,,,Defender
+Antef Tsoungui,2002-12-30,England,,,Defender
+Andrew Moran,2003-10-15,Ireland,,,Midfielder
+Thomas McGill,2000-03-25,England,,,Goalkeeper
+Marc Cucurella,1998-07-22,Spain,66.0,172.0,Defender
+Tudor Baluta,1999-03-27,Romania,80.0,192.0,Defender
+Ed Turns,2002-10-18,Wales,,,Defender
+Jeremy Sarmiento,2002-06-16,Ecuador,,,Forward
+Lars Dendoncker,2001-04-03,Belgium,,,Midfielder
+Moisés Caicedo,2001-11-02,Ecuador,73.0,178.0,Midfielder
+Kjell Scherpen,2000-01-23,Netherlands,98.0,204.0,Goalkeeper
+Nick Pope,1992-04-19,England,76.0,191.0,Goalkeeper
+Will Norris,1993-08-12,England,74.0,195.0,Goalkeeper
+Matthew Lowton,1989-06-09,England,78.0,180.0,Defender
+Charlie Taylor,1993-09-18,England,70.0,176.0,Defender
+James Tarkowski,1992-11-19,England,81.0,185.0,Defender
+Ben Mee,1989-09-21,England,74.0,180.0,Defender
+Erik Pieters,1988-08-07,Netherlands,84.0,183.0,Defender
+Phil Bardsley,1985-06-28,Scotland,74.0,180.0,Defender
+Kevin Long,1990-08-18,Ireland,83.0,188.0,Defender
+Jack Cork,1989-06-25,England,70.0,183.0,Midfielder
+Jóhann Gudmundsson,1990-10-27,Iceland,78.0,186.0,Midfielder
+Josh Brownhill,1995-12-19,England,69.0,180.0,Midfielder
+Dwight McNeil,1999-11-22,England,68.0,183.0,Forward
+Dale Stephens,1989-06-12,England,71.0,169.0,Midfielder
+Ashley Westwood,1990-04-01,England,80.0,175.0,Midfielder
+Ashley Barnes,1989-10-30,England,77.0,186.0,Forward
+Jay Rodriguez,1989-07-29,England,84.0,185.0,Forward
+Matej Vydra,1992-05-01,Czech Republic,71.0,180.0,Forward
+Nathan Collins,2001-04-30,Ireland,,193.0,Defender
+Wayne Hennessey,1987-01-24,Wales,90.0,198.0,Goalkeeper
+Bobby Thomas,2001-01-30,England,,,Defender
+Lewis Richardson,2003-02-07,England,,,Midfielder
+Owen Dodgson,2003-03-19,England,,,Defender
+Aaron Lennon,1987-04-16,England,63.0,165.0,Midfielder
+Maxwel Cornet,1996-09-27,Cote D’Ivoire,69.0,179.0,Midfielder
+Connor Roberts,1995-09-23,Wales,71.0,175.0,Defender
+Mark Helm,2001-10-21,England,,,Midfielder
+Joseph McGlynn,2002-09-27,Scotland,,,Forward
+Wout Weghorst,1992-08-07,Netherlands,84.0,197.0,Forward
+Sam Waller,2003-09-09,England,,,Goalkeeper
+Kepa Arrizabalaga,1994-10-03,Spain,84.0,189.0,Goalkeeper
+Édouard Mendy,1992-03-01,Senegal,86.0,197.0,Goalkeeper
+Antonio Rüdiger,1993-03-03,Germany,85.0,190.0,Defender
+Marcos Alonso,1990-12-28,Spain,84.0,188.0,Defender
+Andreas Christensen,1996-04-10,Denmark,82.0,187.0,Defender
+Thiago Silva,1984-09-22,Brazil,79.0,183.0,Defender
+Ben Chilwell,1996-12-21,England,77.0,178.0,Defender
+Reece James,1999-12-08,England,82.0,182.0,Defender
+César Azpilicueta,1989-08-28,Spain,76.0,178.0,Defender
+Jorginho,1991-12-20,Italy,65.0,180.0,Midfielder
+N'Golo Kanté,1991-03-29,France,68.0,168.0,Midfielder
+Christian Pulisic,1998-09-18,United States,69.0,172.0,Midfielder
+Mateo Kovacic,1994-05-06,Croatia,78.0,178.0,Midfielder
+Mason Mount,1999-01-10,England,70.0,178.0,Midfielder
+Hakim Ziyech,1993-03-19,Morocco,65.0,180.0,Midfielder
+Kai Havertz,1999-06-11,Germany,83.0,188.0,Midfielder
+Timo Werner,1996-03-06,Germany,75.0,180.0,Forward
+Callum Hudson-Odoi,2000-11-07,England,76.0,182.0,Forward
+Ruben Loftus-Cheek,1996-01-23,England,88.0,191.0,Midfielder
+Trevoh Chalobah,1999-07-05,England,75.0,190.0,Defender
+Marcus Bettinelli,1992-05-24,England,82.0,194.0,Goalkeeper
+Romelu Lukaku,1993-05-13,Belgium,93.0,190.0,Forward
+Lucas Bergström,2002-09-05,Finland,,,Goalkeeper
+Saúl Ñíguez,1994-11-21,Spain,76.0,184.0,Midfielder
+Ross Barkley,1993-12-05,England,76.0,189.0,Midfielder
+Malang Sarr,1999-01-23,France,73.0,182.0,Defender
+Xavier Mbuyamba,2001-12-31,Netherlands,,,Defender
+Teddy Sharman-Lowe,2003-03-30,England,73.0,189.0,Goalkeeper
+Harvey Vale,2003-09-11,England,,,Midfielder
+Xavier Simons,2003-02-20,England,,,Midfielder
+Charlie Webster,2004-01-31,England,,,Midfielder
+Lewis Hall,2004-09-08,England,,,Midfielder
+Jude Soonsup-Bell,2004-01-10,England,,,Forward
+Kenedy,1996-02-08,Brazil,77.0,182.0,Midfielder
+Dylan Williams,2003-09-13,England,,,Defender
+Jack Butland,1993-03-10,England,95.0,196.0,Goalkeeper
+Vicente Guaita,1987-01-10,Spain,81.0,190.0,Goalkeeper
+Joel Ward,1989-10-29,England,83.0,188.0,Defender
+James Tomkins,1989-03-29,England,74.0,192.0,Defender
+Nathaniel Clyne,1991-04-05,England,67.0,175.0,Defender
+Tyrick Mitchell,1999-09-01,England,,,Defender
+Martin Kelly,1990-04-27,England,77.0,191.0,Defender
+Nathan Ferguson,2000-10-06,England,74.0,178.0,Defender
+Luka Milivojevic,1991-04-07,Serbia,80.0,186.0,Midfielder
+Cheikhou Kouyaté,1989-12-21,Senegal,83.0,189.0,Midfielder
+Jeffrey Schlupp,1992-12-23,Ghana,72.0,178.0,Midfielder
+James McArthur,1987-10-07,Scotland,75.0,178.0,Midfielder
+Eberechi Eze,1998-06-29,England,,,Midfielder
+Jairo Riedewald,1996-09-09,Netherlands,79.0,182.0,Midfielder
+Jordan Ayew,1991-09-11,Ghana,80.0,182.0,Forward
+Wilfried Zaha,1992-11-10,Cote D’Ivoire,66.0,180.0,Forward
+Christian Benteke,1990-12-03,Belgium,83.0,190.0,Forward
+Michael Olise,2001-12-12,France,,176.0,Midfielder
+Marc Guéhi,2000-07-13,England,82.0,182.0,Defender
+Joachim Andersen,1996-05-31,Denmark,90.0,192.0,Defender
+Conor Gallagher,2000-02-06,England,,182.0,Midfielder
+Remi Matthews,1994-02-10,England,78.0,184.0,Goalkeeper
+Reece Hannam,2000-09-11,England,,,Defender
+Jesurun Rak-Sakyi,2002-10-05,England,,,Midfielder
+Scott Banks,2001-09-26,Scotland,,,Midfielder
+Will Hughes,1995-04-17,England,74.0,185.0,Midfielder
+Odsonne Édouard,1998-01-16,France,83.0,187.0,Forward
+Jack Wells-Morrison,2004-02-18,England,,,Midfielder
+Jean-Philippe Mateta,1997-06-28,France,88.0,192.0,Forward
+Omotayo Adaramola,2003-11-13,Ireland,,,Defender
+Jordan Pickford,1994-03-07,England,77.0,185.0,Goalkeeper
+Mason Holgate,1996-10-22,England,63.0,184.0,Defender
+Michael Keane,1993-01-11,England,82.0,191.0,Defender
+Yerry Mina,1994-09-23,Colombia,94.0,195.0,Defender
+Ben Godfrey,1998-01-15,England,74.0,183.0,Defender
+Séamus Coleman,1988-10-11,Ireland,67.0,177.0,Defender
+Allan,1991-01-08,Brazil,73.0,173.0,Midfielder
+Fabian Delph,1989-11-21,England,60.0,174.0,Midfielder
+Abdoulaye Doucouré,1993-01-01,Mali,75.0,184.0,Midfielder
+André Gomes,1993-07-30,Portugal,84.0,188.0,Midfielder
+Tom Davies,1998-06-30,England,70.0,180.0,Midfielder
+Richarlison,1997-05-10,Brazil,83.0,184.0,Forward
+Dominic Calvert-Lewin,1997-03-16,England,71.0,187.0,Forward
+Alexander Iwobi,1996-05-03,Nigeria,75.0,180.0,Midfielder
+Jonjoe Kenny,1997-03-15,England,67.0,176.0,Defender
+Jarrad Branthwaite,2002-06-27,England,82.0,195.0,Defender
+Cenk Tosun,1991-06-07,Turkey,78.0,183.0,Forward
+Andros Townsend,1991-07-16,England,77.0,181.0,Midfielder
+Asmir Begovic,1987-06-20,Bosnia & Herzegovina,101.0,199.0,Goalkeeper
+Demarai Gray,1996-06-28,England,74.0,180.0,Midfielder
+Anthony Gordon,2001-02-24,England,,,Midfielder
+Andy Lonergan,1983-10-19,England,87.0,192.0,Goalkeeper
+Salomón Rondón,1989-09-16,Venezuela,98.0,186.0,Forward
+Lewis Dobbin,2003-01-03,England,,,Forward
+Charlie Whitaker,2003-09-16,England,,,Midfielder
+Harry Tyrer,2001-12-06,England,,,Goalkeeper
+Reece Welch,2003-09-19,England,,,Defender
+Tyler Onyango,2003-03-04,England,,190.0,Midfielder
+Vitalii Mykolenko,1999-05-29,Ukraine,71.0,180.0,Defender
+Nathan Patterson,2001-10-16,Scotland,72.0,183.0,Defender
+Anwar El Ghazi,1995-05-03,Netherlands,90.0,188.0,Midfielder
+Donny van de Beek,1997-04-18,Netherlands,76.0,184.0,Midfielder
+Dele Alli,1996-04-11,England,76.0,188.0,Midfielder
+Ryan Astley,2001-10-04,Wales,,,Defender
+Isaac Price,2003-09-26,Northern Ireland,,,Forward
+Illan Meslier,2000-03-02,France,74.0,193.0,Goalkeeper
+Luke Ayling,1991-08-25,England,72.0,185.0,Defender
+Robin Koch,1996-07-17,Germany,85.0,192.0,Defender
+Liam Cooper,1991-08-30,Scotland,73.0,180.0,Defender
+Diego Llorente,1993-08-16,Spain,75.0,186.0,Defender
+Pascal Struijk,1999-08-11,Netherlands,,190.0,Defender
+Adam Forshaw,1991-10-08,England,71.0,174.0,Midfielder
+Stuart Dallas,1991-04-19,Northern Ireland,81.0,183.0,Midfielder
+Kalvin Phillips,1995-12-02,England,72.0,178.0,Midfielder
+Mateusz Klich,1990-06-13,Poland,84.0,183.0,Midfielder
+Jamie Shackleton,1999-10-08,England,65.0,168.0,Midfielder
+Patrick Bamford,1993-09-05,England,71.0,185.0,Forward
+Tyler Roberts,1999-01-12,Wales,75.0,180.0,Forward
+Raphinha,1996-12-14,Brazil,68.0,176.0,Forward
+Rodrigo,1991-03-06,Spain,77.0,182.0,Forward
+Laurens De Bock,1992-11-07,Belgium,74.0,179.0,Defender
+Jack Harrison,1996-11-20,England,70.0,175.0,Midfielder
+Junior Firpo,1996-08-22,Spain,78.0,184.0,Defender
+Kristoffer Klaesson,2000-11-27,Norway,76.0,189.0,Goalkeeper
+Crysencio Summerville,2001-10-30,Netherlands,,174.0,Midfielder
+Sam Greenwood,2002-01-26,England,,185.0,Forward
+Charlie Cresswell,2002-08-17,England,,,Defender
+Joe Gelhardt,2002-05-04,England,65.0,175.0,Forward
+Liam McCarron,2001-03-07,Scotland,,175.0,Midfielder
+Daniel James,1997-11-10,Wales,76.0,171.0,Midfielder
+Stuart McKinstry,2002-09-18,Scotland,,,Midfielder
+Leo Fuhr Hjelde,2003-08-26,Norway,,188.0,Defender
+Lewis Bate,2002-10-28,England,,,Midfielder
+Jack Jenkins,2002-03-23,England,,,Midfielder
+Kris Moore,2003-11-13,England,,,Defender
+Nohan Kenneh,2003-01-10,England,,,Midfielder
+Archie Gray,2006-03-12,England,,,Midfielder
+Kasper Schmeichel,1986-11-05,Denmark,89.0,189.0,Goalkeeper
+Danny Ward,1993-06-22,Wales,88.0,191.0,Goalkeeper
+Eldin Jakupovic,1984-10-02,Switzerland,85.0,191.0,Goalkeeper
+James Justin,1998-02-23,England,80.0,183.0,Defender
+Wesley Fofana,2000-12-17,France,,190.0,Defender
+Çaglar Söyüncü,1996-05-23,Turkey,82.0,185.0,Defender
+Jonny Evans,1988-01-03,Northern Ireland,77.0,188.0,Defender
+Daniel Amartey,1994-12-21,Ghana,79.0,186.0,Defender
+Ricardo Pereira,1993-10-06,Portugal,70.0,175.0,Defender
+Timothy Castagne,1995-12-05,Belgium,80.0,185.0,Defender
+Luke Thomas,2001-06-10,England,,,Defender
+Youri Tielemans,1997-05-07,Belgium,72.0,176.0,Midfielder
+James Maddison,1996-11-23,England,73.0,175.0,Midfielder
+Marc Albrighton,1989-11-18,England,74.0,175.0,Midfielder
+Harvey Barnes,1997-12-09,England,66.0,174.0,Midfielder
+Hamza Choudhury,1997-10-01,England,64.0,178.0,Midfielder
+Nampalys Mendy,1992-06-23,Senegal,73.0,167.0,Midfielder
+Wilfred Ndidi,1996-12-16,Nigeria,74.0,183.0,Midfielder
+Jamie Vardy,1987-01-11,England,74.0,179.0,Forward
+Kelechi Iheanacho,1996-10-03,Nigeria,82.0,185.0,Forward
+Ayoze Pérez,1993-07-29,Spain,72.0,178.0,Forward
+Patson Daka,1998-10-09,Zambia,71.0,183.0,Forward
+Boubakary Soumaré,1999-02-27,France,70.0,188.0,Midfielder
+Ryan Bertrand,1989-08-05,England,85.0,179.0,Defender
+Kiernan Dewsbury-Hall,1998-09-06,England,,,Midfielder
+Jannik Vestergaard,1992-08-03,Denmark,98.0,199.0,Defender
+Ben Nelson,2004-03-18,England,,,Defender
+Thanawat Suengchitthawon,2000-01-08,Thailand,,,Midfielder
+Ademola Lookman,1997-10-20,Nigeria,71.0,174.0,Forward
+Wanya Marçal-Madivadua,2002-10-19,Portugal,,,Midfielder
+Oliver Ewing,2003-01-03,Wales,,,Midfielder
+Lewis Brunt,2000-11-06,England,,,Midfielder
+Sammy Braybrooke,2004-03-12,England,,,Midfielder
+Will Alves,2005-02-04,England,,,Forward
+Chituru Odunze,2002-10-14,United States,,200.0,Goalkeeper
+Alisson,1992-10-02,Brazil,91.0,191.0,Goalkeeper
+Adrián,1987-01-03,Spain,80.0,190.0,Goalkeeper
+Caoimhin Kelleher,1998-11-23,Ireland,74.0,178.0,Goalkeeper
+Virgil van Dijk,1991-07-08,Netherlands,92.0,193.0,Defender
+Joseph Gomez,1997-05-23,England,77.0,188.0,Defender
+Konstantinos Tsimikas,1996-05-12,Greece,77.0,178.0,Defender
+Andrew Robertson,1994-03-11,Scotland,64.0,178.0,Defender
+Joel Matip,1991-08-08,Cameroon,90.0,195.0,Defender
+Trent Alexander-Arnold,1998-10-07,England,69.0,175.0,Defender
+Fabinho,1993-10-23,Brazil,78.0,188.0,Midfielder
+Thiago,1991-04-11,Spain,70.0,174.0,Midfielder
+James Milner,1986-01-04,England,70.0,175.0,Midfielder
+Naby Keïta,1995-02-10,Guinea,64.0,172.0,Midfielder
+Jordan Henderson,1990-06-17,England,67.0,182.0,Midfielder
+Alex Oxlade-Chamberlain,1993-08-15,England,70.0,180.0,Midfielder
+Curtis Jones,2001-01-30,England,75.0,185.0,Midfielder
+Roberto Firmino,1991-10-02,Brazil,76.0,181.0,Forward
+Sadio Mané,1992-04-10,Senegal,69.0,175.0,Forward
+Mohamed Salah,1992-06-15,Egypt,71.0,175.0,Forward
+Diogo Jota,1996-12-04,Portugal,68.0,178.0,Forward
+Divock Origi,1995-04-18,Belgium,75.0,185.0,Forward
+Loris Karius,1993-06-22,Germany,87.0,189.0,Goalkeeper
+Harvey Elliott,2003-04-04,England,,170.0,Midfielder
+Takumi Minamino,1995-01-16,Japan,68.0,174.0,Forward
+Ibrahima Konaté,1999-05-25,France,95.0,194.0,Defender
+James Balagizi,2003-09-20,England,,,Midfielder
+Tyler Morton,2002-10-31,England,,,Midfielder
+Conor Bradley,2003-07-09,Northern Ireland,,,Midfielder
+Kaide Gordon,2004-10-05,England,,,Forward
+Marcelo Pitaluga,2002-12-20,Brazil,77.0,192.0,Goalkeeper
+Owen Beck,2002-08-09,Wales,,,Defender
+Elijah Dixon-Bonner,2001-01-01,England,,,Midfielder
+Harvey Blair,2003-09-14,England,,,Forward
+James Norris,2003-04-04,England,,,Defender
+Max Woltman,2003-08-20,England,,,Forward
+Jarell Quansah,2003-01-29,England,,,Defender
+Billy Koumetio,2002-11-14,France,,,Defender
+Isaac Mabaya,2004-09-22,England,,,Midfielder
+Melkamu Frauendorf,2004-01-12,Germany,,,Midfielder
+Luis Díaz,1997-01-13,Colombia,65.0,178.0,Forward
+Harvey Davies,2003-09-03,England,,,Goalkeeper
+Zack Steffen,1995-04-02,United States,86.0,191.0,Goalkeeper
+Ederson,1993-08-17,Brazil,86.0,188.0,Goalkeeper
+Kyle Walker,1990-05-28,England,70.0,178.0,Defender
+Rúben Dias,1997-05-14,Portugal,76.0,186.0,Defender
+John Stones,1994-05-28,England,70.0,188.0,Defender
+Nathan Aké,1995-02-18,Netherlands,75.0,180.0,Defender
+Oleksandr Zinchenko,1996-12-15,Ukraine,64.0,175.0,Defender
+Aymeric Laporte,1994-05-27,Spain,86.0,191.0,Defender
+Benjamin Mendy,1994-07-17,France,85.0,185.0,Defender
+João Cancelo,1994-05-27,Portugal,74.0,182.0,Defender
+Ilkay Gündogan,1990-10-24,Germany,80.0,180.0,Midfielder
+Rodri,1996-06-22,Spain,82.0,191.0,Midfielder
+Kevin De Bruyne,1991-06-28,Belgium,68.0,181.0,Midfielder
+Bernardo Silva,1994-08-10,Portugal,64.0,173.0,Midfielder
+Fernandinho,1985-05-04,Brazil,67.0,179.0,Midfielder
+Phil Foden,2000-05-28,England,70.0,171.0,Midfielder
+Raheem Sterling,1994-12-08,England,69.0,170.0,Forward
+Gabriel Jesus,1997-04-03,Brazil,73.0,175.0,Forward
+Riyad Mahrez,1991-02-21,Algeria,67.0,179.0,Forward
+Scott Carson,1985-09-03,England,76.0,190.0,Goalkeeper
+Jack Grealish,1995-09-10,England,68.0,175.0,Midfielder
+Cole Palmer,2002-05-06,England,,,Midfielder
+Cieran Slicker,2002-09-15,Scotland,,,Goalkeeper
+Roméo Lavia,2004-01-06,Belgium,,,Midfielder
+Luke Mbete,2003-09-18,England,,,Defender
+Joshua Wilson-Esbrand,2002-12-26,England,,,Defender
+CJ Egan-Riley,2003-01-02,England,,,Defender
+James McAtee,2002-10-18,England,,,Midfielder
+Samuel Edozie,2003-01-28,England,,,Forward
+Kayky,2003-06-11,Brazil,68.0,175.0,Forward
+Oscar Bobb,2003-07-12,Norway,,,Midfielder
+Liam Delap,2003-02-08,England,,,Forward
+David de Gea,1990-11-07,Spain,76.0,192.0,Goalkeeper
+Dean Henderson,1997-03-12,England,85.0,188.0,Goalkeeper
+Victor Lindelöf,1994-07-17,Sweden,80.0,187.0,Defender
+Eric Bailly,1994-04-12,Cote D’Ivoire,77.0,187.0,Defender
+Phil Jones,1992-02-21,England,71.0,180.0,Defender
+Harry Maguire,1993-03-05,England,100.0,194.0,Defender
+Luke Shaw,1995-07-12,England,75.0,185.0,Defender
+Alex Telles,1992-12-15,Brazil,71.0,181.0,Defender
+Aaron Wan-Bissaka,1997-11-26,England,72.0,183.0,Defender
+Paul Pogba,1993-03-15,France,84.0,191.0,Midfielder
+Fred,1993-03-05,Brazil,64.0,169.0,Midfielder
+Bruno Fernandes,1994-09-08,Portugal,69.0,179.0,Midfielder
+Nemanja Matic,1988-08-01,Serbia,85.0,194.0,Midfielder
+Scott McTominay,1996-12-08,Scotland,88.0,193.0,Midfielder
+Hannibal Mejbri,2003-01-21,Tunisia,,177.0,Midfielder
+Edinson Cavani,1987-02-14,Uruguay,71.0,184.0,Forward
+Marcus Rashford,1997-10-31,England,70.0,180.0,Forward
+Mason Greenwood,2001-10-01,England,70.0,181.0,Forward
+Anthony Elanga,2002-04-27,Sweden,,178.0,Forward
+Shola Shoretire,2004-02-02,England,,170.0,Forward
+Diogo Dalot,1999-03-18,Portugal,76.0,183.0,Defender
+Jesse Lingard,1992-12-15,England,62.0,175.0,Midfielder
+Juan Mata,1988-04-28,Spain,63.0,170.0,Midfielder
+Tom Heaton,1986-04-15,England,85.0,188.0,Goalkeeper
+Lee Grant,1983-01-27,England,83.0,193.0,Goalkeeper
+Facundo Pellistri,2001-12-20,Uruguay,69.0,175.0,Midfielder
+Jadon Sancho,2000-03-25,England,76.0,180.0,Forward
+Raphaël Varane,1993-04-25,France,81.0,191.0,Defender
+Cristiano Ronaldo,1985-02-05,Portugal,83.0,187.0,Forward
+Bjorn Hardley,2002-12-19,Netherlands,,,Defender
+Charlie Savage,2003-05-02,Wales,,,Midfielder
+Zidane Iqbal,2003-04-27,Iraq,,,Midfielder
+Martin Dúbravka,1989-01-15,Slovakia,83.0,190.0,Goalkeeper
+Karl Darlow,1990-10-08,England,88.0,190.0,Goalkeeper
+Mark Gillespie,1992-03-27,England,83.0,192.0,Goalkeeper
+Daniel Langley,2000-12-28,England,,,Goalkeeper
+Ciaran Clark,1989-09-26,Ireland,88.0,185.0,Defender
+Paul Dummett,1991-09-26,Wales,82.0,183.0,Defender
+Fabian Schär,1991-12-20,Switzerland,84.0,188.0,Defender
+Jamaal Lascelles,1993-11-11,England,89.0,188.0,Defender
+Jamal Lewis,1998-01-25,Northern Ireland,70.0,178.0,Defender
+Emil Krafth,1994-08-02,Sweden,83.0,184.0,Defender
+Federico Fernández,1989-02-21,Argentina,83.0,190.0,Defender
+Javier Manquillo,1994-05-05,Spain,76.0,178.0,Defender
+Jonjo Shelvey,1992-02-27,England,80.0,184.0,Midfielder
+Matt Ritchie,1989-09-10,Scotland,76.0,172.0,Midfielder
+Isaac Hayden,1995-03-22,England,79.0,185.0,Midfielder
+Ryan Fraser,1994-02-24,Scotland,70.0,163.0,Midfielder
+Jacob Murphy,1995-02-24,England,74.0,179.0,Midfielder
+Miguel Almirón,1994-02-10,Paraguay,70.0,174.0,Midfielder
+Sean Longstaff,1997-10-30,England,65.0,180.0,Midfielder
+Joelinton,1996-08-14,Brazil,81.0,186.0,Forward
+Allan Saint-Maximin,1997-03-12,France,67.0,173.0,Forward
+Dwight Gayle,1989-10-17,England,78.0,174.0,Forward
+Callum Wilson,1992-02-27,England,66.0,180.0,Forward
+Joseph Willock,1999-08-20,England,71.0,179.0,Midfielder
+Kieran Trippier,1990-09-19,England,71.0,178.0,Defender
+Chris Wood,1991-12-07,New Zealand,81.0,191.0,Forward
+Bruno Guimarães,1997-11-16,Brazil,74.0,182.0,Midfielder
+Matt Targett,1995-09-18,England,70.0,183.0,Defender
+Dan Burn,1992-05-09,England,87.0,198.0,Defender
+Lucas De Bolle,2002-10-22,Scotland,,,Midfielder
+Tim Krul,1988-04-03,Netherlands,84.0,188.0,Goalkeeper
+Michael McGovern,1984-07-12,Northern Ireland,89.0,191.0,Goalkeeper
+Max Aarons,2000-01-04,England,69.0,178.0,Defender
+Sam Byram,1993-09-16,England,72.0,180.0,Defender
+Grant Hanley,1991-11-20,Scotland,81.0,187.0,Defender
+Christoph Zimmermann,1993-01-12,Germany,92.0,194.0,Defender
+Andrew Omobamidele,2002-06-23,Ireland,,188.0,Defender
+Lukas Rupp,1991-01-08,Germany,73.0,178.0,Midfielder
+Kieran Dowell,1997-10-10,England,70.0,175.0,Midfielder
+Przemyslaw Placheta,1998-03-23,Poland,72.0,177.0,Midfielder
+Jacob Sørensen,1998-03-03,Denmark,,,Midfielder
+Kenny McLean,1992-01-08,Scotland,70.0,183.0,Midfielder
+Teemu Pukki,1990-03-29,Finland,75.0,180.0,Forward
+Adam Idah,2001-02-11,Ireland,83.0,190.0,Forward
+Milot Rashica,1996-06-28,Kosovo,73.0,177.0,Midfielder
+Angus Gunn,1996-01-22,England,77.0,196.0,Goalkeeper
+Ben Gibson,1993-01-15,England,78.0,185.0,Defender
+Dimitris Giannoulis,1995-10-17,Greece,62.0,175.0,Defender
+Billy Gilmour,2001-06-11,Scotland,60.0,166.0,Midfielder
+Pierre Lees-Melou,1993-05-25,France,69.0,185.0,Midfielder
+Joshua Sargent,2000-02-20,United States,79.0,185.0,Forward
+Christos Tzolis,2002-01-30,Greece,,184.0,Forward
+Brandon Williams,2000-09-03,England,63.0,171.0,Defender
+Mathias Normann,1996-05-28,Norway,75.0,179.0,Midfielder
+Ozan Kabak,2000-03-25,Turkey,86.0,186.0,Defender
+Jonathan Tomkinson,2002-04-11,United States,,,Defender
+Jonathan Rowe,2003-04-30,England,,173.0,Forward
+Jon McCracken,2000-05-24,Scotland,,,Goalkeeper
+Liam Gibbs,2002-12-16,England,,,Midfielder
+Abu Kamara,2003-07-21,England,,183.0,Defender
+Tony Springett,2002-09-22,England,,,Midfielder
+Alex McCarthy,1989-12-03,England,79.0,193.0,Goalkeeper
+Harry Lewis,1997-12-20,England,77.0,191.0,Goalkeeper
+Fraser Forster,1988-03-17,England,93.0,201.0,Goalkeeper
+Kyle Walker-Peters,1997-04-13,England,62.0,173.0,Defender
+Jack Stephens,1994-01-27,England,75.0,185.0,Defender
+Mohammed Salisu,1999-04-17,Ghana,82.0,191.0,Defender
+Jan Bednarek,1996-04-12,Poland,77.0,189.0,Defender
+Oriol Romeu,1991-09-24,Spain,83.0,183.0,Midfielder
+James Ward-Prowse,1994-11-01,England,66.0,173.0,Midfielder
+Nathan Redmond,1994-03-06,England,69.0,173.0,Midfielder
+Moussa Djenepo,1998-06-15,Mali,65.0,177.0,Midfielder
+Stuart Armstrong,1992-03-30,Scotland,75.0,183.0,Midfielder
+William Smallbone,2000-02-21,Ireland,,,Forward
+Nathan Tella,1999-07-05,England,,,Midfielder
+Ibrahima Diallo,1999-03-08,France,68.0,179.0,Midfielder
+Che Adams,1996-07-13,Scotland,70.0,175.0,Forward
+Yan Valery,1999-02-22,France,85.0,180.0,Defender
+Mohamed Elyounoussi,1994-08-04,Norway,70.0,178.0,Midfielder
+Shane Long,1987-01-22,Ireland,81.0,178.0,Forward
+Theo Walcott,1989-03-16,England,68.0,176.0,Forward
+Romain Perraud,1997-09-22,France,68.0,173.0,Defender
+Valentino Livramento,2002-11-12,England,,,Defender
+Armando Broja,2001-09-10,Albania,,191.0,Forward
+Adam Armstrong,1997-02-10,England,69.0,172.0,Forward
+Thierry Small,2004-08-01,England,,,Defender
+Lyanco,1997-02-01,Brazil,85.0,187.0,Defender
+Willy Caballero,1981-09-28,Argentina,81.0,186.0,Goalkeeper
+Kgaogelo Chauke,2003-01-08,England,,,Midfielder
+Kazeem Olaigbe,2003-01-02,Belgium,,,Forward
+Hugo Lloris,1986-12-26,France,82.0,188.0,Goalkeeper
+Matt Doherty,1992-01-16,Ireland,80.0,182.0,Defender
+Sergio Reguilón,1996-12-16,Spain,68.0,178.0,Defender
+Davinson Sánchez,1996-06-12,Colombia,81.0,187.0,Defender
+Joe Rodon,1997-10-22,Wales,70.0,180.0,Defender
+Japhet Tanganga,1999-03-31,England,76.0,184.0,Defender
+Ben Davies,1993-04-24,Wales,76.0,181.0,Defender
+Pierre-Emile Højbjerg,1995-08-05,Denmark,84.0,187.0,Midfielder
+Harry Winks,1996-02-02,England,65.0,178.0,Midfielder
+Eric Dier,1994-01-15,England,88.0,188.0,Defender
+Son Heung-Min,1992-07-08,South Korea,78.0,183.0,Forward
+Harry Kane,1993-07-28,England,86.0,188.0,Forward
+Steven Bergwijn,1997-10-08,Netherlands,78.0,178.0,Forward
+Lucas Moura,1992-08-13,Brazil,72.0,172.0,Forward
+Ryan Sessegnon,2000-05-18,England,70.0,178.0,Midfielder
+Oliver Skipp,2000-09-16,England,70.0,175.0,Midfielder
+Pierluigi Gollini,1995-03-18,Italy,94.0,194.0,Goalkeeper
+Cristian Romero,1998-04-27,Argentina,79.0,185.0,Defender
+Dane Scarlett,2004-03-24,England,76.0,180.0,Forward
+Brandon Austin,1999-01-07,England,82.0,188.0,Goalkeeper
+Maksim Paskotsi,2003-01-19,Estonia,,,Defender
+Kallum Cesay,2002-09-04,England,,,Defender
+Brooklyn Lyons-Foster,2000-12-01,England,,,Defender
+Harvey White,2001-09-19,England,,,Midfielder
+Matthew Craig,2003-04-16,Scotland,,,Midfielder
+Romaine Mundle,2003-04-24,England,,,Midfielder
+Emerson Royal,1999-01-14,Brazil,79.0,181.0,Defender
+Tobi Omole,1999-12-17,England,,,Defender
+Malachi Fagan-Walcott,2002-03-11,England,,,Defender
+Michael Craig,2003-04-16,Scotland,,,Midfielder
+J'Neil Bennett,2001-12-07,England,,,Forward
+Rodrigo Bentancur,1997-06-25,Uruguay,72.0,187.0,Midfielder
+Dejan Kulusevski,2000-04-25,Sweden,80.0,186.0,Midfielder
+Alfie Devine,2004-08-01,England,75.0,179.0,Midfielder
+Jamie Bowden,2001-07-09,Ireland,,,Midfielder
+Ben Foster,1983-04-03,England,79.0,193.0,Goalkeeper
+Daniel Bachmann,1994-07-09,Austria,81.0,191.0,Goalkeeper
+Robert Elliot,1986-04-30,Ireland,94.0,190.0,Goalkeeper
+Jeremy Ngakia,2000-09-07,England,,,Defender
+William Troost-Ekong,1993-09-01,Nigeria,82.0,191.0,Defender
+Adam Masina,1994-01-02,Morocco,78.0,189.0,Defender
+Craig Cathcart,1989-02-06,Northern Ireland,73.0,188.0,Defender
+Kiko Femenía,1991-02-02,Spain,61.0,176.0,Defender
+Christian Kabasele,1991-02-24,Belgium,84.0,187.0,Defender
+Francisco Sierralta,1997-05-06,Chile,83.0,190.0,Defender
+Tom Cleverley,1989-08-12,England,67.0,175.0,Midfielder
+Ken Sema,1993-09-30,Sweden,69.0,180.0,Midfielder
+Dan Gosling,1990-02-01,England,79.0,183.0,Midfielder
+Daniel Phillips,2001-01-18,,,,Midfielder
+João Pedro,2001-09-26,Brazil,70.0,182.0,Forward
+Ismaïla Sarr,1998-02-25,Senegal,76.0,185.0,Forward
+Imrân Louza,1999-05-01,Morocco,65.0,178.0,Midfielder
+Emmanuel Dennis,1997-11-15,Nigeria,67.0,175.0,Forward
+Ignacio Pussetto,1995-12-21,Argentina,74.0,180.0,Midfielder
+Danny Rose,1990-07-02,England,72.0,173.0,Defender
+Peter Etebo,1995-11-09,Nigeria,70.0,172.0,Midfielder
+Joshua King,1992-01-15,Norway,74.0,180.0,Forward
+Kwadwo Baah,2003-01-27,Germany,,,Midfielder
+Cucho Hernández,1999-04-20,Colombia,73.0,176.0,Forward
+Juraj Kucka,1987-02-26,Slovakia,86.0,186.0,Midfielder
+Moussa Sissoko,1989-08-16,France,83.0,187.0,Midfielder
+James Morris,2001-11-23,England,,,Defender
+Nicolas Nkoulou,1990-03-27,Cameroon,77.0,184.0,Defender
+Vincent Angelini,2003-09-12,Scotland,,186.0,Goalkeeper
+Hassane Kamara,1994-03-05,Cote D’Ivoire,67.0,168.0,Defender
+Samir,1994-12-05,Brazil,73.0,189.0,Defender
+Edo Kayembe,1998-06-03,DR Congo,77.0,183.0,Midfielder
+Derek Agyakwa,2001-12-19,Netherlands,,,Defender
+Shaqai Forde,2004-05-05,England,,,Midfielder
+Samuel Kalu,1997-08-26,Nigeria,74.0,176.0,Forward
+Lukasz Fabianski,1985-04-18,Poland,83.0,190.0,Goalkeeper
+David Martin,1986-01-22,England,85.0,185.0,Goalkeeper
+Darren Randolph,1987-05-12,Ireland,98.0,188.0,Goalkeeper
+Aaron Cresswell,1989-12-15,England,66.0,170.0,Defender
+Vladimir Coufal,1992-08-22,Czech Republic,76.0,179.0,Defender
+Angelo Ogbonna,1988-05-23,Italy,86.0,191.0,Defender
+Issa Diop,1997-01-09,France,92.0,194.0,Defender
+Ryan Fredericks,1992-10-10,England,74.0,181.0,Defender
+Arthur Masuaku,1993-11-07,DR Congo,70.0,179.0,Defender
+Manuel Lanzini,1993-02-15,Argentina,59.0,167.0,Midfielder
+Mark Noble,1987-05-08,England,70.0,180.0,Midfielder
+Pablo Fornals,1996-02-22,Spain,67.0,178.0,Midfielder
+Tomas Soucek,1995-02-27,Czech Republic,86.0,192.0,Midfielder
+Declan Rice,1999-01-14,England,76.0,185.0,Midfielder
+Andriy Yarmolenko,1989-10-23,Ukraine,81.0,189.0,Forward
+Saïd Benrahma,1995-08-10,Algeria,67.0,172.0,Forward
+Jarrod Bowen,1996-12-20,England,70.0,175.0,Forward
+Michail Antonio,1990-03-28,Jamaica,82.0,180.0,Forward
+Craig Dawson,1990-05-06,England,82.0,188.0,Defender
+Alphonse Areola,1993-02-27,France,94.0,195.0,Goalkeeper
+Jamal Baptiste,2003-11-11,England,,,Defender
+Kurt Zouma,1994-10-27,France,96.0,190.0,Defender
+Nikola Vlasic,1997-10-04,Croatia,72.0,178.0,Forward
+Alex Král,1998-05-19,Czech Republic,72.0,185.0,Midfielder
+Ajibola Alese,2001-01-17,England,,,Defender
+Ben Johnson,2000-01-24,England,67.0,175.0,Midfielder
+Harrison Ashby,2001-11-14,Scotland,,,Defender
+Daniel Chesters,2002-04-04,England,,,Midfielder
+Sonny Perkins,2004-02-10,England,,,Midfielder
+Keenan Appiah-Forson,2001-10-16,England,,,Midfielder
+Freddie Potts,2003-09-12,England,,,Midfielder
+Emmanuel Longelo,2000-12-27,England,,,Forward
+Kamarai Simon-Swyer,2002-12-04,England,,,Forward
+Armstrong Oko-Flex,2002-03-02,Ireland,,,Forward
+Pierre Ekwah,2002-01-15,France,,,Defender
+John Ruddy,1986-10-24,England,97.0,193.0,Goalkeeper
+Ki-Jana Hoever,2002-01-18,Netherlands,65.0,180.0,Defender
+Marçal,1989-02-19,Brazil,74.0,178.0,Defender
+Willy Boly,1991-02-03,Cote D’Ivoire,92.0,195.0,Defender
+Conor Coady,1993-02-25,England,73.0,185.0,Defender
+Jonny,1994-03-03,Spain,70.0,175.0,Defender
+Nélson Semedo,1993-11-16,Portugal,67.0,177.0,Defender
+Maximilian Kilman,1997-05-23,England,,,Defender
+Rúben Neves,1997-03-13,Portugal,80.0,180.0,Midfielder
+Daniel Podence,1995-10-21,Portugal,58.0,165.0,Midfielder
+Romain Saïss,1990-03-26,Morocco,80.0,190.0,Midfielder
+João Moutinho,1986-09-08,Portugal,61.0,170.0,Midfielder
+Leander Dendoncker,1995-04-15,Belgium,83.0,188.0,Midfielder
+Pedro Neto,2000-03-09,Portugal,69.0,172.0,Forward
+Raúl Jiménez,1991-05-05,Mexico,76.0,190.0,Forward
+Fábio Silva,2002-07-19,Portugal,75.0,185.0,Forward
+Yerson Mosquera,2001-05-02,Colombia,76.0,187.0,Defender
+Trincão,1999-12-29,Portugal,70.0,184.0,Forward
+Rayan Aït-Nouri,2001-06-06,France,70.0,179.0,Defender
+José Sá,1993-01-17,Portugal,84.0,192.0,Goalkeeper
+Luke Cundle,2002-04-26,England,,,Midfielder
+Chem Campbell,2002-12-30,Wales,,,Forward
+Hwang Hee-Chan,1996-01-26,South Korea,77.0,177.0,Forward
+James Storer,2001-11-05,England,,,Goalkeeper
+Hugo Bueno,2002-09-18,Spain,73.0,180.0,Defender
+Dexter Lembikisa,2003-11-04,England,,,Defender
+Toti,1999-01-16,Portugal,72.0,187.0,Defender
+Chiquinho,2000-02-05,Portugal,73.0,179.0,Forward
+Matija Sarkic,1997-07-23,Montenegro,,195.0,Goalkeeper
+Matt Macey,1994-09-09,England,,205.0,Goalkeeper
+Héctor Bellerín,1995-03-19,Spain,,178.0,Defender
+William Saliba,2001-03-24,France,,192.0,Defender
+Sokratis Papastathopoulos,1988-06-09,Greece,,186.0,Defender
+Shkodran Mustafi,1992-04-17,Germany,,184.0,Defender
+David Luiz,1987-04-22,Brazil,,189.0,Defender
+Sead Kolasinac,1993-06-20,Bosnia & Herzegovina,,183.0,Defender
+Mesut Özil,1988-10-15,Germany,,180.0,Midfielder
+Lucas Torreira,1996-02-11,Uruguay,,168.0,Midfielder
+Ainsley Maitland-Niles,1997-08-29,England,,177.0,Midfielder
+Mattéo Guendouzi,1999-04-14,France,,185.0,Midfielder
+Pierre-Emerick Aubameyang,1989-06-18,Gabon,,187.0,Forward
+Reiss Nelson,1999-12-10,England,,175.0,Forward
+Dani Ceballos,1996-08-07,Spain,,179.0,Midfielder
+Robbie Burton,1999-12-26,Wales,,176.0,Midfielder
+Matthew Smith,2000-10-05,England,,,Defender
+Zech Medley,2000-07-09,England,,195.0,Defender
+Willian,1988-08-09,Brazil,,175.0,Forward
+Danny Ballard,1999-09-22,Northern Ireland,,187.0,Defender
+Mark McGuinness,2001-01-05,Ireland,,194.0,Defender
+Ben Cottrell,2001-10-31,England,,,Midfielder
+Tolaji Bola,1999-01-04,England,,188.0,Defender
+James Olayinka,2000-10-05,England,,,Midfielder
+George Lewis,2000-06-16,Rwanda,,,Forward
+Tyreece John-Jules,2001-02-14,England,,183.0,Forward
+Henrikh Mkhitaryan,1989-01-21,Armenia,,177.0,Midfielder
+Rúnar Rúnarsson,1995-02-18,Iceland,,186.0,Goalkeeper
+Pablo Marí,1993-08-31,Spain,,193.0,Defender
+Karl Hein,2002-04-13,Estonia,,193.0,Goalkeeper
+Folarin Balogun,2001-07-03,England,,178.0,Forward
+Mathew Ryan,1992-04-08,Australia,,184.0,Goalkeeper
+Joel Lopez Salguero,2002-03-31,Spain,,,Defender
+James Hillson,2001-01-14,England,,,Goalkeeper
+Jed Steer,1992-09-23,England,,183.0,Goalkeeper
+Ørjan Nyland,1990-09-10,Norway,,192.0,Goalkeeper
+Lovre Kalinic,1990-04-03,Croatia,,201.0,Goalkeeper
+Neil Taylor,1989-02-07,Wales,,176.0,Defender
+Björn Engels,1994-09-15,Belgium,,193.0,Defender
+Frédéric Guilbert,1994-12-24,France,,178.0,Defender
+Ahmed El Mohamady,1987-09-09,Egypt,,183.0,Defender
+Henri Lansbury,1990-10-12,England,,183.0,Midfielder
+Conor Hourihane,1991-02-02,Ireland,,180.0,Midfielder
+Trézéguet,1994-10-01,Egypt,,180.0,Midfielder
+Jota,1991-06-16,Spain,,180.0,Midfielder
+Wesley Moraes,1996-11-26,Brazil,,191.0,Forward
+Mbwana Samatta,1992-12-23,Tanzania,,183.0,Forward
+Indiana Vassilev,2001-02-16,United States,,173.0,Forward
+Keinan Davis,1998-02-13,England,,191.0,Forward
+Danny Drinkwater,1990-03-05,England,,178.0,Midfielder
+Pepe Reina,1982-08-31,Spain,,188.0,Goalkeeper
+Cameron Archer,2001-12-09,England,,,Forward
+Akos Onodi,2001-09-02,Hungary,,,Goalkeeper
+Oliwier Zych,2004-06-28,Poland,,,Goalkeeper
+Dominic Revan,2000-09-19,England,,,Defender
+Jake Walker,2000-11-03,England,,,Defender
+Frankie Ealing,2004-07-14,England,,,Defender
+Callum Rowe,1999-09-02,England,,,Midfielder
+Harrison Sohna,2002-07-01,England,,,Midfielder
+Kaine Hayden,2003-05-25,England,,,Midfielder
+Arjan Raikhy,2002-10-20,England,,,Midfielder
+Brad Young,2003-01-06,England,,,Midfielder
+Mamadou Dialla Sylla,2003-01-26,Spain,,179.0,Midfielder
+Edward Rowe,2003-10-17,England,,,Midfielder
+Taylor Jay-Hart,2003-12-18,England,,179.0,Midfielder
+Mungo Bridge,2000-09-12,England,,,Forward
+Michael Tait,2001-01-29,England,,,Forward
+Louie Barry,2003-06-21,England,,,Forward
+Jaden Philogene-Bidace,2002-02-08,England,,,Midfielder
+David Button,1989-02-27,England,,191.0,Goalkeeper
+Martín Montoya,1991-04-14,Spain,,175.0,Defender
+Bernardo,1995-05-14,Brazil,,186.0,Defender
+Aaron Mooy,1990-09-15,Australia,,174.0,Midfielder
+Davy Pröpper,1991-09-02,Netherlands,,185.0,Midfielder
+Alireza Jahanbakhsh,1993-08-11,Iran,,180.0,Forward
+Glenn Murray,1983-09-25,England,,183.0,Forward
+José Izquierdo,1992-07-07,Colombia,,171.0,Forward
+Aaron Connolly,2000-01-28,Ireland,,,Forward
+Ryan Longman,2000-11-06,England,,180.0,Midfielder
+Romaric Yapi,2000-07-13,France,,178.0,Defender
+Peter Gwargis,2000-09-04,Sweden,,,Midfielder
+Max Sanders,1999-01-04,England,,175.0,Midfielder
+Jack Spong,2002-02-04,England,,,Midfielder
+Taylor Richards,2000-12-04,England,,180.0,Forward
+Beram Kayal,1988-05-02,Israel,,178.0,Midfielder
+Alex Cochrane,2000-04-21,England,,,Defender
+Teddy Jenks,2002-03-12,England,,191.0,Midfielder
+Ezequiel Schelotto,1989-05-23,Argentina,,187.0,Defender
+Jayson Molumby,1999-08-06,Ireland,,,Midfielder
+Christian Walton,1995-11-09,England,,182.0,Goalkeeper
+Viktor Gyökeres,1998-06-04,Sweden,,187.0,Forward
+Jan Paul van Hecke,2000-06-08,Netherlands,,,Defender
+Ulrick Eneme-Ella,2001-05-22,Gabon,,184.0,Forward
+Andi Zeqiri,1999-06-22,Switzerland,,181.0,Forward
+Michal Karbownik,2001-03-13,Poland,,,Defender
+Percy Tau,1994-05-13,South Africa,,175.0,Forward
+Reda Khadra,2001-07-04,Germany,,,Midfielder
+Jensen Weir,2002-01-31,England,,184.0,Midfielder
+Florin Andone,1993-04-11,Romania,,180.0,Forward
+Warren O'Hora,1999-04-19,Ireland,,,Defender
+Bailey Peacock-Farrell,1996-10-29,Northern Ireland,,193.0,Goalkeeper
+Robbie Brady,1992-01-14,Ireland,,176.0,Midfielder
+Josh Benson,1999-12-05,England,,175.0,Midfielder
+Joel Mumbongo,1999-01-09,Sweden,,188.0,Forward
+Ali Koiki,1999-08-22,England,,,Defender
+Mace Goodridge,1999-09-13,England,,180.0,Midfielder
+Anthony Driscoll-Glennon,1999-11-26,England,,181.0,Defender
+Lukas Jensen,1999-03-18,Denmark,,198.0,Goalkeeper
+Max Thompson,2002-02-09,England,,,Forward
+Jimmy Dunne,1997-10-19,Ireland,,183.0,Defender
+Anthony Mancini,2001-04-06,France,,180.0,Midfielder
+Richard Nartey,1998-09-06,England,,184.0,Defender
+Jamie Cumming,1999-09-04,England,,186.0,Goalkeeper
+Fikayo Tomori,1997-12-19,England,,185.0,Defender
+Emerson,1994-08-03,Italy,,176.0,Defender
+Tammy Abraham,1997-10-02,England,,190.0,Forward
+Pedro,1987-07-28,Spain,,169.0,Forward
+Olivier Giroud,1986-09-30,France,,192.0,Forward
+Michy Batshuayi,1993-10-02,Belgium,,184.0,Forward
+Ian Maatsen,2002-03-10,Netherlands,,167.0,Defender
+Faustino Anjorin,2001-11-23,England,,185.0,Midfielder
+Henry Lawrence,2001-09-21,England,,,Defender
+Dynel Simeu,2002-03-13,England,,186.0,Defender
+Nathan Baxter,1998-11-08,England,,191.0,Goalkeeper
+Juan Familia-Castillo,2000-01-13,Netherlands,,,Defender
+Ethan Ampadu,2000-09-14,Wales,,183.0,Defender
+Luke McCormick,1999-01-21,England,,,Midfielder
+Lewis Baker,1995-04-25,England,,182.0,Midfielder
+Mario Pasalic,1995-02-09,Croatia,,188.0,Midfielder
+George McEachran,2000-08-30,England,,172.0,Midfielder
+Marco van Ginkel,1992-12-01,Netherlands,,180.0,Midfielder
+Karlo Ziger,2001-05-11,Croatia,,,Goalkeeper
+Victor Moses,1990-12-12,Nigeria,,177.0,Defender
+Tiemoué Bakayoko,1994-08-17,France,,185.0,Midfielder
+Davide Zappacosta,1992-06-11,Italy,,185.0,Defender
+Patrick van Aanholt,1990-08-29,Netherlands,,176.0,Defender
+Scott Dann,1987-02-14,England,,188.0,Defender
+Mamadou Sakho,1990-02-13,France,,187.0,Defender
+Gary Cahill,1985-12-19,England,,193.0,Defender
+Max Meyer,1995-09-18,Germany,,173.0,Midfielder
+James McCarthy,1990-11-12,Ireland,,180.0,Midfielder
+Stephen Henderson,1988-05-02,Ireland,,193.0,Goalkeeper
+John-Kymani Gordon,2003-02-13,England,,,Forward
+Nikola Tavares,1999-01-17,Croatia,,,Defender
+Nya Kirby,2000-01-31,England,,174.0,Midfielder
+Brandon Pierrick,2001-12-10,England,,182.0,Forward
+Sam Woods,1998-09-11,England,,,Defender
+Jaroslaw Jach,1994-02-17,Poland,,192.0,Defender
+Ryan Inniss,1995-06-05,England,,196.0,Defender
+Connor Wickham,1993-03-31,England,,191.0,Forward
+João Virgínia,1999-10-10,Portugal,,198.0,Goalkeeper
+Gylfi Sigurdsson,1989-09-08,Iceland,,186.0,Midfielder
+Jean-Philippe Gbamin,1995-09-25,Cote D’Ivoire,,186.0,Midfielder
+Beni Baningime,1998-09-09,DR Congo,,178.0,Midfielder
+Bernard,1992-09-08,Brazil,,164.0,Forward
+Moise Kean,2000-02-28,Italy,,183.0,Forward
+Djibril Sidibé,1992-07-29,France,,182.0,Defender
+Maarten Stekelenburg,1982-09-22,Netherlands,,197.0,Goalkeeper
+Dennis Adeniran,1999-01-02,England,,180.0,Midfielder
+Ellis Simms,2001-01-05,England,,,Forward
+Leighton Baines,1984-12-11,England,,170.0,Defender
+James Rodríguez,1991-07-12,Colombia,,180.0,Midfielder
+Niels Nkounkou,2000-11-01,France,,180.0,Defender
+Muhamed Besic,1992-09-10,Bosnia & Herzegovina,,180.0,Midfielder
+Yannick Bolasie,1989-05-24,DR Congo,,188.0,Forward
+Sandro Ramírez,1995-07-09,Spain,,175.0,Forward
+Kyle John,2001-02-13,England,,,Defender
+Nathan Broadhead,1998-04-05,Wales,,178.0,Midfielder
+Zan-Luk Leban,2002-12-15,Slovenia,,,Goalkeeper
+Marek Rodák,1996-12-13,Slovakia,,194.0,Goalkeeper
+Jordan Archer,1993-04-12,Scotland,,186.0,Goalkeeper
+Fabri,1987-12-31,Spain,,184.0,Goalkeeper
+Michael Hector,1992-07-19,Jamaica,,193.0,Defender
+Denis Odoi,1988-05-27,Ghana,,178.0,Defender
+Alfie Mawson,1994-01-19,England,,189.0,Defender
+Tim Ream,1987-10-05,United States,,186.0,Defender
+Maxime Le Marchand,1989-10-11,France,,185.0,Defender
+Cyrus Christie,1992-09-30,Ireland,,188.0,Defender
+Joe Bryan,1993-09-17,England,,173.0,Defender
+Steven Sessegnon,2000-05-18,England,,175.0,Midfielder
+Jean Michaël Seri,1991-07-19,Cote D’Ivoire,,168.0,Midfielder
+Kevin McDonald,1988-11-04,Scotland,,192.0,Midfielder
+Neeskens Kebano,1992-03-10,DR Congo,,170.0,Midfielder
+Stefan Johansen,1991-01-08,Norway,,182.0,Midfielder
+Tom Cairney,1991-01-20,Scotland,,186.0,Midfielder
+Anthony Knockaert,1991-11-20,France,,172.0,Midfielder
+Josh Onomah,1997-04-27,England,,185.0,Midfielder
+André-Frank Zambo Anguissa,1995-11-16,Cameroon,,184.0,Midfielder
+Luca de la Torre,1998-05-23,United States,,177.0,Midfielder
+Aleksandar Mitrovic,1994-09-16,Serbia,,189.0,Forward
+Bobby De Cordova-Reid,1993-02-02,Jamaica,,170.0,Forward
+Ivan Cavaleiro,1993-10-18,Portugal,,175.0,Forward
+Aboubakar Kamara,1995-03-07,Mauritania,,177.0,Forward
+Harry Arter,1989-12-28,Ireland,,176.0,Midfielder
+Harrison Reed,1995-01-27,England,,181.0,Midfielder
+Jayden Harris,1999-09-04,England,,,Midfielder
+Jay Stansfield,2002-11-24,England,,,Forward
+Matt O'Riley,2000-11-21,Denmark,,,Midfielder
+Tyrese Francois,2000-07-16,Australia,,166.0,Midfielder
+Benjamin Davis,2000-11-24,Thailand,,175.0,Midfielder
+Sylvester Jasper,2001-09-13,Bulgaria,,,Forward
+Luca Ashby-Hammond,2001-03-25,England,,,Goalkeeper
+Jerome Opoku,1998-10-14,England,,194.0,Defender
+Martell Taylor-Crossdale,1999-12-26,England,,,Forward
+Magnus Norman,1997-01-19,England,,192.0,Goalkeeper
+Antonee Robinson,1997-08-08,United States,,183.0,Defender
+Mario Lemina,1993-09-01,Gabon,,184.0,Midfielder
+Kenny Tete,1995-10-09,Netherlands,,180.0,Defender
+Ola Aina,1996-10-08,Nigeria,,184.0,Defender
+Fabio Carvalho,2002-08-30,Portugal,,,Midfielder
+Tosin Adarabioyo,1997-09-24,England,,196.0,Defender
+Terence Kongolo,1994-02-14,Netherlands,,188.0,Defender
+Josh Maja,1998-12-27,Nigeria,,180.0,Forward
+Kiko Casilla,1986-10-02,Spain,,190.0,Goalkeeper
+Kamil Miazek,1996-08-15,Poland,,192.0,Goalkeeper
+Barry Douglas,1989-09-04,Scotland,,176.0,Defender
+Gaetano Berardi,1988-08-21,Switzerland,,179.0,Defender
+Robbie Gotts,1999-11-09,England,,,Defender
+Ezgjan Alioski,1992-02-12,North Macedonia,,173.0,Midfielder
+Pablo Hernández,1985-04-11,Spain,,173.0,Midfielder
+Jay-Roy Grot,1998-03-13,Netherlands,,193.0,Forward
+Ian Poveda-Ocampo,2000-02-09,England,,165.0,Forward
+Hélder Costa,1994-01-12,Angola,,178.0,Forward
+Ryan Edmondson,2001-05-20,England,,,Forward
+Jordan Stevens,2000-03-25,England,,178.0,Midfielder
+Alfie McCalmont,2000-03-25,Northern Ireland,,,Midfielder
+Conor Shaughnessy,1996-06-30,Ireland,,191.0,Midfielder
+Oliver Casey,2000-10-14,England,,188.0,Defender
+Bryce Hosannah,1999-04-08,England,,,Defender
+Mateusz Bogusz,2001-08-22,Poland,,175.0,Midfielder
+Elia Caprile,2001-08-25,Italy,,,Goalkeeper
+Leif Davis,1999-12-31,England,,166.0,Defender
+Niall Huggins,2000-12-18,Wales,,,Forward
+Cody Drameh,2001-12-08,England,,,Defender
+Wes Morgan,1984-01-21,Jamaica,,186.0,Defender
+Filip Benkovic,1997-07-13,Croatia,,194.0,Defender
+Christian Fuchs,1986-04-07,Austria,,187.0,Defender
+Matty James,1991-07-22,England,,181.0,Midfielder
+Dennis Praet,1994-05-14,Belgium,,181.0,Midfielder
+Islam Slimani,1988-06-18,Algeria,,188.0,Forward
+Ryan Bennett,1990-03-06,England,,188.0,Defender
+George Hirst,1999-02-15,England,,191.0,Forward
+Darnell Johnson,1998-09-03,England,,,Defender
+George Thomas,1997-03-24,Wales,,173.0,Forward
+Vontae Daley-Campbell,2001-04-02,England,,,Defender
+Josh Knight,1997-09-07,England,,185.0,Defender
+Sidnei Tavares,2001-09-29,Portugal,,,Midfielder
+Thakgalo Leshabela,1999-09-18,South Africa,,175.0,Midfielder
+Admiral Muskwe,1998-08-21,Zimbabwe,,183.0,Forward
+Josh Felix-Eppiah,1998-10-11,Belgium,,179.0,Forward
+Jakub Stolarczyk,2000-12-19,Poland,,,Goalkeeper
+Ethan Fitzhugh,2002-11-27,England,,,Midfielder
+Wanya Madavidua,2002-10-19,England,,,Midfielder
+Cengiz Ünder,1997-07-14,Turkey,,173.0,Midfielder
+Shane Flynn,2001-10-14,Ireland,,,Midfielder
+Rachid Ghezzal,1992-05-09,Algeria,,182.0,Midfielder
+Adrien Silva,1989-03-15,Portugal,,171.0,Midfielder
+Fousseni Diabaté,1995-10-18,Mali,,175.0,Forward
+Tawanda Maswanhise,2002-11-20,England,,,Midfielder
+Neco Williams,2001-04-13,Wales,,183.0,Defender
+Georginio Wijnaldum,1990-11-11,Netherlands,,175.0,Midfielder
+Marko Grujic,1996-04-13,Serbia,,191.0,Midfielder
+Harry Wilson,1997-03-22,Wales,,173.0,Midfielder
+Xherdan Shaqiri,1991-10-10,Switzerland,,169.0,Midfielder
+Rhian Brewster,2000-04-01,England,,180.0,Forward
+Ben Woodburn,1999-10-15,Wales,,174.0,Forward
+Ben Winterbottom,2001-07-16,England,,,Goalkeeper
+Vítezslav Jaros,2001-07-23,Czech Republic,,,Goalkeeper
+Thomas Hill,2002-10-13,England,,,Forward
+Dejan Lovren,1989-07-05,Croatia,,188.0,Defender
+Luis Longstaff,2001-02-24,England,,168.0,Midfielder
+Leighton Clarkson,2001-10-19,England,,175.0,Midfielder
+Morgan Boyes,2001-04-22,Wales,,177.0,Defender
+Thomas Clayton,2000-12-27,Scotland,,,Defender
+Jake Cain,2001-09-02,England,,,Midfielder
+Sepp van den Berg,2001-12-20,Netherlands,,189.0,Defender
+Layton Stewart,2002-09-03,England,,,Forward
+Jack Bearne,2001-09-15,England,,,Midfielder
+Joseph Hardy,1998-09-26,England,,170.0,Forward
+Yasser Larouci,2001-01-01,France,,176.0,Defender
+Tony Gallacher,1999-07-23,Scotland,,173.0,Defender
+Adam Lewis,1999-11-08,England,,175.0,Midfielder
+Liam Millar,1999-09-27,Canada,,81.0,Forward
+Nathaniel Phillips,1997-03-21,England,,190.0,Defender
+Sheyi Ojo,1997-06-19,England,,177.0,Midfielder
+Taiwo Awoniyi,1997-08-12,Nigeria,,183.0,Forward
+Rhys Williams,2001-02-03,England,,,Defender
+Ben Davies,1995-08-11,England,,185.0,Defender
+Kamil Grabara,1999-01-08,Poland,,195.0,Goalkeeper
+Liam Hughes,2001-08-19,Northern Ireland,,,Goalkeeper
+Jakub Ojrzynski,2003-02-19,Poland,,,Goalkeeper
+Claudio Bravo,1983-04-13,Chile,,184.0,Goalkeeper
+Pedro Porro,1999-09-13,Spain,,173.0,Defender
+Nicolás Otamendi,1988-02-12,Argentina,,183.0,Defender
+Eric García,2001-01-09,Spain,,182.0,Defender
+David Silva,1986-01-08,Spain,,173.0,Midfielder
+Tommy Doyle,2001-10-17,England,,,Midfielder
+Ferran Torres,2000-02-29,Spain,,184.0,Forward
+Sergio Agüero,1988-06-02,Argentina,,173.0,Forward
+Erik Palmer-Brown,1997-04-24,United States,,187.0,Defender
+Alpha Richard Dionkou,2001-10-10,Senegal,,183.0,Defender
+Taylor Harwood-Bellis,2002-01-30,England,,188.0,Defender
+Adrián Bernabé,2001-05-26,Spain,,170.0,Midfielder
+Leroy Sané,1996-01-11,Germany,,183.0,Forward
+Pablo Moreno,2002-05-03,Spain,,174.0,Forward
+Felix Nmecha,2000-10-10,Germany,,188.0,Midfielder
+James Trafford,2002-10-10,England,,,Goalkeeper
+Mikkel Diskerud,1990-10-02,United States,,184.0,Midfielder
+Claudio Gomes,2000-07-23,France,,164.0,Midfielder
+Arijanet Muric,1998-11-07,Kosovo,,198.0,Goalkeeper
+Sergio Romero,1987-02-22,Argentina,,192.0,Goalkeeper
+Marcos Rojo,1990-03-20,Argentina,,186.0,Defender
+Timothy Fosu-Mensah,1998-01-02,Netherlands,,185.0,Defender
+Axel Tuanzebe,1997-11-14,England,,186.0,Defender
+Ethan Laird,2001-08-05,England,,177.0,Defender
+Teden Mengi,2002-04-30,England,,183.0,Defender
+Andreas Pereira,1996-01-01,Brazil,,175.0,Midfielder
+James Garner,2001-03-13,England,,186.0,Midfielder
+Tahith Chong,1999-12-04,Netherlands,,185.0,Midfielder
+Ethan Galbraith,2001-05-11,Northern Ireland,,175.0,Midfielder
+Anthony Martial,1995-12-05,France,,181.0,Forward
+Odion Ighalo,1989-06-16,Nigeria,,181.0,Forward
+Max Taylor,2000-01-10,England,,,Defender
+Matej Ková&#345;,2000-05-17,Czech Republic,,,Goalkeeper
+Dylan Levitt,2000-11-17,Wales,,180.0,Midfielder
+Arnau Puigmal,2001-01-10,Spain,,173.0,Midfielder
+Di'Shon Bernard,2000-10-14,England,,189.0,Defender
+D'Mani Mellor,2000-09-20,England,,,Forward
+Alexis Sánchez,1988-12-19,Chile,,169.0,Forward
+Amad Diallo,2002-07-11,Cote D’Ivoire,,173.0,Forward
+Chris Smalling,1989-11-22,England,,194.0,Defender
+Nathan Bishop,1999-10-15,England,,185.0,Goalkeeper
+William Fish,2003-02-17,England,,185.0,Defender
+Florian Lejeune,1991-05-20,France,,189.0,Defender
+DeAndre Yedlin,1993-07-09,United States,,172.0,Defender
+Christian Atsu,1992-01-10,Ghana,,165.0,Midfielder
+Andy Carroll,1989-01-06,England,,193.0,Forward
+Yoshinori Muto,1992-07-15,Japan,,179.0,Forward
+Valentino Lazaro,1996-03-24,Austria,,180.0,Midfielder
+Nabil Bentaleb,1994-11-24,Algeria,,187.0,Midfielder
+Matthew Longstaff,2000-03-21,England,,,Midfielder
+Thomas Allan,1999-09-23,England,,,Forward
+Elias Sorensen,1999-09-18,Denmark,,,Forward
+Lewis Cass,2000-02-27,England,,,Defender
+Jack Young,2000-10-21,England,,,Midfielder
+Jeff Hendrick,1992-01-31,Ireland,,185.0,Midfielder
+Henri Saivet,1990-10-26,Senegal,,174.0,Midfielder
+Daniel Barlaser,1997-01-18,England,,184.0,Midfielder
+Elliot Anderson,2002-11-06,Scotland,,,Midfielder
+Wes Foderingham,1991-01-14,England,,185.0,Goalkeeper
+Michael Verrips,1996-12-03,Netherlands,,195.0,Goalkeeper
+Simon Moore,1990-05-19,England,,191.0,Goalkeeper
+George Baldock,1993-03-09,England,,178.0,Defender
+Enda Stevens,1990-07-09,Ireland,,183.0,Defender
+Jack O'Connell,1994-03-29,England,,190.0,Defender
+Chris Basham,1988-07-20,England,,190.0,Defender
+John Egan,1992-10-20,Ireland,,185.0,Defender
+Jack Robinson,1993-09-01,England,,168.0,Defender
+Kean Bryan,1996-11-01,England,,185.0,Defender
+John Fleck,1991-08-24,Scotland,,170.0,Midfielder
+John Lundstram,1994-02-18,England,,181.0,Midfielder
+Luke Freeman,1992-03-22,England,,181.0,Midfielder
+Oliver Norwood,1991-04-12,Northern Ireland,,180.0,Midfielder
+Ben Osborn,1994-08-05,England,,176.0,Midfielder
+Sander Berge,1998-02-14,Norway,,195.0,Midfielder
+Oliver McBurnie,1996-06-04,Scotland,,188.0,Forward
+Billy Sharp,1986-02-05,England,,175.0,Forward
+David McGoldrick,1987-11-29,Ireland,,183.0,Forward
+Lys Mousset,1996-02-08,France,,184.0,Forward
+Richairo Zivkovic,1996-09-05,Netherlands,,187.0,Forward
+Phil Jagielka,1982-08-17,England,,180.0,Defender
+Kieron Freeman,1992-03-21,Wales,,178.0,Defender
+Leon Clarke,1985-02-10,England,,188.0,Forward
+Jack Rodwell,1991-03-11,England,,188.0,Midfielder
+Sam Graham,2000-08-13,England,,,Defender
+Kyron Gordon,2002-05-24,England,,,Defender
+Rhys Norrington-Davies,1999-04-22,Wales,,181.0,Defender
+George Broadbent,2000-09-30,England,,188.0,Midfielder
+Regan Slater,1999-09-11,England,,173.0,Midfielder
+Zak Brunt,2001-11-17,England,,,Midfielder
+Antwoine Hackford,2004-03-20,England,,,Forward
+Max Lowe,1997-05-11,England,,175.0,Defender
+Jayden Bogle,2000-07-27,England,,178.0,Defender
+Oliver Burke,1997-04-07,Scotland,,188.0,Midfielder
+Ismaila Coulibaly,2000-12-25,Mali,,183.0,Midfielder
+Iliman Ndiaye,2000-03-06,France,,180.0,Midfielder
+Frankie Maguire,2003-07-29,England,,,Midfielder
+Jake Eastwood,1996-10-03,England,,193.0,Goalkeeper
+Daniel Jebbison,2003-07-11,England,,190.0,Forward
+Harry Boyes,2001-11-02,England,,,Defender
+Femi Seriki,2002-04-28,England,,183.0,Midfielder
+William Osula,2003-08-04,Denmark,,,Forward
+Jake Vokins,2000-03-17,England,,180.0,Defender
+Sofiane Boufal,1993-09-17,Morocco,,170.0,Midfielder
+Michael Obafemi,2000-07-06,Ireland,,169.0,Forward
+Guido Carrillo,1991-05-25,Argentina,,191.0,Forward
+Kevin Danso,1998-09-19,Austria,,190.0,Defender
+Kayne Ramsay,2000-10-10,England,,,Defender
+Will Ferry,2000-12-07,Ireland,,176.0,Midfielder
+Jacob Maddox,1998-11-03,England,,179.0,Midfielder
+Daniel N'Lundulu,1999-02-05,England,,185.0,Forward
+Maya Yoshida,1988-08-24,Japan,,189.0,Defender
+Caleb Watts,2002-01-16,Australia,,171.0,Midfielder
+Allan Tchaptchet,2001-12-21,France,,193.0,Defender
+Ryan Finnigan,2003-09-23,England,,,Midfielder
+Alexandre Jankewitz,2001-12-25,Switzerland,,179.0,Midfielder
+Wesley Hoedt,1994-03-06,Netherlands,,188.0,Defender
+Paulo Gazzaniga,1992-01-02,Argentina,,196.0,Goalkeeper
+Toby Alderweireld,1989-03-02,Belgium,,186.0,Defender
+Juan Foyth,1998-01-12,Argentina,,179.0,Defender
+Serge Aurier,1992-12-24,Cote D’Ivoire,,176.0,Defender
+Cameron Carter-Vickers,1997-12-31,United States,,183.0,Defender
+Erik Lamela,1992-03-04,Argentina,,181.0,Midfielder
+Tanguy Ndombele,1996-12-28,France,,181.0,Midfielder
+Gedson Fernandes,1999-01-09,Portugal,,182.0,Midfielder
+Jack Clarke,2000-11-23,England,,181.0,Forward
+Troy Parrott,2002-02-04,Ireland,,185.0,Forward
+Jan Vertonghen,1987-04-24,Belgium,,189.0,Defender
+Michel Vorm,1983-10-20,Netherlands,,183.0,Goalkeeper
+Dennis Cirkin,2002-04-06,England,,181.0,Defender
+Joe Hart,1987-04-19,England,,196.0,Goalkeeper
+Jubril Okedina,2000-10-26,England,,,Defender
+George Marsh,1998-11-05,England,,178.0,Midfielder
+Alfie Whiteman,1998-10-02,England,,189.0,Goalkeeper
+Gareth Bale,1989-07-16,Wales,,185.0,Forward
+Carlos Vinícius,1995-03-25,Brazil,,190.0,Forward
+Giovani Lo Celso,1996-04-09,Argentina,,177.0,Midfielder
+Marcel Lavinier,2000-12-16,Portugal,,180.0,Defender
+Nile John,2003-03-06,England,,,Midfielder
+Dilan Markanday,2001-08-20,England,,,Forward
+Sam Johnstone,1993-03-25,England,,193.0,Goalkeeper
+Darnell Furlong,1995-10-31,England,,183.0,Defender
+Kieran Gibbs,1989-09-26,England,,181.0,Defender
+Kyle Bartley,1991-05-22,England,,185.0,Defender
+Semi Ajayi,1993-11-09,Nigeria,,193.0,Defender
+Conor Townsend,1993-03-04,England,,168.0,Defender
+Ahmed Hegazi,1991-01-25,Egypt,,193.0,Defender
+Dara O'Shea,1999-03-04,Ireland,,188.0,Defender
+Jake Livermore,1989-11-14,England,,181.0,Midfielder
+Matt Phillips,1991-03-13,Scotland,,185.0,Midfielder
+Kamil Grosicki,1988-06-08,Poland,,180.0,Midfielder
+Rekeem Harper,2000-03-08,England,,188.0,Midfielder
+Romaine Sawyers,1991-11-02,St. Kitts & Nevis,,175.0,Midfielder
+Jonathan Leko,1999-04-24,England,,182.0,Midfielder
+Sam Field,1998-05-08,England,,191.0,Midfielder
+Hal Robson-Kanu,1989-05-21,Wales,,183.0,Forward
+Kenneth Zohore,1994-01-31,Denmark,,189.0,Forward
+Matheus Pereira,1996-05-05,Brazil,,175.0,Forward
+Charlie Austin,1989-07-05,England,,188.0,Forward
+Kyle Edwards,1998-02-17,England,,172.0,Forward
+Rayhaan Tulloch,2001-01-20,England,,178.0,Midfielder
+Finn Azaz,2000-09-07,England,,,Midfielder
+Grady Diangana,1998-04-19,England,,180.0,Midfielder
+Callum Robinson,1995-02-02,Ireland,,178.0,Forward
+Jonathan Bond,1993-05-19,England,,196.0,Goalkeeper
+Chris Brunt,1984-12-14,Northern Ireland,,187.0,Midfielder
+Saul Shotton,2000-11-10,England,,184.0,Defender
+Lee Peltier,1986-12-11,England,,178.0,Defender
+Gareth Barry,1981-02-23,England,,185.0,Midfielder
+Rico Richards,2003-09-27,England,,,Midfielder
+Cédric Kipré,1996-12-09,Cote D’Ivoire,,193.0,Defender
+Branislav Ivanovic,1984-02-22,Serbia,,185.0,Defender
+Jamie Soule,2000-11-26,England,,,Forward
+Filip Krovinovic,1995-08-29,Croatia,,175.0,Midfielder
+Karlan Grant,1997-09-18,England,,180.0,Forward
+Cheikh Diaby,2000-03-07,France,,,Forward
+Robert Snodgrass,1987-09-07,Scotland,,182.0,Midfielder
+George Harmon,2000-12-08,England,,,Defender
+Mbaye Diagne,1991-10-28,Senegal,,191.0,Forward
+Okay Yokuslu,1994-03-09,Turkey,,190.0,Midfielder
+Caleb Taylor,2003-01-14,England,,,Midfielder
+Taylor Gardner-Hickman,2001-12-30,England,,,Defender
+Toby King,2002-01-04,England,,,Midfielder
+Roberto Jiménez,1986-02-10,Spain,,192.0,Goalkeeper
+Fabián Balbuena,1991-08-23,Paraguay,,188.0,Defender
+Gonçalo Cardoso,2000-10-21,Portugal,,189.0,Defender
+Felipe Anderson,1993-04-15,Brazil,,175.0,Midfielder
+Jack Wilshere,1992-01-01,England,,172.0,Midfielder
+Sébastien Haller,1994-06-22,Cote D’Ivoire,,190.0,Forward
+Albian Ajeti,1997-02-26,Switzerland,,183.0,Forward
+Joseph Anang,2000-06-08,England,,,Goalkeeper
+Bernardo Rosa,2000-09-20,Brazil,,,Midfielder
+Alfie Lewis,1999-09-28,England,,,Midfielder
+Nathan Trott,1998-11-21,England,,188.0,Goalkeeper
+Josh Cullen,1996-04-07,Ireland,,175.0,Midfielder
+Xande Silva,1997-03-16,Portugal,,177.0,Forward
+Conor Coventry,2000-03-25,Ireland,,177.0,Midfielder
+Frederik Alves,1999-11-08,Denmark,,195.0,Defender
+Nathan Holland,1998-06-19,England,,178.0,Midfielder
+Ademipo Odubeko,2002-10-21,Ireland,,,Forward
+Oladapo Afolayan,1997-09-11,England,,180.0,Forward
+Rui Patrício,1988-02-15,Portugal,,190.0,Goalkeeper
+Rúben Vinagre,1999-04-09,Portugal,,174.0,Defender
+Oskar Buur,1998-03-31,Denmark,,180.0,Defender
+Bruno Jordão,1998-10-12,Portugal,,180.0,Midfielder
+Morgan Gibbs-White,2000-01-27,England,,171.0,Midfielder
+Leonardo Campana,2000-07-24,Ecuador,,187.0,Forward
+Adama Traoré,1996-01-25,Spain,,178.0,Forward
+Austin Samuels,2000-11-20,England,,,Forward
+Owen Otasowie,2001-01-06,United States,,191.0,Midfielder
+Taylor Perry,2001-07-15,England,,,Midfielder
+Meritan Shabani,1999-03-15,Germany,,185.0,Midfielder
+Andreas Söndergaard,2001-01-17,Denmark,,189.0,Goalkeeper
+Lewis Richards,2001-10-15,Ireland,,,Defender
+Terry Taylor,2001-06-29,Wales,,185.0,Midfielder
+Ryan Giles,2000-01-26,England,,179.0,Midfielder
+Christian Marques,2003-01-15,Portugal,,187.0,Defender
+Vitinha,2000-02-13,Portugal,,172.0,Midfielder
+Theo Corbeanu,2002-05-17,Canada,,190.0,Forward
+Patrick Cutrone,1998-01-03,Italy,,183.0,Forward
+Nigel Lonwijk,2002-10-27,Netherlands,,188.0,Defender
+Willian José,1991-11-23,Brazil,,189.0,Forward
+Petr Cech,1982-05-20,Czech Republic,,196.0,Goalkeeper
+Laurent Koscielny,1985-09-10,France,,186.0,Defender
+Stephan Lichtsteiner,1984-01-16,Switzerland,,182.0,Defender
+Nacho Monreal,1986-02-26,Spain,,179.0,Defender
+Carl Jenkinson,1992-02-08,England,,185.0,Defender
+Konstantinos Mavropanos,1997-12-11,Greece,,194.0,Defender
+Julio Pleguezuelo,1997-01-26,Spain,,180.0,Defender
+Aaron Ramsey,1990-12-26,Wales,,178.0,Midfielder
+Denis Suárez,1994-01-06,Spain,,176.0,Midfielder
+David Ospina,1988-08-31,Colombia,,183.0,Goalkeeper
+Dominic Thompson,2000-07-26,England,,,Defender
+Mark Bunn,1984-11-16,England,,183.0,Goalkeeper
+James Chester,1989-01-23,Wales,,180.0,Defender
+Alan Hutton,1984-11-30,Scotland,,185.0,Defender
+Tommy Elphick,1987-09-07,England,,180.0,Defender
+Glenn Whelan,1984-01-13,Ireland,,180.0,Midfielder
+Tom Carroll,1992-05-28,England,,177.0,Midfielder
+Mile Jedinak,1984-08-03,Australia,,189.0,Midfielder
+Andre Green,1998-07-26,England,,180.0,Midfielder
+Birkir Bjarnason,1988-05-27,Iceland,,183.0,Midfielder
+Albert Adomah,1987-12-13,Ghana,,185.0,Midfielder
+Jonathan Kodjia,1989-10-22,Cote D’Ivoire,,191.0,Forward
+James Bree,1997-12-11,England,,172.0,Defender
+Mitchell Clark,1999-03-13,Wales,,,Defender
+Jake Doyle-Hayes,1998-12-30,Ireland,,,Midfielder
+Callum O'Hare,1998-05-01,England,,175.0,Midfielder
+Scott Hogan,1992-04-13,Ireland,,180.0,Forward
+Rushian Marcus Amari Hepburn-Murphy,1998-08-28,England,,173.0,Forward
+Harry McKirdy,1997-03-29,England,,175.0,Forward
+Ross McCormack,1986-08-18,Scotland,,175.0,Forward
+Aaron Tshibola,1995-01-02,DR Congo,,190.0,Midfielder
+Borja Bastón,1992-08-25,Spain,,186.0,Forward
+Artur Boruc,1980-02-20,Poland,,193.0,Goalkeeper
+Mark Travers,1999-05-18,Ireland,,191.0,Goalkeeper
+Simon Francis,1985-02-16,England,,183.0,Defender
+Steve Cook,1991-04-19,England,,185.0,Defender
+Charlie Daniels,1986-09-07,England,,178.0,Defender
+Adam Smith,1991-04-29,England,,180.0,Defender
+Diego Rico,1993-02-23,Spain,,183.0,Defender
+Jack Simpson,1996-12-18,England,,178.0,Defender
+Chris Mepham,1997-11-05,Wales,,191.0,Defender
+Andrew Surman,1986-08-20,England,,178.0,Midfielder
+Jefferson Lerma,1994-10-25,Colombia,,179.0,Midfielder
+Jordon Ibe,1995-12-08,England,,176.0,Midfielder
+Lewis Cook,1997-02-03,England,,175.0,Midfielder
+Junior Stanislas,1989-11-26,England,,183.0,Midfielder
+David Brooks,1997-07-08,Wales,,173.0,Midfielder
+Kyle Taylor,1999-05-26,England,,,Midfielder
+Matt Butcher,1997-05-14,England,,188.0,Midfielder
+Nnamdi Ofoborh,1999-11-07,Nigeria,,175.0,Midfielder
+Dominic Solanke,1997-09-14,England,,187.0,Forward
+Sam Surridge,1998-07-28,England,,191.0,Forward
+Marc Pugh,1987-04-02,England,,180.0,Midfielder
+Mihai-Alexandru Dobre,1998-08-30,Romania,,185.0,Midfielder
+Jermain Defoe,1982-10-07,England,,171.0,Forward
+Lloyd Kelly,1998-10-06,England,,178.0,Defender
+Connor Mahoney,1997-02-12,England,,175.0,Midfielder
+Jack Stacey,1996-04-06,England,,180.0,Defender
+Philip Billing,1996-06-11,Denmark,,193.0,Midfielder
+Arnaut Danjuma,1997-01-31,Netherlands,,178.0,Forward
+William Dennis,2000-07-10,England,,,Goalkeeper
+Jordan Zemura,1999-11-14,Zimbabwe,,,Defender
+Sam Sherring,2000-05-08,England,,,Defender
+Gavin Kilkenny,2000-02-01,Ireland,,,Midfielder
+Brennan Camp,2000-10-12,Scotland,,,Defender
+Corey Jordan,1999-03-04,England,,185.0,Defender
+Christian Saydee,2002-05-10,England,,181.0,Midfielder
+Brooklyn Genesini,2001-12-12,England,,,Defender
+Bruno,1980-10-01,Spain,,181.0,Defender
+Gaëtan Bong,1988-04-25,Cameroon,,187.0,Defender
+Leon Balogun,1988-06-28,Nigeria,,190.0,Defender
+Leo Østigård,1999-11-28,Norway,,182.0,Defender
+Will Collar,1997-02-03,England,,181.0,Midfielder
+Jürgen Locadia,1993-11-07,Netherlands,,187.0,Forward
+Jan Mlakar,1998-10-23,Slovenia,,183.0,Forward
+Markus Suttner,1987-04-16,Austria,,179.0,Defender
+Ben Barclay,1996-10-07,England,,,Defender
+Tomer Hemed,1987-05-02,Israel,,186.0,Forward
+Matthew Clarke,1996-09-22,England,,185.0,Defender
+Billy Arce,1998-07-12,Ecuador,,178.0,Midfielder
+Soufyan Ahannach,1995-09-09,Netherlands,,179.0,Midfielder
+Bojan Radulovi&#263;,1999-12-29,Serbia,,191.0,Forward
+Archie Davies,1998-10-07,England,,,Defender
+Andrew Crofts,1984-05-29,Wales,,175.0,Midfielder
+Jordan Davies,1998-08-18,Wales,,,Midfielder
+Anders Lindegaard,1984-04-13,Denmark,,193.0,Goalkeeper
+Adam Legzdins,1986-11-28,England,,190.0,Goalkeeper
+Stephen Ward,1985-08-20,Ireland,,184.0,Defender
+Steven Defour,1988-04-15,Belgium,,173.0,Midfielder
+Peter Crouch,1981-01-30,England,,201.0,Forward
+Daniel Agyei,1997-06-01,England,,183.0,Forward
+Jonathan Walters,1983-09-20,Ireland,,183.0,Forward
+Sam Vokes,1989-10-21,Wales,,186.0,Forward
+Ntumba Massanka,1996-11-30,England,,191.0,Midfielder
+Nahki Wells,1990-06-01,Bermuda,,170.0,Forward
+Aiden O'Neill,1998-07-04,Australia,,178.0,Midfielder
+Joel Senior,1999-06-24,England,,,Defender
+Robert Green,1980-01-18,England,,187.0,Goalkeeper
+Marcin Bulka,1999-10-04,Poland,,199.0,Goalkeeper
+Gonzalo Higuaín,1987-12-10,Argentina,,186.0,Forward
+Abdul Rahman Baba,1994-07-02,Ghana,,180.0,Defender
+Álvaro Morata,1992-10-23,Spain,,190.0,Forward
+Matt Miazga,1995-07-19,United States,,191.0,Defender
+Cesc Fàbregas,1987-05-04,Spain,,180.0,Midfielder
+Tomas Kalas,1993-05-15,Czech Republic,,183.0,Defender
+Iké Ugbo,1998-09-21,Canada,,184.0,Forward
+Lucas Piazon,1994-01-20,Brazil,,182.0,Midfielder
+Kasey Palmer,1996-11-09,Jamaica,,175.0,Midfielder
+Dujon Sterling,1999-10-24,England,,186.0,Midfielder
+Isaiah Brown,1997-01-07,England,,182.0,Forward
+Julian Speroni,1979-05-18,Argentina,,186.0,Goalkeeper
+Lucas Perri,1997-12-10,Brazil,,194.0,Goalkeeper
+Joe Tupper,1997-11-15,England,,,Goalkeeper
+Pape Souaré,1990-06-06,Senegal,,178.0,Defender
+Bakary Sako,1988-04-26,Mali,,183.0,Midfielder
+Luke Dreher,1998-11-27,England,,184.0,Midfielder
+Giovanni McGregor,1999-01-09,England,,,Midfielder
+Sullay Kaikai,1995-08-26,Sierra Leone,,182.0,Midfielder
+Alexander Sørloth,1995-12-05,Norway,,195.0,Forward
+Jonathan Williams,1993-10-09,Wales,,168.0,Midfielder
+Jordon Mutch,1991-12-02,England,,188.0,Midfielder
+Jason David Ian Puncheon,1986-06-18,England,,173.0,Midfielder
+Víctor Camarasa,1994-05-28,Spain,,183.0,Midfielder
+James Daly,2000-01-12,England,,,Forward
+Mateusz Hewelt,1996-09-23,Poland,,186.0,Goalkeeper
+Idrissa Gueye,1989-09-26,Senegal,,174.0,Midfielder
+Morgan Schneiderlin,1989-11-08,France,,181.0,Midfielder
+Jiang Guangtai,1994-05-27,China,,181.0,Defender
+Cuco Martina,1989-09-25,Curacao,,185.0,Defender
+Callum Connolly,1997-09-23,England,,183.0,Defender
+Matthew Pennington,1994-10-06,England,,185.0,Defender
+Joe Williams,1996-12-08,England,,185.0,Midfielder
+Luke Garbutt,1993-05-21,England,,179.0,Defender
+Kevin Mirallas,1987-10-05,Belgium,,182.0,Midfielder
+Henry Onyekuru,1997-06-05,Nigeria,,175.0,Forward
+Shani Tarashaj,1995-02-07,Switzerland,,176.0,Forward
+Oumar Niasse,1990-04-18,Senegal,,182.0,Forward
+Lewis Gibson,2000-07-19,England,,185.0,Defender
+Danny Simpson,1987-01-04,England,,176.0,Defender
+Shinji Okazaki,1986-04-16,Japan,,174.0,Forward
+Yohan Benalouane,1987-03-28,Tunisia,,185.0,Defender
+Vicente Iborra,1988-01-16,Spain,,190.0,Midfielder
+Bartosz Kapustka,1996-12-23,Poland,,179.0,Midfielder
+Leonardo Ulloa,1986-07-26,Argentina,,188.0,Forward
+Andy King,1988-10-29,Wales,,184.0,Midfielder
+Daniel Iversen,1997-07-19,Denmark,,191.0,Goalkeeper
+Callum Elder,1995-01-27,Australia,,180.0,Defender
+Adam Leathers,2001-11-14,England,,,Midfielder
+Will Russ,2002-11-08,Wales,,,Forward
+Viktor Johansson,1998-09-14,Sweden,,186.0,Goalkeeper
+Callum Wright,2000-05-02,England,,,Midfielder
+Terell Pennant,2002-09-14,England,,,Forward
+Layton Ndukwu,1998-09-07,England,,177.0,Forward
+Calvin Bassey,1999-12-31,Nigeria,,185.0,Defender
+Elliott Moore,1997-03-16,England,,,Defender
+Simon Mignolet,1988-03-06,Belgium,,193.0,Goalkeeper
+Alberto Moreno,1992-07-05,Spain,,171.0,Defender
+Isaac Christie-Davies,1997-10-18,Wales,,188.0,Midfielder
+Rafael Camacho,2000-05-22,Portugal,,175.0,Midfielder
+Daniel Sturridge,1989-09-01,England,,188.0,Forward
+Allan,1997-03-03,Brazil,,175.0,Midfielder
+Lazar Markovic,1994-03-02,Serbia,,175.0,Midfielder
+Ragnar Klavan,1985-10-30,Estonia,,187.0,Defender
+Daniel Atherton,1999-12-18,England,,,Goalkeeper
+George Johnston,1998-09-01,Scotland,,181.0,Defender
+Paul Glatzel,2001-02-20,England,,,Midfielder
+Ryan Kent,1996-11-11,England,,172.0,Midfielder
+Bobby Duncan,2001-06-26,England,,,Forward
+Ovie Ejaria,1997-11-18,England,,183.0,Midfielder
+Pedro Chirivella,1997-05-23,Spain,,178.0,Midfielder
+Herbie Kane,1998-11-23,England,,177.0,Midfielder
+Daniel Grimshaw,1998-01-16,England,,185.0,Goalkeeper
+Danilo,1991-07-15,Brazil,,184.0,Defender
+Vincent Kompany,1986-04-10,Belgium,,193.0,Defender
+Eliaquim Mangala,1991-02-13,France,,188.0,Defender
+Philippe Sandler,1997-02-10,Netherlands,,188.0,Defender
+Cameron Humphreys-Grant,1998-08-22,England,,185.0,Defender
+Marlos Moreno,1996-09-20,Colombia,,171.0,Forward
+Brahim Díaz,1999-08-03,Spain,,171.0,Forward
+Jason Denayer,1995-06-28,Belgium,,184.0,Defender
+Daniel Arzani,1999-01-04,Australia,,171.0,Midfielder
+Patrick Roberts,1997-02-05,England,,168.0,Midfielder
+Luke Bolton,1999-10-07,England,,174.0,Midfielder
+Lukas Nmecha,1998-12-14,Germany,,185.0,Forward
+Angeliño,1997-01-04,Spain,,175.0,Defender
+Ben Knight,2002-06-14,England,,,Midfielder
+Iker Pozo,2000-08-06,Spain,,,Midfielder
+Aleix García,1997-06-28,Spain,,173.0,Midfielder
+Nabili Zoubdi Touaizi,2001-02-01,Morocco,,,Forward
+Gavin Bazunu,2002-02-20,Ireland,,189.0,Goalkeeper
+Slobodan Tedic,2000-04-13,Serbia,,190.0,Forward
+Antonio Valencia,1985-08-04,Ecuador,,180.0,Defender
+Matteo Darmian,1989-12-02,Italy,,182.0,Defender
+Ander Herrera,1989-08-14,Spain,,182.0,Midfielder
+Angel Gomes,2000-08-31,England,,161.0,Midfielder
+Joshua Bohui,1999-03-03,England,,180.0,Forward
+Marouane Fellaini,1987-11-22,Belgium,,194.0,Midfielder
+Ethan Hamilton,1998-10-18,Scotland,,187.0,Forward
+Kieran O'Hara,1996-04-22,Ireland,,191.0,Goalkeeper
+Joel Pereira,1996-06-28,Portugal,,188.0,Goalkeeper
+Largie Ramazani,2001-02-27,Belgium,,167.0,Forward
+Nathan Harker,1998-11-05,England,,,Goalkeeper
+Freddie Woodman,1997-03-04,England,,188.0,Goalkeeper
+Antonio Barreca,1995-03-18,Italy,,180.0,Defender
+Ki Sung-Yeung,1989-01-24,South Korea,,189.0,Midfielder
+Mohamed Diamé,1987-06-14,Senegal,,184.0,Midfielder
+Kelland Watts,1999-11-03,England,,,Midfielder
+Joselu,1990-03-27,Spain,,192.0,Forward
+Callum Roberts,1997-04-14,England,,,Midfielder
+Jack Colback,1989-10-24,England,,177.0,Midfielder
+Rolando Aarons,1995-11-16,England,,178.0,Midfielder
+Achraf Lazaar,1992-01-22,Morocco,,184.0,Defender
+Jamie Sterry,1995-11-21,England,,180.0,Defender
+Owen Bailey,1999-01-22,England,,,Midfielder
+Jetro Willems,1994-03-30,Netherlands,,169.0,Defender
+Liam Gibson,1997-04-25,England,,185.0,Defender
+Peter Keen,1976-11-16,England,,183.0,Goalkeeper
+Aston Oxborough,1998-05-09,England,,,Goalkeeper
+Ivo Pinto,1990-01-07,Portugal,,182.0,Defender
+Timm Klose,1988-05-09,Switzerland,,193.0,Defender
+Felix Passlack,1998-05-29,Germany,,170.0,Defender
+Philip Heise,1991-06-20,Germany,,184.0,Defender
+Timi Odusina,1999-10-28,England,,,Defender
+Mario Vrancic,1989-05-23,Bosnia & Herzegovina,,187.0,Midfielder
+Moritz Leitner,1992-12-08,Germany,,174.0,Midfielder
+Marco Stiepermann,1991-02-09,Germany,,190.0,Midfielder
+Tom Trybull,1993-03-09,Germany,,181.0,Midfielder
+Onel Hernández,1993-02-01,Cuba,,172.0,Midfielder
+Alexander Tettey,1986-04-04,Norway,,180.0,Midfielder
+Louis Thompson,1994-12-19,Wales,,180.0,Midfielder
+Todd Cantwell,1998-02-27,England,,177.0,Midfielder
+Alfie Payne,1999-10-07,England,,,Midfielder
+Jordan Rhodes,1990-02-05,Scotland,,185.0,Forward
+Dennis Srbeny,1994-05-05,Germany,,189.0,Forward
+Marcel Franke,1993-04-05,Germany,,193.0,Defender
+Sean Raggett,1993-04-17,England,,181.0,Defender
+Josip Drmic,1992-08-08,Switzerland,,183.0,Forward
+James Husband,1994-01-03,England,,179.0,Defender
+Ben Marshall,1991-03-29,England,,183.0,Midfielder
+Nélson Oliveira,1991-08-08,Portugal,,186.0,Forward
+Yanic-Sonny Wildschut,1991-11-01,Suriname,,187.0,Forward
+Ralf Fährmann,1988-09-27,Germany,,197.0,Goalkeeper
+Ibrahim Amadou,1993-04-06,France,,183.0,Midfielder
+Archie Mair,2001-02-10,Scotland,,198.0,Goalkeeper
+Akin Famewo,1998-11-09,England,,187.0,Defender
+Rocky Bushiri,1999-11-30,Belgium,,186.0,Defender
+Ondrej Duda,1994-12-05,Slovakia,,181.0,Midfielder
+Josh Martin,2001-09-09,England,,,Midfielder
+Sam McCallum,2000-09-02,England,,,Defender
+Melvin Sitti,2000-02-14,France,,182.0,Midfielder
+Mason Bloomfield,1996-11-04,England,,191.0,Forward
+Jordan Thomas,2001-01-02,England,,,Defender
+Daniel Adshead,2001-09-02,England,,167.0,Midfielder
+Jake Wright,1986-03-11,England,,186.0,Defender
+Richard Stearman,1987-08-19,England,,191.0,Defender
+Martin Cranie,1986-09-26,England,,183.0,Defender
+Paul Coutts,1988-07-22,Scotland,,183.0,Midfielder
+Mark Duffy,1985-10-07,England,,175.0,Midfielder
+Marvin Johnson,1990-12-01,England,,178.0,Midfielder
+Gary Madine,1990-08-24,England,,193.0,Forward
+Conor Washington,1992-05-18,Northern Ireland,,178.0,Forward
+Ben Heneghan,1993-09-19,England,,191.0,Defender
+Daniel Lafferty,1989-05-18,Northern Ireland,,180.0,Defender
+Nathan Thomas,1994-09-27,England,,178.0,Midfielder
+Ricky Holmes,1987-06-19,England,,173.0,Midfielder
+Samir Carruthers,1993-04-04,Ireland,,173.0,Midfielder
+Tyler Smith,1998-12-04,England,,178.0,Forward
+Caolan Lavery,1992-10-22,Northern Ireland,,180.0,Forward
+Ched Evans,1988-12-28,Wales,,183.0,Forward
+Ravel Morrison,1993-02-02,Jamaica,,175.0,Midfielder
+David Parkhouse,1999-10-24,Northern Ireland,,,Forward
+Panagiotis Retsos,1998-08-09,Greece,,186.0,Defender
+Josh Sims,1997-03-28,England,,174.0,Midfielder
+Tyreke Johnson,1998-11-03,England,,185.0,Midfielder
+Callum Slattery,1999-02-08,England,,175.0,Midfielder
+Sam Gallagher,1995-09-15,England,,194.0,Forward
+Marcus Barnes,1996-12-01,England,,185.0,Forward
+Manolo Gabbiadini,1991-11-26,Italy,,181.0,Forward
+Steven Davis,1985-01-01,Northern Ireland,,173.0,Midfielder
+Sam McQueen,1995-02-06,England,,180.0,Defender
+Jake Flannigan,1996-02-02,England,,180.0,Midfielder
+Jake Hesketh,1996-03-27,England,,168.0,Midfielder
+Jordy Clasie,1991-06-27,Netherlands,,169.0,Midfielder
+Jack Bycroft,2001-09-21,England,,,Goalkeeper
+Oludare Olufunwa,2001-07-29,England,,,Defender
+Thomas O'Connor,1999-04-21,Ireland,,,Defender
+Aaron O'Driscoll,1999-04-04,Ireland,,188.0,Defender
+Christoph Klarer,2000-06-14,Austria,,191.0,Midfielder
+Kornelius Normann Hansen,2001-05-06,Norway,,175.0,Midfielder
+Michael Stensgaard,1974-09-01,Denmark,,188.0,Goalkeeper
+Timothy Eyoma,2000-01-29,England,,183.0,Defender
+Victor Wanyama,1991-06-25,Kenya,,188.0,Midfielder
+Luke Amos,1997-02-23,England,,179.0,Midfielder
+Vincent Janssen,1994-06-15,Netherlands,,180.0,Forward
+Fernando Llorente,1985-02-26,Spain,,193.0,Forward
+Kazaiah Sterling,1998-11-09,England,,175.0,Forward
+Georges-Kévin Nkoudou,1995-02-13,France,,172.0,Midfielder
+Mousa Dembélé,1987-07-16,Belgium,,185.0,Midfielder
+Jonathan De Bie,2000-05-28,Belgium,,,Goalkeeper
+Anthony Georgiou,1997-02-24,Cyprus,,179.0,Midfielder
+Jack Roles,1999-02-26,Cyprus,,,Midfielder
+Heurelho Gomes,1981-02-15,Brazil,,191.0,Goalkeeper
+Pontus Dahlberg,1999-01-21,Sweden,,194.0,Goalkeeper
+Daryl Janmaat,1989-07-22,Netherlands,,185.0,Defender
+Miguel Britos,1985-07-17,Uruguay,,188.0,Defender
+Sebastian Prödl,1987-06-21,Austria,,194.0,Defender
+Adrian Mariappa,1986-10-03,Jamaica,,180.0,Defender
+Marc Navarro,1995-07-02,Spain,,188.0,Defender
+José Holebas,1984-06-27,Greece,,184.0,Defender
+Nathaniel Chalobah,1994-12-12,England,,187.0,Midfielder
+Domingos Quina,1999-11-18,Portugal,,179.0,Midfielder
+Etienne Capoue,1988-07-11,France,,189.0,Midfielder
+Roberto Pereyra,1991-01-07,Argentina,,182.0,Midfielder
+Gerard Deulofeu,1994-03-13,Spain,,177.0,Forward
+Troy Deeney,1988-06-29,England,,183.0,Forward
+Isaac Success,1996-01-07,Nigeria,,186.0,Forward
+Adalberto Peñaranda,1997-05-31,Venezuela,,185.0,Forward
+Andre Gray,1991-06-26,Jamaica,,178.0,Forward
+Marvin Zeegelaar,1990-08-12,Netherlands,,186.0,Defender
+Younes Kaboul,1986-01-04,France,,193.0,Defender
+Dimitri Foulquier,1993-03-23,Guadeloupe,,183.0,Defender
+Ben Wilmot,1999-11-04,England,,188.0,Defender
+Dodi Lukébakio,1997-09-24,Belgium,,187.0,Midfielder
+Stefano Okaka,1989-08-09,Italy,,186.0,Forward
+Kane Crichlow,2000-08-21,Bermuda,,,Midfielder
+Harry Forster,2000-05-11,England,,,Midfielder
+Tom Dele-Bashiru,1999-09-17,Nigeria,,183.0,Midfielder
+Sam Dalby,1999-12-07,England,,,Forward
+Adam Parkes,1999-11-30,England,,,Goalkeeper
+Mason Barrett,1999-09-24,England,,,Defender
+Bayli Spencer-Adams,2001-06-26,England,,,Defender
+Callum Whelan,1998-09-24,England,,,Midfielder
+Joseph Hungbo,2000-01-15,England,,,Midfielder
+Kaylen Hinds,1998-01-28,England,,179.0,Forward
+Henry Wise,2000-01-01,England,,174.0,Midfielder
+Jayden Bennetts,2001-06-26,England,,,Midfielder
+Jamal Balogun,2000-01-18,England,,,Defender
+Andi Janjeva,2002-10-11,Kosovo,,,Defender
+Jerome Sinclair,1996-09-20,England,,173.0,Forward
+Winston Reid,1988-07-03,New Zealand,,190.0,Defender
+Pablo Zabaleta,1985-01-16,Argentina,,176.0,Defender
+Pedro Obiang,1992-03-27,Equatorial Guinea,,185.0,Midfielder
+Carlos Sánchez,1986-02-06,Colombia,,182.0,Midfielder
+Samir Nasri,1987-06-26,France,,175.0,Midfielder
+Marko Arnautovic,1989-04-19,Austria,,192.0,Forward
+Chicharito,1988-06-01,Mexico,,175.0,Forward
+Lucas Pérez,1988-09-10,Spain,,180.0,Forward
+Reece Oxford,1998-12-16,England,,193.0,Defender
+Joe Powell,1998-10-30,England,,178.0,Midfielder
+Sead Haksabanovic,1999-05-04,Montenegro,,173.0,Midfielder
+Edimilson Fernandes,1996-04-15,Switzerland,,187.0,Midfielder
+Toni Martínez,1997-06-30,Spain,,180.0,Forward
+Jordan Hugill,1992-06-04,England,,183.0,Forward
+Daniel Kemp,1999-01-11,England,,,Midfielder
+Elliot Watt,2000-03-11,Scotland,,175.0,Midfielder
+Pote,1998-06-28,Portugal,,173.0,Midfielder
+Niall Ennis,1999-05-20,England,,180.0,Forward
+Joe Mason,1991-05-13,England,,178.0,Forward
+Léo Bonatini,1994-03-28,Brazil,,185.0,Forward
+Danny Batth,1990-09-21,England,,191.0,Defender
+Benny Ashley-Seal,1998-11-21,England,,,Forward
+Paul Gladon,1992-03-18,Netherlands,,188.0,Forward
+Bright Enobakhare,1998-02-08,Nigeria,,178.0,Forward
+Benik Afobe,1993-02-12,DR Congo,,183.0,Forward
+Roderick Miranda,1991-03-30,Portugal,,191.0,Defender
+Rafa Mir,1997-06-18,Spain,,191.0,Forward
+Dion Sanderson,1999-12-15,England,,,Defender
+Ed Francis,1999-09-11,England,,182.0,Defender
+Nathaniel Shio Hong Wan,2000-08-17,England,,,Midfielder
+Jesús Vallejo,1997-01-05,Spain,,184.0,Defender
+Renat Dadashov,1999-05-17,Azerbaijan,,186.0,Forward
+Flávio Cristóvão,1997-05-23,Portugal,,185.0,Defender
+Luke Matheson,2002-10-02,England,,,Defender
+Dejan Iliev,1995-02-25,North Macedonia,,195.0,Goalkeeper
+Per Mertesacker,1984-09-29,Germany,,198.0,Defender
+Jordi Osei-Tutu,1998-10-02,England,,176.0,Defender
+Santi Cazorla,1984-12-13,Spain,,168.0,Midfielder
+Vlad Dragomir,1999-04-24,Romania,,178.0,Midfielder
+Charlie Gilmour,1999-02-11,Scotland,,171.0,Midfielder
+Jeff Reine-Adélaïde,1998-01-17,France,,183.0,Midfielder
+Chuba Akpom,1995-10-09,England,,183.0,Forward
+Adam Federici,1985-01-31,Australia,,188.0,Goalkeeper
+Brad Smith,1994-04-09,Australia,,178.0,Defender
+Emerson Hyndman,1996-04-09,United States,,170.0,Midfielder
+Mikael Ndjoli,1998-12-16,England,,183.0,Forward
+Rhoys Wiggins,1987-11-04,Wales,,173.0,Defender
+Baily Cargill,1995-07-05,England,,189.0,Defender
+Shaun Hobson,1998-06-29,England,,,Defender
+Lewis Grabban,1988-01-12,England,,183.0,Forward
+Ben Whitfield,1996-02-28,England,,165.0,Midfielder
+Niki Mäenpää,1985-01-23,Finland,,190.0,Goalkeeper
+Uwe Hünemeier,1986-01-09,Germany,,189.0,Defender
+Connor Goldson,1992-12-18,England,,191.0,Defender
+Liam Rosenior,1984-07-09,England,,178.0,Defender
+Jiri Skalak,1992-03-12,Czech Republic,,177.0,Midfielder
+Steve Sidwell,1982-12-14,England,,178.0,Midfielder
+Des Hutchinson,1996-12-05,Ireland,,,Midfielder
+Sam Baldock,1989-03-15,England,,170.0,Forward
+Rohan Ince,1992-11-08,England,,191.0,Midfielder
+Richard Towell,1991-07-17,Ireland,,173.0,Forward
+Dean Marney,1984-01-31,England,,183.0,Midfielder
+Neil Etheridge,1990-02-07,Philippines,,188.0,Goalkeeper
+Brian Murphy,1983-05-07,Ireland,,183.0,Goalkeeper
+Joe Bennett,1990-03-28,England,,183.0,Defender
+Sean Morrison,1991-01-08,England,,193.0,Defender
+Bruno Ecuele Manga,1988-07-16,Gabon,,186.0,Defender
+Jazz Richards,1991-04-12,Wales,,185.0,Defender
+Sol Bamba,1985-01-13,Cote D’Ivoire,,190.0,Defender
+Gregory Halford,1984-12-08,England,,193.0,Defender
+Matthew Connolly,1987-09-24,England,,188.0,Defender
+Callum Paterson,1994-10-13,Scotland,,183.0,Forward
+Armand Traore,1989-10-08,Senegal,,185.0,Defender
+Cameron Coxe,1998-12-18,Wales,,185.0,Defender
+Joe Ralls,1993-10-12,England,,183.0,Midfielder
+Kadeem Harris,1993-06-08,England,,175.0,Midfielder
+Liam Feeney,1986-04-28,England,,183.0,Midfielder
+Anthony Pilkington,1988-06-06,Ireland,,180.0,Midfielder
+Aron Gunnarsson,1989-04-22,Iceland,,178.0,Midfielder
+Loïc Damour,1991-01-08,France,,180.0,Midfielder
+Craig Bryson,1986-11-06,Scotland,,170.0,Midfielder
+Jamie Ward,1986-05-12,Northern Ireland,,165.0,Midfielder
+Mark Harris,1998-12-29,Wales,,182.0,Midfielder
+Danny Ward,1991-12-11,England,,178.0,Forward
+Nathaniel Mendez-Laing,1992-04-15,England,,180.0,Midfielder
+Frédéric Gounongbe,1988-05-01,Benin,,191.0,Forward
+Ibrahim Meite,1996-07-29,England,,188.0,Forward
+Junior Hoilett,1990-06-05,Canada,,173.0,Midfielder
+Allan McGregor,1982-01-31,Scotland,,183.0,Goalkeeper
+Greg Cunningham,1991-01-31,Ireland,,183.0,Defender
+Josh Murphy,1995-02-24,England,,173.0,Midfielder
+Alex Smithies,1990-03-05,England,,185.0,Goalkeeper
+Lee Camp,1984-08-22,Northern Ireland,,183.0,Goalkeeper
+Declan John,1995-06-30,Wales,,178.0,Defender
+Stuart O'Keefe,1991-03-04,England,,173.0,Midfielder
+Matthew Kennedy,1994-11-01,Northern Ireland,,175.0,Midfielder
+Rhys Healey,1994-12-06,England,,180.0,Forward
+Ciaron Brown,1998-01-14,Northern Ireland,,185.0,Defender
+Lloyd Humphries,1997-10-03,Wales,,,Midfielder
+Leandro Bacuna,1991-08-21,Curacao,,187.0,Midfielder
+Emiliano Sala,1990-10-31,Argentina,,187.0,Forward
+Jack Bodenham,1999-09-29,Wales,,,Defender
+Lee Tomlin,1989-01-12,England,,180.0,Forward
+Omar Bogle,1992-07-26,England,,187.0,Forward
+Thibaut Courtois,1992-05-11,Belgium,,199.0,Goalkeeper
+Eduardo,1982-09-19,Portugal,,187.0,Goalkeeper
+Kyle Scott,1997-12-22,United States,,172.0,Midfielder
+Eden Hazard,1991-01-07,Belgium,,175.0,Forward
+Cristián Cuevas,1995-04-02,Chile,,173.0,Defender
+Jérémie Boga,1997-01-03,Cote D’Ivoire,,172.0,Midfielder
+Charly Musonda,1996-10-15,Belgium,,173.0,Midfielder
+Jared Thompson,1999-02-23,Northern Ireland,,,Goalkeeper
+Bradley Collins,1997-02-18,England,,184.0,Goalkeeper
+Diego Cavalieri,1982-12-01,Brazil,,189.0,Goalkeeper
+Dion Henry,1997-09-12,England,,180.0,Goalkeeper
+Damien Delaney,1981-07-20,Ireland,,191.0,Defender
+Yohan Cabaye,1986-01-14,France,,174.0,Midfielder
+Lee Chung-Yong,1988-07-02,South Korea,,180.0,Midfielder
+Jason Lokilo,1998-09-17,DR Congo,,175.0,Midfielder
+Erdal Rakip,1996-02-13,North Macedonia,,180.0,Midfielder
+Levi Lumeka,1998-09-05,England,,170.0,Forward
+Joel Robles,1990-06-17,Spain,,195.0,Goalkeeper
+Ashley Williams,1984-08-23,Wales,,183.0,Defender
+Ramiro Mori,1991-03-05,Argentina,,186.0,Defender
+Morgan Feeney,1999-02-08,England,,190.0,Defender
+Michael Collins,2000-09-22,England,,,Defender
+Davy Klaassen,1993-02-21,Netherlands,,179.0,Midfielder
+Alex Denny,2000-04-12,England,,186.0,Midfielder
+Fraser Hornby,1999-09-13,Scotland,,195.0,Midfielder
+Shayne Lavery,1998-12-08,Northern Ireland,,,Forward
+Stephen Duke-McKenna,2000-08-17,Guyana,,,Midfielder
+Marcelo Djaló,1993-10-08,Guinea-Bissau,,193.0,Defender
+Tayo Edun,1998-05-14,England,,170.0,Midfielder
+Ibrahima Cissé,1994-02-28,Guinea,,184.0,Midfielder
+Rui Fonte,1990-04-23,Portugal,,179.0,Forward
+Floyd Ayité,1988-12-15,Togo,,175.0,Forward
+Mattias Käit,1998-06-29,Estonia,,186.0,Midfielder
+Cauley Woodrow,1994-12-02,England,,184.0,Forward
+Marlon Fossey,1998-09-09,United States,,180.0,Defender
+Moritz Jenz,1999-04-30,Germany,,190.0,Defender
+Jon Thorsteinsson,1998-11-26,Iceland,,177.0,Midfielder
+Taye Ashby-Hammond,1999-03-21,England,,186.0,Goalkeeper
+André Schürrle,1990-11-06,Germany,,184.0,Midfielder
+Sergio Rico,1993-09-01,Spain,,195.0,Goalkeeper
+Luciano Vietto,1993-12-05,Argentina,,174.0,Forward
+Ryan Babel,1986-12-19,Netherlands,,185.0,Midfielder
+Håvard Nordtveit,1990-06-21,Norway,,188.0,Defender
+Joel Coleman,1995-09-26,England,,198.0,Goalkeeper
+Tommy Smith,1992-04-14,England,,186.0,Defender
+Scott Malone,1991-03-25,England,,189.0,Defender
+Chris Löwe,1989-04-16,Germany,,175.0,Defender
+Christopher Schindler,1990-04-29,Germany,,188.0,Defender
+Jon Stankovic,1996-01-14,Slovenia,,190.0,Defender
+Florent Hadergjonaj,1994-07-31,Kosovo,,182.0,Defender
+Jordan Williams,1999-10-22,England,,179.0,Defender
+Michael Hefele,1990-09-01,Germany,,192.0,Defender
+Dean Whitehead,1982-01-12,England,,180.0,Midfielder
+Jonathan Hogg,1988-12-06,England,,170.0,Midfielder
+Sean Scannell,1990-09-17,Ireland,,176.0,Midfielder
+Abdelhamid Sabiri,1996-11-28,Germany,,186.0,Midfielder
+Rajiv van La Parra,1991-06-04,Netherlands,,181.0,Midfielder
+Danny Williams,1989-03-08,United States,,182.0,Midfielder
+Alex Pritchard,1993-05-03,England,,171.0,Midfielder
+Tom Ince,1992-01-30,England,,178.0,Midfielder
+Lewis O'Brien,1998-10-14,England,,173.0,Midfielder
+Elias Kachunga,1992-04-22,DR Congo,,178.0,Forward
+Laurent Depoitre,1988-12-07,Belgium,,191.0,Forward
+Collin Quaner,1991-06-18,Germany,,191.0,Forward
+Steve Mounié,1994-09-29,Benin,,190.0,Forward
+Ramadan Sobhi,1997-01-23,Egypt,,189.0,Midfielder
+Ben Hamer,1987-11-20,England,,192.0,Goalkeeper
+Juninho Bacuna,1997-08-07,Curacao,,178.0,Midfielder
+Tareiq Holmes-Dennis,1995-10-31,England,,175.0,Defender
+Jack Payne,1994-10-25,England,,165.0,Midfielder
+Jordy Hiwula-Mayifuila,1994-09-21,England,,178.0,Forward
+Ryan Schofield,1999-12-11,England,,190.0,Goalkeeper
+Erik Durm,1992-05-12,Germany,,182.0,Defender
+Adama Diakhaby,1996-07-05,France,,184.0,Forward
+Rarmani Edmonds-Green,1999-01-14,England,,,Defender
+Samuel Sharrock-Peplow,2002-07-14,England,,,Midfielder
+Isaac Mbenza,1996-03-08,Belgium,,187.0,Midfielder
+Demeaco Duhaney,1998-10-13,England,,180.0,Defender
+Matty Daly,2001-03-10,England,,,Midfielder
+Aaron Rowe,2000-09-07,England,,,Midfielder
+Ben Jackson,2001-02-22,England,,,Defender
+Robert Huth,1984-08-18,Germany,,191.0,Defender
+Aleksandar Dragovic,1991-03-06,Austria,,186.0,Defender
+Sam Hughes,1997-04-15,England,,,Defender
+Ahmed Musa,1992-10-14,Nigeria,,171.0,Forward
+Josh Gordon,1994-10-10,England,,178.0,Forward
+Connor Barrett,2002-03-01,England,,,Midfielder
+Ádám Bogdán,1987-09-27,Hungary,,193.0,Goalkeeper
+Conor Masterson,1998-09-08,Ireland,,,Defender
+Emre Can,1994-01-12,Germany,,186.0,Midfielder
+Paulo Alves,1997-12-25,Portugal,,176.0,Midfielder
+Jon Flanagan,1993-01-01,England,,181.0,Defender
+Pablo Maffeo,1997-07-12,Spain,,172.0,Defender
+Yaya Touré,1983-05-13,Cote D’Ivoire,,188.0,Midfielder
+Olarenwaju Kayode,1993-05-08,Nigeria,,176.0,Forward
+Tyreke Wilson,1999-12-02,Ireland,,,Defender
+Nathanael Ogbeta,2001-04-28,England,,,Defender
+Benjamín Garré,2000-07-11,Argentina,,172.0,Midfielder
+Rabbi Matondo,2000-09-09,Wales,,175.0,Forward
+Daley Blind,1990-03-09,Netherlands,,180.0,Defender
+Michael Carrick,1981-07-28,England,,188.0,Midfielder
+Demetri Mitchell,1997-01-11,England,,181.0,Defender
+Ro-Shaun Williams,1998-09-03,England,,188.0,Defender
+Chancel Mbemba,1994-08-08,DR Congo,,182.0,Defender
+Massadio Haïdara,1992-12-02,Mali,,179.0,Defender
+Jesús Gámez,1985-04-10,Spain,,177.0,Defender
+Mikel Merino,1996-06-22,Spain,,188.0,Midfielder
+Matz Sels,1992-02-26,Belgium,,191.0,Goalkeeper
+Stuart Taylor,1980-11-28,England,,198.0,Goalkeeper
+Jérémy Pied,1989-02-23,France,,174.0,Defender
+Dusan Tadic,1988-11-20,Serbia,,181.0,Midfielder
+Alfie Jones,1997-10-07,England,,191.0,Defender
+Tashan Oakley-Boothe,2000-02-14,England,,182.0,Midfielder
+Anton Walkes,1997-02-08,England,,187.0,Defender
+Jonathan Dinzeyi,1999-10-13,England,,,Defender
+Shilow Tracey,1998-04-29,England,,179.0,Midfielder
+Orestis Karnezis,1985-07-11,Greece,,189.0,Goalkeeper
+Joy Mukena,1999-07-03,England,,,Defender
+Didier Ndong,1994-06-17,Gabon,,179.0,Midfielder
+André Carrillo,1991-06-14,Peru,,182.0,Midfielder
+Costel Pantilimon,1987-02-01,Romania,,203.0,Goalkeeper
+Brice Dja Djédjé,1990-12-23,Cote D’Ivoire,,170.0,Defender
+Brandon Mason,1997-09-30,England,,173.0,Defender
+Mauro Zárate,1987-03-18,Argentina,,176.0,Forward
+Michael Folivi,1998-02-25,England,,180.0,Forward
+James Collins,1983-08-23,Wales,,188.0,Defender
+Patrice Evra,1981-05-15,France,,174.0,Defender
+Josh Pask,1997-11-01,England,,187.0,Defender
+Vashon Neufville,1999-07-18,England,,173.0,Defender
+João Mário,1993-01-19,Portugal,,179.0,Midfielder
+Reece Burke,1996-09-02,England,,189.0,Defender
+Martin Samuelsen,1997-04-17,Norway,,189.0,Midfielder
+Moses Makasi,1995-09-22,England,,,Midfielder
+Carl Ikeme,1986-06-08,Nigeria,,188.0,Goalkeeper
+Harry Burgoyne,1996-12-28,England,,195.0,Goalkeeper
+Phil Ofosu-Ayeh,1991-09-15,Ghana,,181.0,Defender
+Alfred N'Diaye,1990-03-06,Senegal,,193.0,Midfielder
+Jordan Graham,1995-03-05,England,,182.0,Midfielder
+Sylvain Deslandes,1997-04-25,France,,178.0,Defender
+Connor Johnson,1998-03-10,England,,,Defender
+Ben Stevenson,1997-03-23,England,,183.0,Midfielder
+Connor Ronan,1998-03-06,Ireland,,178.0,Midfielder
+Daniel Armstrong,1997-10-11,Scotland,,175.0,Midfielder
+Michal Zyro,1992-09-20,Poland,,187.0,Forward
+Donovan Wilson,1997-03-14,England,,180.0,Forward
+Prince Alban Oniangué,1988-11-04,Congo,,190.0,Midfielder
+Cameron John,1999-08-24,England,,,Defender
+Pedro Pereira,1998-06-28,Portugal,,173.0,Midfielder
+Ethan Ebanks-Landell,1992-12-16,England,,188.0,Defender
+Aaron Ramsey,2003-01-21,England,,,Midfielder
+Ryan Alebiosu,2001-12-17,England,,,Defender
+Jaime Alvarado,1999-07-26,Colombia,,179.0,Midfielder
+Julián Álvarez,2000-01-31,Argentina,,173.0,Forward
+Joseph Anderson,2001-02-06,England,,,Defender
+Yaser Asprilla,2003-11-19,Colombia,,185.0,Midfielder
+Ellery Balcombe,1999-10-15,England,,190.0,Goalkeeper
+Daniel Barden,2001-01-02,Wales,,195.0,Goalkeeper
+Mads Bidstrup,2001-02-25,Denmark,,175.0,Midfielder
+Bendeguz Bolla,1999-11-22,Hungary,,,Defender
+Finley Burns,2003-06-17,England,,,Defender
+Caleb Chukwuemeka,2002-01-25,England,,,Forward
+Shea Charles,2003-11-05,Northern Ireland,,,Defender
+Harry Clarke,2001-03-02,England,,,Defender
+Jake Clarke-Salter,1997-09-22,England,,188.0,Defender
+Kamil Conteh,2002-12-26,England,,177.0,Midfielder
+Henrik Dalsgaard,1989-07-27,Denmark,,192.0,Defender
+Luke Daniels,1988-01-05,England,,185.0,Goalkeeper
+Halil Dervisoglu,1999-12-08,Turkey,,183.0,Forward
+Thomas Dickson-Peters,2002-09-16,Scotland,,,Forward
+Emiliano Marcondes,1995-03-09,Denmark,,182.0,Midfielder
+Ashley Fletcher,1995-10-02,England,,185.0,Forward
+Marcus Forss,1999-06-18,Finland,,182.0,Forward
+Bryan Gil,2001-02-11,Spain,,175.0,Forward
+Alex Gilbert,2001-12-28,Ireland,,,Forward
+Charlie Goode,1995-08-03,England,,196.0,Defender
+Micah Hamilton,2003-11-13,England,,,Midfielder
+Jack Henry-Francis,2003-09-23,Ireland,,,Midfielder
+Joe Hugill,2003-10-19,England,,,Forward
+Mackenzie Hunt,2001-11-14,England,,,Midfielder
+Einar Iversen,2001-06-06,Norway,,,Midfielder
+Jeong Sang-Bin,2002-04-01,South Korea,,173.0,Forward
+Hayao Kawabe,1995-09-08,Japan,,178.0,Midfielder
+Kacper Kozlowski,2003-10-16,Poland,,177.0,Midfielder
+Malachi Boateng,2002-07-05,England,,,Midfielder
+Filip Marschall,2003-04-24,England,,,Goalkeeper
+Reece McAlear,2002-02-12,Scotland,,185.0,Midfielder
+Kasey McAteer,2001-11-22,England,,,Midfielder
+Kaoru Mitoma,1997-05-20,Japan,,178.0,Forward
+Jacob Montes,1998-10-20,United States,,,Midfielder
+Louie Moulden,2002-01-06,England,,,Goalkeeper
+Bali Mumba,2001-10-01,England,,,Defender
+Kane O'Connor,2001-01-17,Scotland,,,Defender
+Maduka Okoye,1999-08-28,Nigeria,,197.0,Goalkeeper
+Jaakko Oksanen,2000-11-07,Finland,,,Midfielder
+Josh Oluwayemi,2001-03-13,England,,,Goalkeeper
+Pape Sarr,2002-09-14,Senegal,,185.0,Midfielder
+Stipe Perica,1995-07-07,Croatia,,192.0,Forward
+Luke Plange,2002-11-04,England,,178.0,Forward
+Maurizio Pochettino,2001-03-30,Spain,,,Midfielder
+Matthew Pollock,2001-09-28,England,,,Defender
+Aaron Pressley,2001-11-07,Scotland,,189.0,Forward
+Xavi Quintillá,1996-08-23,Spain,,183.0,Defender
+Luka Racic,1999-05-08,Denmark,,,Defender
+Omar Rekik,2001-12-20,Tunisia,,186.0,Defender
+Morgan Rogers,2002-07-26,England,,,Forward
+Nathan Shepperd,2000-09-10,Wales,,,Goalkeeper
+Abdallah Sima,2001-06-17,Senegal,,,Forward
+Danel Sinani,1997-04-05,Luxembourg,,185.0,Midfielder
+Tom Smith,2002-01-30,England,,,Goalkeeper
+Sebastian Soto,2000-07-28,United States,,183.0,Forward
+Kamal Sowah,2000-01-09,Ghana,,179.0,Midfielder
+Toby Stevenson,1999-11-22,England,,,Defender
+Robert Street,2001-09-26,England,,,Forward
+Auston Trusty,1998-08-12,United States,,191.0,Defender
+Ozan Tufan,1995-03-23,Turkey,,179.0,Midfielder
+Deniz Undav,1996-07-19,Germany,,179.0,Forward
+Joel Valencia,1994-11-16,Ecuador,,164.0,Forward
+Mikki van Sas,2004-02-29,Netherlands,,,Goalkeeper
+Yan Couto,2002-06-03,Brazil,,169.0,Defender
+Philip Zinckernagel,1994-12-16,Denmark,,175.0,Forward

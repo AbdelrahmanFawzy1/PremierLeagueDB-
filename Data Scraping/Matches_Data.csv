@@ -1,0 +1,1446 @@
+Game_Season,Home_ClubName,Away_ClubName,MatchDate,Home_Goals,Home_Possession %,Home_YellowCards,Home_RedCards,Home_Fouls,Home_Shots,Away_Goals,Away_Possession %,Away_YellowCards,Away_RedCards,Away_Fouls,Away_Shots
+2021/22,Everton,Manchester United,2022-04-09,1,32.4,2,0,4,7,0,67.6,2,0,10,12
+2021/22,Arsenal,Brighton and Hove Albion,2022-04-09,1,64.6,3,0,12,20,2,35.4,4,0,19,8
+2021/22,Southampton,Chelsea,2022-04-09,0,29.0,1,0,11,4,6,71.0,0,0,10,24
+2021/22,Watford,Leeds United,2022-04-09,0,48.2,2,0,8,8,3,51.8,0,0,12,10
+2021/22,Aston Villa,Tottenham Hotspur,2022-04-09,0,51.5,2,0,12,19,4,48.5,3,0,14,11
+2021/22,Newcastle United,Wolverhampton Wanderers,2022-04-08,1,41.1,1,0,6,12,0,58.9,1,0,13,5
+2021/22,Burnley,Everton,2022-04-06,3,50.9,2,0,11,13,2,49.1,2,0,16,16
+2021/22,Crystal Palace,Arsenal,2022-04-04,3,31.4,0,0,11,6,0,68.6,2,0,15,12
+2021/22,West Ham United,Everton,2022-04-03,2,55.7,1,0,9,11,1,44.3,2,1,12,13
+2021/22,Tottenham Hotspur,Newcastle United,2022-04-03,5,60.8,2,0,10,19,1,39.2,3,0,7,8
+2021/22,Liverpool,Watford,2022-04-02,2,73.1,1,0,9,20,0,26.9,1,0,8,5
+2021/22,Brighton and Hove Albion,Norwich City,2022-04-02,0,63.0,1,0,12,31,0,37.0,1,0,11,6
+2021/22,Burnley,Manchester City,2022-04-02,0,23.3,1,0,11,3,2,76.7,0,0,6,18
+2021/22,Chelsea,Brentford,2022-04-02,1,70.6,0,0,11,21,4,29.4,0,0,7,17
+2021/22,Leeds United,Southampton,2022-04-02,1,55.8,1,0,14,12,1,44.2,1,0,7,14
+2021/22,Wolverhampton Wanderers,Aston Villa,2022-04-02,2,48.3,4,0,15,11,1,51.7,3,0,8,15
+2021/22,Manchester United,Leicester City,2022-04-02,1,53.9,2,0,13,11,1,46.1,2,0,6,11
+2021/22,Leicester City,Brentford,2022-03-20,2,52.8,1,0,10,12,1,47.2,2,0,10,15
+2021/22,Tottenham Hotspur,West Ham United,2022-03-20,3,52.7,0,0,7,17,1,47.3,1,0,7,6
+2021/22,Aston Villa,Arsenal,2022-03-19,0,47.0,3,0,13,8,1,53.0,3,0,14,10
+2021/22,Wolverhampton Wanderers,Leeds United,2022-03-18,2,47.8,1,1,13,14,3,52.2,5,0,14,15
+2021/22,Everton,Newcastle United,2022-03-17,1,38.3,2,1,13,9,0,61.7,1,0,11,17
+2021/22,Brighton and Hove Albion,Tottenham Hotspur,2022-03-16,0,48.2,2,0,11,15,2,51.8,2,0,9,17
+2021/22,Arsenal,Liverpool,2022-03-16,0,48.4,0,0,9,9,2,51.6,1,0,9,9
+2021/22,Crystal Palace,Manchester City,2022-03-14,0,26.2,3,0,6,7,0,73.8,1,0,11,19
+2021/22,Chelsea,Newcastle United,2022-03-13,1,72.8,4,0,17,8,0,27.2,3,0,17,7
+2021/22,Everton,Wolverhampton Wanderers,2022-03-13,0,38.0,2,1,13,7,1,62.0,1,0,11,14
+2021/22,Leeds United,Norwich City,2022-03-13,2,52.5,3,0,18,13,1,47.5,1,0,8,12
+2021/22,Southampton,Watford,2022-03-13,1,62.5,3,0,8,13,2,37.5,2,0,12,9
+2021/22,West Ham United,Aston Villa,2022-03-13,2,47.1,1,0,9,11,1,52.9,0,0,3,13
+2021/22,Arsenal,Leicester City,2022-03-13,2,46.0,0,0,8,21,0,54.0,3,0,10,6
+2021/22,Brighton and Hove Albion,Liverpool,2022-03-12,0,51.8,3,0,12,8,2,48.2,1,0,15,18
+2021/22,Brentford,Burnley,2022-03-12,2,54.9,1,0,6,13,0,45.1,1,1,10,7
+2021/22,Manchester United,Tottenham Hotspur,2022-03-12,3,43.5,2,0,8,10,2,56.5,1,0,7,10
+2021/22,Norwich City,Chelsea,2022-03-10,1,33.7,0,0,8,8,3,66.3,2,0,15,15
+2021/22,Southampton,Newcastle United,2022-03-10,1,67.8,1,0,6,14,2,32.2,1,0,7,8
+2021/22,Wolverhampton Wanderers,Watford,2022-03-10,4,65.8,2,0,11,10,0,34.2,2,0,10,9
+2021/22,Leeds United,Aston Villa,2022-03-10,0,50.9,5,0,17,4,3,49.1,3,0,11,15
+2021/22,Tottenham Hotspur,Everton,2022-03-07,5,55.0,2,0,15,14,0,45.0,0,0,10,6
+2021/22,Manchester City,Manchester United,2022-03-06,4,69.4,0,0,10,24,1,30.6,1,0,14,5
+2021/22,Watford,Arsenal,2022-03-06,2,43.0,1,0,5,13,3,57.0,2,0,12,16
+2021/22,Leicester City,Leeds United,2022-03-05,1,51.0,1,0,9,7,0,49.0,2,0,12,19
+2021/22,Aston Villa,Southampton,2022-03-05,4,38.2,1,0,10,14,0,61.8,1,0,8,11
+2021/22,Burnley,Chelsea,2022-03-05,0,27.4,2,0,12,6,4,72.6,0,0,7,11
+2021/22,Newcastle United,Brighton and Hove Albion,2022-03-05,2,32.4,1,0,8,10,1,67.6,1,0,10,15
+2021/22,Norwich City,Brentford,2022-03-05,1,59.6,2,0,13,15,3,40.4,5,0,18,10
+2021/22,Wolverhampton Wanderers,Crystal Palace,2022-03-05,0,64.0,0,0,13,12,2,36.0,3,0,8,12
+2021/22,Liverpool,West Ham United,2022-03-05,1,68.7,2,0,7,22,0,31.3,1,0,7,13
+2021/22,Burnley,Leicester City,2022-03-01,0,44.8,1,0,10,9,2,55.2,1,0,13,22
+2021/22,West Ham United,Wolverhampton Wanderers,2022-02-27,1,39.0,1,0,8,13,0,61.0,0,0,2,14
+2021/22,Leeds United,Tottenham Hotspur,2022-02-26,0,49.6,4,0,16,19,4,50.4,2,0,11,15
+2021/22,Brentford,Newcastle United,2022-02-26,0,37.3,3,1,9,6,2,62.7,1,0,7,26
+2021/22,Crystal Palace,Burnley,2022-02-26,1,59.2,0,0,5,11,1,40.8,2,0,16,5
+2021/22,Manchester United,Watford,2022-02-26,0,67.3,0,0,2,22,0,32.7,0,0,7,10
+2021/22,Brighton and Hove Albion,Aston Villa,2022-02-26,0,66.5,4,0,17,12,2,33.5,5,0,11,9
+2021/22,Everton,Manchester City,2022-02-26,0,32.6,3,0,7,6,1,67.4,2,0,14,13
+2021/22,Southampton,Norwich City,2022-02-25,2,58.1,1,0,12,27,0,41.9,2,0,9,8
+2021/22,Arsenal,Wolverhampton Wanderers,2022-02-24,2,55.5,1,0,8,26,1,44.5,1,0,9,6
+2021/22,Burnley,Tottenham Hotspur,2022-02-23,1,34.1,0,0,8,15,0,65.9,0,0,8,12
+2021/22,Watford,Crystal Palace,2022-02-23,1,45.3,2,0,12,8,4,54.7,1,0,9,7
+2021/22,Liverpool,Leeds United,2022-02-23,6,63.7,0,0,5,23,0,36.3,3,0,11,3
+2021/22,Leeds United,Manchester United,2022-02-20,2,54.5,6,0,13,16,4,45.5,3,0,19,15
+2021/22,Wolverhampton Wanderers,Leicester City,2022-02-20,2,36.3,4,0,12,11,1,63.7,4,0,9,17
+2021/22,West Ham United,Newcastle United,2022-02-19,1,47.0,3,0,3,11,1,53.0,3,0,7,14
+2021/22,Arsenal,Brentford,2022-02-19,2,66.4,1,0,10,24,1,33.6,1,0,5,6
+2021/22,Aston Villa,Watford,2022-02-19,0,59.6,1,0,12,20,1,40.4,2,0,7,8
+2021/22,Brighton and Hove Albion,Burnley,2022-02-19,0,68.9,1,0,12,11,3,31.1,4,0,12,10
+2021/22,Crystal Palace,Chelsea,2022-02-19,0,42.6,1,0,4,7,1,57.4,3,0,20,9
+2021/22,Liverpool,Norwich City,2022-02-19,3,69.4,0,0,7,29,1,30.6,1,0,8,6
+2021/22,Southampton,Everton,2022-02-19,2,55.8,0,0,6,19,0,44.2,2,0,9,9
+2021/22,Manchester City,Tottenham Hotspur,2022-02-19,2,71.2,0,0,5,21,3,28.8,3,0,7,6
+2021/22,Manchester United,Brighton and Hove Albion,2022-02-15,2,50.0,3,0,8,19,0,50.0,1,1,10,10
+2021/22,Burnley,Liverpool,2022-02-13,0,32.6,0,0,7,8,1,67.4,1,0,6,12
+2021/22,Newcastle United,Aston Villa,2022-02-13,1,37.0,3,0,22,10,0,63.0,4,0,15,11
+2021/22,Tottenham Hotspur,Wolverhampton Wanderers,2022-02-13,0,58.6,3,0,13,17,2,41.4,1,0,13,11
+2021/22,Leicester City,West Ham United,2022-02-13,2,55.4,1,0,10,13,2,44.6,2,0,9,8
+2021/22,Brentford,Crystal Palace,2022-02-12,0,42.6,1,0,10,9,0,57.4,0,0,10,6
+2021/22,Everton,Leeds United,2022-02-12,3,41.7,1,0,8,21,0,58.3,1,0,9,7
+2021/22,Watford,Brighton and Hove Albion,2022-02-12,0,35.2,3,0,16,9,2,64.8,2,0,9,11
+2021/22,Norwich City,Manchester City,2022-02-12,0,28.5,0,0,7,8,4,71.5,2,0,8,22
+2021/22,Manchester United,Southampton,2022-02-12,1,52.3,4,0,12,12,1,47.7,0,0,13,13
+2021/22,Liverpool,Leicester City,2022-02-10,2,65.0,1,0,11,22,0,35.0,0,0,7,5
+2021/22,Wolverhampton Wanderers,Arsenal,2022-02-10,0,58.3,2,0,12,15,1,41.7,3,1,13,12
+2021/22,Manchester City,Brentford,2022-02-09,2,75.6,0,0,7,15,0,24.4,0,0,13,6
+2021/22,Norwich City,Crystal Palace,2022-02-09,1,28.3,1,0,11,5,1,71.7,2,0,16,13
+2021/22,Tottenham Hotspur,Southampton,2022-02-09,2,47.7,2,0,7,8,3,52.3,3,0,13,23
+2021/22,Aston Villa,Leeds United,2022-02-09,3,39.5,1,1,11,12,3,60.5,3,0,9,16
+2021/22,Newcastle United,Everton,2022-02-08,3,39.3,2,0,13,20,1,60.7,3,0,13,11
+2021/22,West Ham United,Watford,2022-02-08,1,64.3,1,0,1,9,0,35.7,0,0,6,6
+2021/22,Burnley,Manchester United,2022-02-08,1,35.9,2,0,11,9,1,64.1,1,0,10,22
+2021/22,Burnley,Watford,2022-02-05,0,51.6,1,0,16,13,0,48.4,2,0,9,11
+2021/22,Arsenal,Burnley,2022-01-23,0,75.6,0,0,9,20,0,24.4,2,0,13,10
+2021/22,Crystal Palace,Liverpool,2022-01-23,1,43.4,4,0,12,8,3,56.6,1,0,10,14
+2021/22,Leicester City,Brighton and Hove Albion,2022-01-23,1,43.8,0,0,6,15,1,56.2,1,0,8,14
+2021/22,Chelsea,Tottenham Hotspur,2022-01-23,2,64.6,2,0,17,15,0,35.4,1,0,14,6
+2021/22,Everton,Aston Villa,2022-01-22,0,49.6,5,0,14,15,1,50.4,4,0,16,8
+2021/22,Brentford,Wolverhampton Wanderers,2022-01-22,1,49.5,2,0,6,11,2,50.5,3,1,7,7
+2021/22,Leeds United,Newcastle United,2022-01-22,0,63.0,4,0,9,13,1,37.0,2,0,9,15
+2021/22,Manchester United,West Ham United,2022-01-22,1,56.9,1,0,9,18,0,43.1,1,0,8,6
+2021/22,Southampton,Manchester City,2022-01-22,1,25.8,3,0,13,7,1,74.2,0,0,5,20
+2021/22,Watford,Norwich City,2022-01-21,0,68.5,0,1,16,15,3,31.5,1,0,11,7
+2021/22,Leicester City,Tottenham Hotspur,2022-01-19,2,48.8,1,0,6,14,3,51.2,2,0,12,27
+2021/22,Brentford,Manchester United,2022-01-19,1,43.7,0,0,7,18,3,56.3,0,0,9,13
+2021/22,Brighton and Hove Albion,Chelsea,2022-01-18,1,43.2,1,0,8,10,1,56.8,2,0,5,15
+2021/22,Liverpool,Brentford,2022-01-16,3,68.3,0,0,6,27,0,31.7,1,0,6,6
+2021/22,West Ham United,Leeds United,2022-01-16,2,47.4,3,0,6,15,3,52.6,2,0,9,18
+2021/22,Manchester City,Chelsea,2022-01-15,1,55.7,0,0,11,11,0,44.3,2,0,6,4
+2021/22,Newcastle United,Watford,2022-01-15,1,52.0,3,0,13,12,1,48.0,2,0,13,18
+2021/22,Norwich City,Everton,2022-01-15,2,40.4,3,0,12,14,1,59.6,1,0,14,12
+2021/22,Wolverhampton Wanderers,Southampton,2022-01-15,3,42.7,2,0,13,9,1,57.3,3,0,14,13
+2021/22,Aston Villa,Manchester United,2022-01-15,2,54.6,1,0,8,13,2,45.4,2,0,13,13
+2021/22,Brighton and Hove Albion,Crystal Palace,2022-01-14,1,63.3,0,0,11,19,1,36.7,2,0,7,3
+2021/22,West Ham United,Norwich City,2022-01-12,2,61.6,0,0,9,13,0,38.4,0,0,8,7
+2021/22,Southampton,Brentford,2022-01-11,4,48.9,0,0,9,12,1,51.1,1,0,8,5
+2021/22,Manchester United,Wolverhampton Wanderers,2022-01-03,0,51.3,3,0,9,9,1,48.7,1,0,8,19
+2021/22,Brentford,Aston Villa,2022-01-02,2,45.4,2,0,17,10,1,54.6,2,0,11,16
+2021/22,Everton,Brighton and Hove Albion,2022-01-02,2,49.9,1,0,5,17,3,50.1,1,0,12,12
+2021/22,Leeds United,Burnley,2022-01-02,3,55.3,2,0,11,22,1,44.7,1,0,7,8
+2021/22,Chelsea,Liverpool,2022-01-02,2,55.3,1,0,5,15,2,44.7,2,0,13,10
+2021/22,Crystal Palace,West Ham United,2022-01-01,2,62.7,0,0,6,22,3,37.3,2,0,16,10
+2021/22,Arsenal,Manchester City,2022-01-01,1,28.8,3,1,13,7,2,71.2,2,0,5,15
+2021/22,Watford,Tottenham Hotspur,2022-01-01,0,25.8,0,0,6,6,1,74.2,1,0,9,21
+2021/22,Manchester United,Burnley,2021-12-30,3,57.3,0,0,5,18,1,42.7,0,0,10,10
+2021/22,Chelsea,Brighton and Hove Albion,2021-12-29,1,47.7,4,0,14,11,1,52.3,1,0,7,18
+2021/22,Brentford,Manchester City,2021-12-29,0,23.7,0,0,12,6,1,76.3,0,0,10,12
+2021/22,Crystal Palace,Norwich City,2021-12-28,3,50.9,1,0,9,19,0,49.1,2,0,13,12
+2021/22,Southampton,Tottenham Hotspur,2021-12-28,1,34.6,2,1,15,9,1,65.4,2,0,5,21
+2021/22,Watford,West Ham United,2021-12-28,1,43.0,0,0,12,14,4,57.0,1,0,12,13
+2021/22,Leicester City,Liverpool,2021-12-28,1,36.6,0,0,8,6,0,63.4,1,0,11,21
+2021/22,Newcastle United,Manchester United,2021-12-27,1,31.4,3,0,11,13,1,68.6,3,0,8,13
+2021/22,Manchester City,Leicester City,2021-12-26,6,71.8,1,0,11,17,3,28.2,2,0,9,14
+2021/22,Norwich City,Arsenal,2021-12-26,0,35.2,1,0,13,4,5,64.8,2,0,7,16
+2021/22,Tottenham Hotspur,Crystal Palace,2021-12-26,3,59.7,1,0,16,17,0,40.3,1,1,9,4
+2021/22,West Ham United,Southampton,2021-12-26,2,55.8,2,0,10,11,3,44.2,3,0,9,11
+2021/22,Aston Villa,Chelsea,2021-12-26,1,42.1,3,0,8,8,3,57.9,1,0,11,10
+2021/22,Brighton and Hove Albion,Brentford,2021-12-26,2,50.4,1,0,8,15,0,49.6,3,0,10,16
+2021/22,Newcastle United,Manchester City,2021-12-19,0,28.1,1,0,9,5,4,71.9,2,0,6,18
+2021/22,Wolverhampton Wanderers,Chelsea,2021-12-19,0,36.9,0,0,9,4,0,63.1,2,0,7,8
+2021/22,Tottenham Hotspur,Liverpool,2021-12-19,2,43.7,4,0,12,10,2,56.3,4,1,11,18
+2021/22,Leeds United,Arsenal,2021-12-18,1,50.9,3,0,11,9,4,49.1,1,0,7,21
+2021/22,Chelsea,Everton,2021-12-16,1,80.1,2,0,11,23,1,19.9,3,0,11,5
+2021/22,Liverpool,Newcastle United,2021-12-16,3,74.2,1,0,9,23,1,25.8,3,0,4,5
+2021/22,Brighton and Hove Albion,Wolverhampton Wanderers,2021-12-15,0,59.3,2,0,11,12,1,40.7,0,0,15,8
+2021/22,Crystal Palace,Southampton,2021-12-15,2,59.7,2,0,16,9,2,40.3,4,0,20,15
+2021/22,Arsenal,West Ham United,2021-12-15,2,56.2,2,0,9,21,0,43.8,0,1,9,7
+2021/22,Norwich City,Aston Villa,2021-12-14,0,50.2,3,0,12,7,2,49.8,1,0,9,17
+2021/22,Manchester City,Leeds United,2021-12-14,7,64.2,1,0,5,31,0,35.8,1,0,9,6
+2021/22,Burnley,West Ham United,2021-12-12,0,40.1,2,0,13,9,0,59.9,1,0,11,16
+2021/22,Leicester City,Newcastle United,2021-12-12,4,47.3,2,0,9,8,0,52.7,3,0,16,12
+2021/22,Crystal Palace,Everton,2021-12-12,3,61.2,0,0,15,17,1,38.8,2,0,14,12
+2021/22,Manchester City,Wolverhampton Wanderers,2021-12-11,1,71.0,3,0,12,24,0,29.0,2,1,5,2
+2021/22,Arsenal,Southampton,2021-12-11,3,61.3,2,0,5,15,0,38.7,0,0,9,11
+2021/22,Chelsea,Leeds United,2021-12-11,3,57.8,2,0,9,16,2,42.2,5,0,15,12
+2021/22,Liverpool,Aston Villa,2021-12-11,1,62.3,1,0,13,20,0,37.7,2,0,6,4
+2021/22,Norwich City,Manchester United,2021-12-11,0,47.2,1,0,6,11,1,52.8,1,0,17,13
+2021/22,Brentford,Watford,2021-12-10,2,63.4,4,0,12,14,1,36.6,0,0,18,6
+2021/22,Everton,Arsenal,2021-12-06,2,36.1,2,0,8,11,1,63.9,2,0,12,10
+2021/22,Leeds United,Brentford,2021-12-05,2,63.1,5,0,11,13,2,36.9,3,0,9,9
+2021/22,Manchester United,Crystal Palace,2021-12-05,1,61.3,2,0,16,16,0,38.7,2,0,9,8
+2021/22,Aston Villa,Leicester City,2021-12-05,2,41.1,1,0,8,13,1,58.9,1,0,25,12
+2021/22,Tottenham Hotspur,Norwich City,2021-12-05,3,40.8,1,0,11,17,0,59.2,2,0,4,10
+2021/22,West Ham United,Chelsea,2021-12-04,3,36.2,1,0,10,11,2,63.8,3,0,10,19
+2021/22,Newcastle United,Burnley,2021-12-04,1,47.8,1,0,11,19,0,52.2,1,0,9,10
+2021/22,Southampton,Brighton and Hove Albion,2021-12-04,1,44.4,4,0,15,14,1,55.6,2,0,12,14
+2021/22,Wolverhampton Wanderers,Liverpool,2021-12-04,0,32.9,2,0,4,3,1,67.1,2,0,7,17
+2021/22,Watford,Manchester City,2021-12-04,1,22.9,3,0,11,11,3,77.1,0,0,7,26
+2021/22,Tottenham Hotspur,Brentford,2021-12-02,2,47.0,0,0,13,11,0,53.0,0,0,11,6
+2021/22,Manchester United,Arsenal,2021-12-02,3,44.5,1,0,9,14,2,55.5,0,0,10,17
+2021/22,Southampton,Leicester City,2021-12-01,2,44.5,1,0,14,15,2,55.5,3,0,11,15
+2021/22,Watford,Chelsea,2021-12-01,1,49.8,4,0,18,14,2,50.2,3,0,16,8
+2021/22,West Ham United,Brighton and Hove Albion,2021-12-01,1,34.3,1,0,10,14,1,65.7,1,0,8,9
+2021/22,Wolverhampton Wanderers,Burnley,2021-12-01,0,65.2,2,0,5,16,0,34.8,3,0,7,6
+2021/22,Aston Villa,Manchester City,2021-12-01,1,36.0,0,0,8,9,2,64.0,0,0,12,17
+2021/22,Everton,Liverpool,2021-12-01,1,31.3,4,0,8,8,4,68.7,3,0,16,16
+2021/22,Newcastle United,Norwich City,2021-11-30,1,31.4,0,1,8,9,1,68.6,0,0,11,16
+2021/22,Leeds United,Crystal Palace,2021-11-30,1,61.9,5,0,15,15,0,38.1,3,0,15,9
+2021/22,Brentford,Everton,2021-11-28,1,39.7,4,0,8,6,0,60.3,3,0,11,14
+2021/22,Leicester City,Watford,2021-11-28,4,56.7,0,0,5,18,2,43.3,0,0,20,17
+2021/22,Manchester City,West Ham United,2021-11-28,2,68.5,2,0,7,19,1,31.5,0,0,6,5
+2021/22,Chelsea,Manchester United,2021-11-28,1,65.7,2,0,13,24,1,34.3,5,0,14,3
+2021/22,Arsenal,Newcastle United,2021-11-27,2,65.6,1,0,6,24,0,34.4,3,0,12,9
+2021/22,Crystal Palace,Aston Villa,2021-11-27,1,63.3,3,0,12,8,2,36.7,3,1,10,10
+2021/22,Liverpool,Southampton,2021-11-27,4,64.5,0,0,7,20,0,35.5,1,0,14,7
+2021/22,Norwich City,Wolverhampton Wanderers,2021-11-27,0,43.1,2,0,11,14,0,56.9,2,0,10,5
+2021/22,Brighton and Hove Albion,Leeds United,2021-11-27,0,56.5,1,0,12,20,0,43.5,3,0,14,11
+2021/22,Manchester City,Everton,2021-11-21,3,77.3,1,0,5,17,0,22.7,1,0,7,4
+2021/22,Tottenham Hotspur,Leeds United,2021-11-21,2,43.2,1,0,11,13,1,56.8,4,0,12,18
+2021/22,Leicester City,Chelsea,2021-11-20,0,38.3,3,0,15,4,3,61.7,1,0,8,16
+2021/22,Aston Villa,Brighton and Hove Albion,2021-11-20,2,37.0,3,0,7,9,0,63.0,3,0,13,6
+2021/22,Burnley,Crystal Palace,2021-11-20,3,39.5,2,0,14,15,3,60.5,3,0,15,18
+2021/22,Newcastle United,Brentford,2021-11-20,3,52.2,2,0,13,23,3,47.8,2,0,11,10
+2021/22,Norwich City,Southampton,2021-11-20,2,37.0,3,0,8,8,1,63.0,2,0,9,17
+2021/22,Watford,Manchester United,2021-11-20,4,38.7,2,0,7,20,1,61.3,1,1,5,9
+2021/22,Wolverhampton Wanderers,West Ham United,2021-11-20,1,52.4,1,0,6,15,0,47.6,1,0,9,8
+2021/22,Liverpool,Arsenal,2021-11-20,4,62.5,2,0,15,19,0,37.5,0,0,12,5
+2021/22,Arsenal,Watford,2021-11-07,1,60.7,4,0,6,14,0,39.3,2,1,19,7
+2021/22,Everton,Tottenham Hotspur,2021-11-07,0,44.8,2,1,13,12,0,55.2,4,0,17,8
+2021/22,Leeds United,Leicester City,2021-11-07,1,55.8,1,0,12,18,1,44.2,1,0,5,9
+2021/22,West Ham United,Liverpool,2021-11-07,3,30.9,1,0,11,7,2,69.1,1,0,6,16
+2021/22,Brighton and Hove Albion,Newcastle United,2021-11-06,1,65.7,3,1,16,14,1,34.3,4,0,10,6
+2021/22,Manchester United,Manchester City,2021-11-06,0,32.6,1,0,9,5,2,67.4,2,0,12,16
+2021/22,Brentford,Norwich City,2021-11-06,1,64.5,2,0,12,19,2,35.5,3,0,13,9
+2021/22,Chelsea,Burnley,2021-11-06,1,69.9,1,0,6,25,1,30.1,4,0,9,5
+2021/22,Crystal Palace,Wolverhampton Wanderers,2021-11-06,2,59.7,2,0,14,13,0,40.3,1,0,13,4
+2021/22,Southampton,Aston Villa,2021-11-05,1,56.4,2,0,12,9,0,43.6,2,0,12,14
+2021/22,Wolverhampton Wanderers,Everton,2021-11-01,2,62.0,1,0,10,10,1,38.0,1,0,8,14
+2021/22,Norwich City,Leeds United,2021-10-31,1,47.9,1,0,14,14,2,52.1,4,0,23,13
+2021/22,Aston Villa,West Ham United,2021-10-31,1,42.4,1,1,7,9,4,57.6,2,0,13,21
+2021/22,Leicester City,Arsenal,2021-10-30,0,64.3,2,0,8,16,2,35.7,0,0,11,9
+2021/22,Burnley,Brentford,2021-10-30,3,40.6,1,0,7,15,1,59.4,1,0,10,12
+2021/22,Liverpool,Brighton and Hove Albion,2021-10-30,2,58.4,2,0,8,14,2,41.6,2,0,5,9
+2021/22,Manchester City,Crystal Palace,2021-10-30,0,67.6,2,1,11,14,2,32.4,3,0,11,8
+2021/22,Newcastle United,Chelsea,2021-10-30,0,20.8,3,0,14,6,3,79.2,2,0,12,19
+2021/22,Watford,Southampton,2021-10-30,0,38.7,2,0,16,10,1,61.3,2,0,6,12
+2021/22,Tottenham Hotspur,Manchester United,2021-10-30,0,58.2,2,0,12,9,3,41.8,3,0,14,10
+2021/22,Brentford,Leicester City,2021-10-24,1,54.4,1,0,13,15,2,45.6,1,0,7,10
+2021/22,West Ham United,Tottenham Hotspur,2021-10-24,1,37.7,2,0,11,13,0,62.3,1,0,4,7
+2021/22,Manchester United,Liverpool,2021-10-24,0,36.8,6,1,10,12,5,63.2,0,0,8,19
+2021/22,Chelsea,Norwich City,2021-10-23,7,61.8,0,0,14,23,0,38.2,2,1,16,3
+2021/22,Crystal Palace,Newcastle United,2021-10-23,1,75.0,3,0,13,15,1,25.0,4,0,9,6
+2021/22,Everton,Watford,2021-10-23,2,50.1,4,0,9,15,5,49.9,3,0,13,20
+2021/22,Leeds United,Wolverhampton Wanderers,2021-10-23,1,63.0,2,0,15,18,1,37.0,3,0,14,8
+2021/22,Southampton,Burnley,2021-10-23,2,61.3,1,0,10,16,2,38.7,3,0,11,9
+2021/22,Brighton and Hove Albion,Manchester City,2021-10-23,1,47.7,2,0,10,10,4,52.3,3,0,6,23
+2021/22,Arsenal,Aston Villa,2021-10-22,3,53.8,2,0,17,22,1,46.2,5,0,10,10
+2021/22,Arsenal,Crystal Palace,2021-10-18,2,53.6,1,0,7,17,2,46.4,1,0,4,9
+2021/22,Everton,West Ham United,2021-10-17,0,39.0,0,0,3,15,1,61.0,2,0,3,16
+2021/22,Newcastle United,Tottenham Hotspur,2021-10-17,2,35.5,4,1,13,7,3,64.5,1,0,4,14
+2021/22,Watford,Liverpool,2021-10-16,0,23.8,0,0,4,6,5,76.2,0,0,10,19
+2021/22,Aston Villa,Wolverhampton Wanderers,2021-10-16,2,48.3,2,0,8,14,3,51.7,3,0,17,9
+2021/22,Leicester City,Manchester United,2021-10-16,4,48.8,0,0,5,22,2,51.2,3,0,17,18
+2021/22,Manchester City,Burnley,2021-10-16,2,70.6,1,0,11,15,0,29.4,0,0,5,7
+2021/22,Norwich City,Brighton and Hove Albion,2021-10-16,0,35.1,3,0,5,15,0,64.9,5,0,14,11
+2021/22,Southampton,Leeds United,2021-10-16,1,45.3,2,0,16,19,0,54.7,3,0,14,3
+2021/22,Brentford,Chelsea,2021-10-16,0,43.9,1,0,13,17,1,56.1,1,0,8,5
+2021/22,Crystal Palace,Leicester City,2021-10-03,2,60.0,2,0,15,18,2,40.0,3,0,11,9
+2021/22,Tottenham Hotspur,Aston Villa,2021-10-03,2,56.3,2,0,11,17,1,43.7,1,0,14,14
+2021/22,West Ham United,Brentford,2021-10-03,1,59.9,2,0,16,18,2,40.1,3,0,13,13
+2021/22,Liverpool,Manchester City,2021-10-03,2,48.5,3,0,10,6,2,51.5,3,0,12,12
+2021/22,Brighton and Hove Albion,Arsenal,2021-10-02,0,58.2,2,0,8,21,0,41.8,1,0,5,8
+2021/22,Manchester United,Everton,2021-10-02,1,71.8,1,0,10,13,1,28.2,1,0,9,12
+2021/22,Burnley,Norwich City,2021-10-02,0,56.1,5,0,13,14,0,43.9,2,0,3,10
+2021/22,Chelsea,Southampton,2021-10-02,3,61.6,1,0,11,20,1,38.4,3,1,13,6
+2021/22,Leeds United,Watford,2021-10-02,1,66.9,0,0,10,20,0,33.1,3,0,16,5
+2021/22,Wolverhampton Wanderers,Newcastle United,2021-10-02,2,51.9,0,0,15,7,1,48.1,2,0,5,8
+2021/22,Crystal Palace,Brighton and Hove Albion,2021-09-27,1,46.9,2,0,12,8,1,53.1,5,0,10,8
+2021/22,Southampton,Wolverhampton Wanderers,2021-09-26,0,57.0,0,0,12,18,1,43.0,0,0,8,5
+2021/22,Arsenal,Tottenham Hotspur,2021-09-26,3,46.6,2,0,12,12,1,53.4,1,0,13,10
+2021/22,Chelsea,Manchester City,2021-09-25,0,40.9,3,0,12,5,1,59.1,2,0,10,15
+2021/22,Manchester United,Aston Villa,2021-09-25,0,59.6,2,0,9,28,1,40.4,2,0,13,7
+2021/22,Everton,Norwich City,2021-09-25,2,46.8,2,0,12,11,0,53.2,3,0,9,10
+2021/22,Leeds United,West Ham United,2021-09-25,1,53.5,3,0,10,15,2,46.5,2,0,6,20
+2021/22,Leicester City,Burnley,2021-09-25,2,67.1,2,0,10,22,2,32.9,4,0,8,9
+2021/22,Watford,Newcastle United,2021-09-25,1,52.2,4,0,19,15,1,47.8,3,0,12,20
+2021/22,Brentford,Liverpool,2021-09-25,3,32.7,1,0,8,12,3,67.3,1,0,7,16
+2021/22,Brighton and Hove Albion,Leicester City,2021-09-19,2,37.1,2,0,8,12,1,62.9,1,0,10,14
+2021/22,West Ham United,Manchester United,2021-09-19,1,39.9,0,0,5,13,2,60.1,0,0,8,17
+2021/22,Tottenham Hotspur,Chelsea,2021-09-19,0,47.0,0,0,4,8,3,53.0,1,0,15,20
+2021/22,Wolverhampton Wanderers,Brentford,2021-09-18,0,61.9,4,0,10,11,2,38.1,2,1,7,9
+2021/22,Burnley,Arsenal,2021-09-18,0,45.0,2,0,9,18,1,55.0,1,0,8,13
+2021/22,Liverpool,Crystal Palace,2021-09-18,3,59.9,3,0,17,25,0,40.1,1,0,11,13
+2021/22,Manchester City,Southampton,2021-09-18,0,63.9,0,1,5,16,0,36.1,2,0,12,10
+2021/22,Norwich City,Watford,2021-09-18,1,48.7,1,0,10,12,3,51.3,1,0,14,12
+2021/22,Aston Villa,Everton,2021-09-18,3,55.6,1,0,7,15,0,44.4,1,0,10,11
+2021/22,Newcastle United,Leeds United,2021-09-17,1,35.4,2,0,9,17,1,64.6,2,0,11,22
+2021/22,Everton,Burnley,2021-09-13,3,51.7,1,0,3,14,1,48.3,1,0,6,11
+2021/22,Leeds United,Liverpool,2021-09-12,0,44.1,2,1,9,9,3,55.9,1,0,8,30
+2021/22,Crystal Palace,Tottenham Hotspur,2021-09-11,3,62.3,2,0,13,18,0,37.7,1,1,15,2
+2021/22,Arsenal,Norwich City,2021-09-11,1,51.9,1,0,9,30,0,48.1,2,0,11,10
+2021/22,Brentford,Brighton and Hove Albion,2021-09-11,0,41.3,3,0,9,7,1,58.7,2,0,12,4
+2021/22,Leicester City,Manchester City,2021-09-11,0,39.5,1,0,4,6,1,60.5,2,0,11,25
+2021/22,Manchester United,Newcastle United,2021-09-11,4,64.1,1,0,9,21,1,35.9,0,0,2,12
+2021/22,Southampton,West Ham United,2021-09-11,0,41.8,3,0,10,11,0,58.2,1,1,12,13
+2021/22,Watford,Wolverhampton Wanderers,2021-09-11,0,44.0,3,0,15,6,2,56.0,3,0,13,14
+2021/22,Chelsea,Aston Villa,2021-09-11,3,56.8,1,0,11,12,0,43.2,4,0,11,18
+2021/22,Burnley,Leeds United,2021-08-29,1,35.9,4,0,13,12,1,64.1,3,0,9,12
+2021/22,Tottenham Hotspur,Watford,2021-08-29,1,57.6,3,0,8,15,0,42.4,3,0,14,9
+2021/22,Wolverhampton Wanderers,Manchester United,2021-08-29,0,44.1,3,0,7,15,1,55.9,4,0,9,10
+2021/22,Aston Villa,Brentford,2021-08-28,1,46.5,3,0,15,7,1,53.5,3,0,14,9
+2021/22,Liverpool,Chelsea,2021-08-28,1,65.7,0,0,13,24,1,34.3,2,1,4,6
+2021/22,Manchester City,Arsenal,2021-08-28,5,80.4,1,0,5,25,0,19.6,2,1,7,1
+2021/22,Brighton and Hove Albion,Everton,2021-08-28,0,65.6,1,0,7,14,2,34.4,2,0,9,14
+2021/22,Newcastle United,Southampton,2021-08-28,2,36.3,3,0,11,10,2,63.7,3,0,6,22
+2021/22,Norwich City,Leicester City,2021-08-28,1,44.3,2,0,8,14,2,55.7,1,0,9,9
+2021/22,West Ham United,Crystal Palace,2021-08-28,2,45.7,1,0,10,14,2,54.3,0,0,7,9
+2021/22,West Ham United,Leicester City,2021-08-23,4,51.4,0,0,8,19,1,48.6,1,1,8,5
+2021/22,Southampton,Manchester United,2021-08-22,1,36.4,2,0,12,8,1,63.6,3,0,10,15
+2021/22,Wolverhampton Wanderers,Tottenham Hotspur,2021-08-22,0,57.8,1,0,9,25,1,42.2,4,0,7,8
+2021/22,Arsenal,Chelsea,2021-08-22,0,35.0,3,0,10,6,2,65.0,0,0,4,22
+2021/22,Liverpool,Burnley,2021-08-21,2,66.5,0,0,6,27,0,33.5,0,0,12,9
+2021/22,Aston Villa,Newcastle United,2021-08-21,2,47.3,3,0,8,10,0,52.7,4,0,18,9
+2021/22,Crystal Palace,Brentford,2021-08-21,0,52.7,3,0,12,7,0,47.3,1,0,9,14
+2021/22,Leeds United,Everton,2021-08-21,2,70.0,2,0,6,17,2,30.0,4,0,13,17
+2021/22,Manchester City,Norwich City,2021-08-21,5,66.9,1,0,13,16,0,33.1,0,0,7,1
+2021/22,Brighton and Hove Albion,Watford,2021-08-21,2,56.9,4,0,11,13,0,43.1,0,0,6,10
+2021/22,Newcastle United,West Ham United,2021-08-15,2,46.4,1,0,4,17,4,53.6,0,0,3,18
+2021/22,Tottenham Hotspur,Manchester City,2021-08-15,1,34.4,2,0,11,13,0,65.6,1,0,8,18
+2021/22,Manchester United,Leeds United,2021-08-14,5,48.6,1,0,11,16,1,51.4,2,0,9,10
+2021/22,Burnley,Brighton and Hove Albion,2021-08-14,1,35.9,2,0,10,14,2,64.1,1,0,7,14
+2021/22,Chelsea,Crystal Palace,2021-08-14,3,61.7,0,0,15,13,0,38.3,0,0,11,4
+2021/22,Everton,Southampton,2021-08-14,3,48.1,2,0,13,14,1,51.9,0,0,15,6
+2021/22,Leicester City,Wolverhampton Wanderers,2021-08-14,1,56.3,1,0,6,9,0,43.7,2,0,10,17
+2021/22,Watford,Aston Villa,2021-08-14,3,37.9,3,0,18,13,2,62.1,1,0,13,11
+2021/22,Norwich City,Liverpool,2021-08-14,0,50.1,1,0,4,14,3,49.9,1,0,14,19
+2021/22,Brentford,Arsenal,2021-08-13,2,35.3,0,0,12,8,0,64.7,0,0,8,22
+2020/21,Arsenal,Brighton and Hove Albion,2021-05-23,2,53.9,0,0,10,16,0,46.1,0,0,8,5
+2020/21,Aston Villa,Chelsea,2021-05-23,2,28.8,3,0,11,6,1,71.2,4,1,12,23
+2020/21,Fulham,Newcastle United,2021-05-23,0,64.3,1,0,12,14,2,35.7,0,0,6,10
+2020/21,Leeds United,West Bromwich Albion,2021-05-23,3,64.4,2,0,12,17,1,35.6,1,0,12,14
+2020/21,Leicester City,Tottenham Hotspur,2021-05-23,2,47.0,0,0,9,10,4,53.0,2,0,8,11
+2020/21,Liverpool,Crystal Palace,2021-05-23,2,69.6,2,0,10,19,0,30.4,2,0,8,5
+2020/21,Manchester City,Everton,2021-05-23,5,67.7,2,0,8,21,0,32.3,2,0,10,8
+2020/21,Sheffield United,Burnley,2021-05-23,1,43.0,3,0,11,12,0,57.0,1,0,1,10
+2020/21,West Ham United,Southampton,2021-05-23,3,36.9,0,0,5,14,0,63.1,3,0,9,17
+2020/21,Wolverhampton Wanderers,Manchester United,2021-05-23,1,57.2,4,0,14,14,2,42.8,1,0,3,9
+2020/21,Everton,Wolverhampton Wanderers,2021-05-19,1,41.0,0,0,11,14,0,59.0,2,0,11,9
+2020/21,Newcastle United,Sheffield United,2021-05-19,1,50.9,0,0,7,16,0,49.1,2,0,7,11
+2020/21,Tottenham Hotspur,Aston Villa,2021-05-19,1,60.8,1,0,14,10,2,39.2,1,0,13,20
+2020/21,Crystal Palace,Arsenal,2021-05-19,1,31.3,2,0,7,12,3,68.7,1,0,7,6
+2020/21,Burnley,Liverpool,2021-05-19,0,41.2,0,0,10,10,3,58.8,0,0,7,20
+2020/21,West Bromwich Albion,West Ham United,2021-05-19,1,52.5,2,0,8,14,3,47.5,2,0,11,21
+2020/21,Manchester United,Fulham,2021-05-18,1,57.1,2,0,10,13,1,42.9,3,0,15,8
+2020/21,Southampton,Leeds United,2021-05-18,0,51.3,0,0,10,18,2,48.7,3,0,12,15
+2020/21,Brighton and Hove Albion,Manchester City,2021-05-18,3,62.7,3,0,13,19,2,37.3,3,1,11,8
+2020/21,Chelsea,Leicester City,2021-05-18,2,58.6,2,0,15,17,1,41.4,5,0,16,7
+2020/21,Crystal Palace,Aston Villa,2021-05-16,3,45.5,3,0,23,23,2,54.5,2,0,13,19
+2020/21,Tottenham Hotspur,Wolverhampton Wanderers,2021-05-16,2,61.9,1,0,8,24,0,38.1,0,0,11,15
+2020/21,West Bromwich Albion,Liverpool,2021-05-16,1,23.7,0,0,7,9,2,76.3,0,0,14,26
+2020/21,Everton,Sheffield United,2021-05-16,0,62.4,1,0,8,16,1,37.6,3,0,12,10
+2020/21,Burnley,Leeds United,2021-05-15,0,48.2,1,0,10,16,4,51.8,1,0,10,16
+2020/21,Southampton,Fulham,2021-05-15,3,46.2,0,0,9,11,1,53.8,1,0,15,10
+2020/21,Brighton and Hove Albion,West Ham United,2021-05-15,1,51.1,1,0,7,10,1,48.9,0,0,5,15
+2020/21,Newcastle United,Manchester City,2021-05-14,3,17.9,2,0,11,11,4,82.1,2,0,10,15
+2020/21,Aston Villa,Everton,2021-05-13,0,58.0,2,0,9,13,0,42.0,1,0,12,15
+2020/21,Manchester United,Liverpool,2021-05-13,2,53.3,3,0,10,18,4,46.7,0,0,12,17
+2020/21,Chelsea,Arsenal,2021-05-12,0,67.7,0,0,7,19,1,32.3,1,0,6,5
+2020/21,Manchester United,Leicester City,2021-05-11,1,53.1,0,0,9,4,2,46.9,0,0,12,12
+2020/21,Southampton,Crystal Palace,2021-05-11,3,62.7,2,0,20,13,1,37.3,3,0,13,11
+2020/21,Fulham,Burnley,2021-05-10,0,68.0,2,0,11,21,2,32.0,0,0,10,14
+2020/21,Wolverhampton Wanderers,Brighton and Hove Albion,2021-05-09,2,60.7,2,0,12,16,1,39.3,2,2,7,5
+2020/21,Aston Villa,Manchester United,2021-05-09,1,41.1,1,1,13,11,3,58.9,1,0,18,18
+2020/21,West Ham United,Everton,2021-05-09,0,68.6,2,0,8,11,1,31.4,1,0,10,9
+2020/21,Arsenal,West Bromwich Albion,2021-05-09,3,65.7,1,0,7,15,1,34.3,2,0,9,12
+2020/21,Manchester City,Chelsea,2021-05-08,1,48.3,2,0,12,16,2,51.7,0,0,10,12
+2020/21,Liverpool,Southampton,2021-05-08,2,54.1,0,0,10,14,0,45.9,1,0,6,12
+2020/21,Leeds United,Tottenham Hotspur,2021-05-08,3,53.3,1,0,12,16,1,46.7,2,0,10,11
+2020/21,Sheffield United,Crystal Palace,2021-05-08,0,49.8,1,0,11,7,2,50.2,1,0,8,21
+2020/21,Leicester City,Newcastle United,2021-05-07,2,68.3,1,0,12,25,4,31.7,1,0,9,14
+2020/21,West Bromwich Albion,Wolverhampton Wanderers,2021-05-03,1,42.4,2,0,17,10,1,57.6,0,0,11,20
+2020/21,Burnley,West Ham United,2021-05-03,1,44.6,2,0,4,8,2,55.4,1,0,8,22
+2020/21,Newcastle United,Arsenal,2021-05-02,0,38.6,2,1,10,5,2,61.4,1,0,9,19
+2020/21,Tottenham Hotspur,Sheffield United,2021-05-02,4,65.8,1,0,8,20,0,34.2,1,0,9,8
+2020/21,Crystal Palace,Manchester City,2021-05-01,0,30.0,2,0,9,9,2,70.0,0,0,10,20
+2020/21,Brighton and Hove Albion,Leeds United,2021-05-01,2,41.9,1,0,17,17,0,58.1,1,0,6,11
+2020/21,Chelsea,Fulham,2021-05-01,2,48.7,1,0,15,9,0,51.3,1,0,8,10
+2020/21,Everton,Aston Villa,2021-05-01,1,47.5,0,0,10,16,2,52.5,2,0,13,13
+2020/21,Southampton,Leicester City,2021-04-30,1,29.2,1,1,9,5,1,70.8,0,0,13,23
+2020/21,Leicester City,Crystal Palace,2021-04-26,2,66.8,0,0,13,13,1,33.2,1,0,12,4
+2020/21,Wolverhampton Wanderers,Burnley,2021-04-25,0,59.2,1,0,8,12,4,40.8,2,0,9,14
+2020/21,Leeds United,Manchester United,2021-04-25,0,44.2,4,0,21,6,0,55.8,1,0,11,16
+2020/21,Aston Villa,West Bromwich Albion,2021-04-25,2,70.2,0,0,14,24,2,29.8,2,0,9,10
+2020/21,Liverpool,Newcastle United,2021-04-24,1,68.5,2,0,9,22,1,31.5,1,0,7,7
+2020/21,West Ham United,Chelsea,2021-04-24,0,44.5,0,1,9,9,1,55.5,4,0,11,17
+2020/21,Sheffield United,Brighton and Hove Albion,2021-04-24,1,31.5,3,0,13,7,0,68.5,0,0,7,17
+2020/21,Arsenal,Everton,2021-04-23,0,59.1,1,0,13,14,1,40.9,3,0,10,8
+2020/21,Leicester City,West Bromwich Albion,2021-04-22,3,72.7,0,0,13,17,0,27.3,2,0,12,4
+2020/21,Tottenham Hotspur,Southampton,2021-04-21,2,61.7,2,0,10,12,1,38.3,1,0,14,10
+2020/21,Aston Villa,Manchester City,2021-04-21,1,28.0,0,1,12,8,2,72.0,1,1,7,13
+2020/21,Chelsea,Brighton and Hove Albion,2021-04-20,0,64.4,2,0,8,7,0,35.6,0,1,9,11
+2020/21,Leeds United,Liverpool,2021-04-19,1,61.9,2,0,7,12,1,38.1,1,0,15,17
+2020/21,Arsenal,Fulham,2021-04-18,1,69.5,0,0,9,18,1,30.5,3,0,11,3
+2020/21,Manchester United,Burnley,2021-04-18,3,69.4,1,0,9,17,1,30.6,2,0,12,10
+2020/21,Newcastle United,West Ham United,2021-04-17,3,34.6,2,0,9,16,2,65.4,0,1,7,16
+2020/21,Wolverhampton Wanderers,Sheffield United,2021-04-17,1,47.5,1,0,8,10,0,52.5,2,0,15,8
+2020/21,Everton,Tottenham Hotspur,2021-04-16,2,52.8,1,0,8,18,2,47.2,1,0,8,12
+2020/21,West Bromwich Albion,Southampton,2021-04-12,3,39.5,0,0,12,15,0,60.5,1,0,11,14
+2020/21,Brighton and Hove Albion,Everton,2021-04-12,0,55.2,1,0,12,23,0,44.8,2,0,7,8
+2020/21,Burnley,Newcastle United,2021-04-11,1,57.1,1,0,11,24,2,42.9,0,0,12,10
+2020/21,West Ham United,Leicester City,2021-04-11,3,36.3,3,0,7,4,2,63.7,3,0,13,15
+2020/21,Tottenham Hotspur,Manchester United,2021-04-11,1,46.8,1,0,11,12,3,53.2,5,0,15,12
+2020/21,Sheffield United,Arsenal,2021-04-11,0,45.1,1,0,9,7,3,54.9,1,0,6,14
+2020/21,Manchester City,Leeds United,2021-04-10,1,71.1,3,0,12,29,2,28.9,1,1,15,2
+2020/21,Liverpool,Aston Villa,2021-04-10,2,66.3,2,0,16,23,1,33.7,4,0,11,9
+2020/21,Crystal Palace,Chelsea,2021-04-10,1,35.7,1,0,7,1,4,64.3,0,0,12,23
+2020/21,Fulham,Wolverhampton Wanderers,2021-04-09,0,49.6,0,0,11,14,1,50.4,0,0,8,7
+2020/21,Everton,Crystal Palace,2021-04-05,1,47.5,2,0,10,15,1,52.5,0,0,10,13
+2020/21,Wolverhampton Wanderers,West Ham United,2021-04-05,2,66.1,1,0,9,20,3,33.9,4,0,9,9
+2020/21,Southampton,Burnley,2021-04-04,3,53.4,0,0,11,24,2,46.6,0,0,10,7
+2020/21,Newcastle United,Tottenham Hotspur,2021-04-04,2,41.2,3,0,13,22,2,58.8,2,0,14,11
+2020/21,Aston Villa,Fulham,2021-04-04,3,52.5,1,0,14,14,1,47.5,2,0,20,15
+2020/21,Manchester United,Brighton and Hove Albion,2021-04-04,2,57.7,2,0,14,15,1,42.3,2,0,7,5
+2020/21,Chelsea,West Bromwich Albion,2021-04-03,2,66.2,1,1,11,18,5,33.8,1,0,6,14
+2020/21,Leeds United,Sheffield United,2021-04-03,2,54.1,1,0,12,23,1,45.9,2,0,13,9
+2020/21,Leicester City,Manchester City,2021-04-03,0,43.8,2,0,13,5,2,56.2,3,0,12,11
+2020/21,Arsenal,Liverpool,2021-04-03,0,35.8,1,0,10,3,3,64.2,1,0,10,16
+2020/21,West Ham United,Arsenal,2021-03-21,3,36.9,3,0,18,15,3,63.1,1,0,8,16
+2020/21,Aston Villa,Tottenham Hotspur,2021-03-21,0,50.1,3,0,18,8,2,49.9,2,0,13,9
+2020/21,Brighton and Hove Albion,Newcastle United,2021-03-20,3,65.3,0,0,12,11,0,34.7,1,0,5,3
+2020/21,Fulham,Leeds United,2021-03-19,1,51.2,2,0,13,13,2,48.8,2,0,12,13
+2020/21,Wolverhampton Wanderers,Liverpool,2021-03-15,0,52.7,2,0,17,10,1,47.3,1,0,10,12
+2020/21,Southampton,Brighton and Hove Albion,2021-03-14,1,59.4,0,0,11,9,2,40.6,0,0,10,8
+2020/21,Leicester City,Sheffield United,2021-03-14,5,71.7,0,0,10,19,0,28.3,2,0,9,1
+2020/21,Arsenal,Tottenham Hotspur,2021-03-14,2,52.6,1,0,12,13,1,47.4,2,1,14,6
+2020/21,Manchester United,West Ham United,2021-03-14,1,61.8,4,0,12,15,0,38.2,0,0,2,7
+2020/21,Leeds United,Chelsea,2021-03-13,0,37.7,3,0,16,7,0,62.3,0,0,6,15
+2020/21,Crystal Palace,West Bromwich Albion,2021-03-13,1,44.3,3,0,16,6,0,55.7,1,0,15,12
+2020/21,Everton,Burnley,2021-03-13,1,65.5,0,0,9,14,2,34.5,4,0,6,14
+2020/21,Fulham,Manchester City,2021-03-13,0,46.1,0,0,14,3,3,53.9,0,0,13,8
+2020/21,Newcastle United,Aston Villa,2021-03-12,1,49.2,2,0,10,12,1,50.8,3,0,10,15
+2020/21,Manchester City,Southampton,2021-03-10,5,58.3,1,0,6,17,2,41.7,0,0,4,11
+2020/21,Chelsea,Everton,2021-03-08,2,65.5,0,0,11,19,0,34.5,3,0,12,7
+2020/21,West Ham United,Leeds United,2021-03-08,2,34.7,1,0,9,16,0,65.3,1,0,9,17
+2020/21,West Bromwich Albion,Newcastle United,2021-03-07,0,52.8,0,0,11,13,0,47.2,0,0,10,9
+2020/21,Liverpool,Fulham,2021-03-07,0,63.1,2,0,10,16,1,36.9,3,0,8,10
+2020/21,Manchester City,Manchester United,2021-03-07,0,65.9,0,0,9,23,2,34.1,3,0,12,8
+2020/21,Tottenham Hotspur,Crystal Palace,2021-03-07,4,64.2,2,0,8,12,1,35.8,3,0,17,5
+2020/21,Burnley,Arsenal,2021-03-06,1,41.1,1,1,5,9,1,58.9,1,0,12,15
+2020/21,Sheffield United,Southampton,2021-03-06,0,50.9,4,0,17,8,2,49.1,3,0,11,15
+2020/21,Aston Villa,Wolverhampton Wanderers,2021-03-06,0,49.2,1,0,13,9,0,50.8,0,0,13,10
+2020/21,Brighton and Hove Albion,Leicester City,2021-03-06,1,36.6,0,0,14,7,2,63.4,1,0,8,8
+2020/21,Fulham,Tottenham Hotspur,2021-03-04,0,59.6,2,0,13,11,1,40.4,1,0,9,9
+2020/21,West Bromwich Albion,Everton,2021-03-04,0,48.1,3,0,9,11,1,51.9,1,0,7,11
+2020/21,Liverpool,Chelsea,2021-03-04,0,54.2,0,0,9,7,1,45.8,0,0,8,11
+2020/21,Burnley,Leicester City,2021-03-03,1,38.9,0,0,6,12,1,61.1,2,0,12,16
+2020/21,Crystal Palace,Manchester United,2021-03-03,0,37.0,1,0,4,8,0,63.0,0,0,13,11
+2020/21,Sheffield United,Aston Villa,2021-03-03,1,28.2,1,1,13,9,0,71.8,0,0,6,16
+2020/21,Manchester City,Wolverhampton Wanderers,2021-03-02,4,72.1,0,0,9,22,1,27.9,1,0,5,6
+2020/21,Everton,Southampton,2021-03-01,1,46.6,0,0,13,7,0,53.4,2,0,9,9
+2020/21,Crystal Palace,Fulham,2021-02-28,0,40.4,1,0,10,3,0,59.6,1,0,14,16
+2020/21,Leicester City,Arsenal,2021-02-28,1,44.2,2,0,15,8,3,55.8,1,0,3,12
+2020/21,Tottenham Hotspur,Burnley,2021-02-28,4,58.3,0,0,6,16,0,41.7,0,0,10,10
+2020/21,Chelsea,Manchester United,2021-02-28,0,57.4,1,0,11,18,0,42.6,2,0,12,11
+2020/21,Sheffield United,Liverpool,2021-02-28,0,39.3,0,0,9,8,2,60.7,0,0,9,16
+2020/21,Manchester City,West Ham United,2021-02-27,2,63.2,1,0,8,10,1,36.8,1,0,11,9
+2020/21,West Bromwich Albion,Brighton and Hove Albion,2021-02-27,1,29.9,0,0,11,6,0,70.1,1,0,13,15
+2020/21,Leeds United,Aston Villa,2021-02-27,0,69.2,3,0,14,13,1,30.8,2,0,14,9
+2020/21,Newcastle United,Wolverhampton Wanderers,2021-02-27,1,47.6,2,0,11,19,1,52.4,0,0,13,14
+2020/21,Leeds United,Southampton,2021-02-23,3,46.7,1,0,11,11,0,53.3,2,0,13,13
+2020/21,Brighton and Hove Albion,Crystal Palace,2021-02-22,1,74.5,2,0,11,25,2,25.5,0,0,6,3
+2020/21,West Ham United,Tottenham Hotspur,2021-02-21,2,30.8,4,0,14,4,1,69.2,3,0,7,20
+2020/21,Aston Villa,Leicester City,2021-02-21,1,49.9,2,0,11,11,2,50.1,1,0,12,16
+2020/21,Arsenal,Manchester City,2021-02-21,0,45.0,2,0,11,7,1,55.0,2,0,9,15
+2020/21,Manchester United,Newcastle United,2021-02-21,3,71.6,1,0,9,15,1,28.4,2,0,11,10
+2020/21,Southampton,Chelsea,2021-02-20,1,29.1,1,0,10,4,1,70.9,1,0,10,9
+2020/21,Burnley,West Bromwich Albion,2021-02-20,0,62.1,3,0,16,6,0,37.9,0,1,10,10
+2020/21,Liverpool,Everton,2021-02-20,0,71.4,2,0,10,15,2,28.6,1,0,10,9
+2020/21,Fulham,Sheffield United,2021-02-20,1,65.1,1,0,11,15,0,34.9,2,0,14,4
+2020/21,Wolverhampton Wanderers,Leeds United,2021-02-19,1,41.0,1,0,13,15,0,59.0,0,0,8,18
+2020/21,Burnley,Fulham,2021-02-17,1,46.0,1,0,7,8,1,54.0,1,0,13,8
+2020/21,Everton,Manchester City,2021-02-17,1,29.6,2,0,8,3,3,70.4,1,0,8,16
+2020/21,West Ham United,Sheffield United,2021-02-15,3,45.9,0,0,11,13,0,54.1,2,0,12,8
+2020/21,Chelsea,Newcastle United,2021-02-15,2,65.6,0,0,9,18,0,34.4,0,0,13,10
+2020/21,Southampton,Wolverhampton Wanderers,2021-02-14,1,51.1,2,0,10,7,2,48.9,2,0,9,10
+2020/21,West Bromwich Albion,Manchester United,2021-02-14,1,26.9,5,0,13,7,1,73.1,0,0,10,10
+2020/21,Arsenal,Leeds United,2021-02-14,4,45.9,0,0,8,13,2,54.1,2,0,17,9
+2020/21,Everton,Fulham,2021-02-14,0,49.7,1,0,7,7,2,50.3,1,0,16,12
+2020/21,Leicester City,Liverpool,2021-02-13,3,38.0,1,0,7,11,1,62.0,2,0,6,15
+2020/21,Crystal Palace,Burnley,2021-02-13,0,53.3,0,0,15,13,3,46.7,0,0,14,16
+2020/21,Manchester City,Tottenham Hotspur,2021-02-13,3,60.4,1,0,12,15,0,39.6,3,0,13,7
+2020/21,Brighton and Hove Albion,Aston Villa,2021-02-13,0,58.2,2,0,16,26,0,41.8,3,0,12,4
+2020/21,Leeds United,Crystal Palace,2021-02-08,2,68.2,0,0,7,17,0,31.8,2,0,8,8
+2020/21,Tottenham Hotspur,West Bromwich Albion,2021-02-07,2,65.6,1,0,16,13,0,34.4,2,0,12,4
+2020/21,Wolverhampton Wanderers,Leicester City,2021-02-07,0,43.9,1,0,11,13,0,56.1,3,0,15,13
+2020/21,Liverpool,Manchester City,2021-02-07,1,55.9,2,0,13,8,4,44.1,1,0,8,8
+2020/21,Sheffield United,Chelsea,2021-02-07,1,31.1,1,0,8,8,2,68.9,0,0,8,9
+2020/21,Aston Villa,Arsenal,2021-02-06,1,33.6,3,0,12,12,0,66.4,2,0,12,14
+2020/21,Burnley,Brighton and Hove Albion,2021-02-06,1,54.5,2,0,8,20,1,45.5,0,0,10,10
+2020/21,Newcastle United,Southampton,2021-02-06,3,26.2,2,1,11,6,2,73.8,1,0,14,14
+2020/21,Fulham,West Ham United,2021-02-06,0,60.6,1,0,11,20,0,39.4,3,1,10,8
+2020/21,Manchester United,Everton,2021-02-06,3,62.0,2,0,14,14,3,38.0,1,0,10,6
+2020/21,Tottenham Hotspur,Chelsea,2021-02-04,0,42.0,2,0,20,7,1,58.0,3,0,14,16
+2020/21,Burnley,Manchester City,2021-02-03,0,25.7,2,0,8,2,2,74.3,1,0,5,13
+2020/21,Fulham,Leicester City,2021-02-03,0,57.5,3,0,17,8,2,42.5,1,0,10,9
+2020/21,Leeds United,Everton,2021-02-03,1,63.2,2,0,12,16,2,36.8,3,0,12,10
+2020/21,Aston Villa,West Ham United,2021-02-03,1,56.5,1,0,11,9,3,43.5,1,0,16,20
+2020/21,Liverpool,Brighton and Hove Albion,2021-02-03,0,63.4,1,0,12,11,1,36.6,0,0,6,13
+2020/21,Sheffield United,West Bromwich Albion,2021-02-02,2,68.3,2,0,11,14,1,31.7,1,0,9,8
+2020/21,Wolverhampton Wanderers,Arsenal,2021-02-02,2,54.6,3,0,11,11,1,45.4,2,2,8,9
+2020/21,Manchester United,Southampton,2021-02-02,9,74.6,2,0,11,24,0,25.4,3,2,6,3
+2020/21,Newcastle United,Crystal Palace,2021-02-02,1,61.3,1,0,14,21,2,38.7,3,0,11,6
+2020/21,Chelsea,Burnley,2021-01-31,2,71.1,0,0,7,19,0,28.9,1,0,9,1
+2020/21,Leicester City,Leeds United,2021-01-31,1,50.8,0,0,17,18,3,49.2,3,0,16,8
+2020/21,West Ham United,Liverpool,2021-01-31,1,32.8,2,0,7,8,3,67.2,0,0,8,14
+2020/21,Brighton and Hove Albion,Tottenham Hotspur,2021-01-31,1,43.2,2,0,11,16,0,56.8,1,0,11,8
+2020/21,Everton,Newcastle United,2021-01-30,0,60.9,3,0,13,11,2,39.1,4,0,6,13
+2020/21,Crystal Palace,Wolverhampton Wanderers,2021-01-30,1,47.3,1,0,7,11,0,52.7,2,0,10,6
+2020/21,Manchester City,Sheffield United,2021-01-30,1,75.0,0,0,7,10,0,25.0,3,0,10,4
+2020/21,West Bromwich Albion,Fulham,2021-01-30,2,37.5,1,0,9,5,2,62.5,0,0,10,12
+2020/21,Arsenal,Manchester United,2021-01-30,0,43.3,1,0,9,17,0,56.7,3,0,16,14
+2020/21,Southampton,Aston Villa,2021-01-30,0,59.8,1,0,12,20,1,40.2,0,0,11,8
+2020/21,Tottenham Hotspur,Liverpool,2021-01-28,1,49.8,1,0,9,3,3,50.2,2,0,11,14
+2020/21,Burnley,Aston Villa,2021-01-27,3,38.2,1,0,16,10,2,61.8,0,0,7,18
+2020/21,Chelsea,Wolverhampton Wanderers,2021-01-27,0,78.9,1,0,14,14,0,21.1,1,0,7,4
+2020/21,Brighton and Hove Albion,Fulham,2021-01-27,0,49.5,2,0,10,16,0,50.5,1,0,14,10
+2020/21,Everton,Leicester City,2021-01-27,1,35.0,1,0,12,8,1,65.0,1,0,10,19
+2020/21,Manchester United,Sheffield United,2021-01-27,1,75.8,1,0,10,16,2,24.2,1,0,12,5
+2020/21,Crystal Palace,West Ham United,2021-01-26,2,54.2,0,0,9,6,3,45.8,0,0,8,17
+2020/21,Newcastle United,Leeds United,2021-01-26,1,42.3,1,0,10,22,2,57.7,3,0,15,9
+2020/21,Southampton,Arsenal,2021-01-26,1,58.0,1,0,11,13,3,42.0,2,0,6,9
+2020/21,West Bromwich Albion,Manchester City,2021-01-26,0,22.3,2,0,8,4,5,77.7,0,0,8,18
+2020/21,Aston Villa,Newcastle United,2021-01-23,2,59.2,0,0,9,14,0,40.8,3,0,18,7
+2020/21,Liverpool,Burnley,2021-01-21,0,71.8,2,0,11,27,1,28.2,1,0,8,6
+2020/21,Manchester City,Aston Villa,2021-01-20,2,69.1,0,0,10,28,0,30.9,2,0,9,11
+2020/21,Fulham,Manchester United,2021-01-20,1,38.4,3,0,6,12,2,61.6,1,0,10,15
+2020/21,Leicester City,Chelsea,2021-01-19,2,35.6,1,0,7,8,0,64.4,3,0,16,9
+2020/21,West Ham United,West Bromwich Albion,2021-01-19,2,59.0,0,0,10,14,1,41.0,1,0,10,6
+2020/21,Arsenal,Newcastle United,2021-01-18,3,66.4,0,0,9,20,0,33.6,0,0,8,4
+2020/21,Sheffield United,Tottenham Hotspur,2021-01-17,1,42.0,4,0,13,15,3,58.0,0,0,4,14
+2020/21,Liverpool,Manchester United,2021-01-17,0,65.7,2,0,15,17,0,34.3,1,0,6,8
+2020/21,Manchester City,Crystal Palace,2021-01-17,4,72.2,0,0,9,13,0,27.8,0,0,8,2
+2020/21,Wolverhampton Wanderers,West Bromwich Albion,2021-01-16,2,67.8,2,0,10,23,3,32.2,1,0,14,12
+2020/21,Leeds United,Brighton and Hove Albion,2021-01-16,0,66.6,1,0,8,7,1,33.4,1,0,9,7
+2020/21,West Ham United,Burnley,2021-01-16,1,44.8,2,0,12,15,0,55.2,1,0,9,10
+2020/21,Fulham,Chelsea,2021-01-16,0,30.2,2,1,11,10,1,69.8,3,0,10,21
+2020/21,Leicester City,Southampton,2021-01-16,2,47.4,2,0,10,16,0,52.6,2,0,11,8
+2020/21,Arsenal,Crystal Palace,2021-01-14,0,67.3,1,0,11,11,0,32.7,1,0,11,12
+2020/21,Manchester City,Brighton and Hove Albion,2021-01-13,1,65.1,0,0,4,16,0,34.9,2,0,12,5
+2020/21,Tottenham Hotspur,Fulham,2021-01-13,1,52.4,1,0,13,15,1,47.6,2,0,15,15
+2020/21,Sheffield United,Newcastle United,2021-01-12,1,66.2,2,0,13,17,0,33.8,3,1,12,7
+2020/21,Burnley,Manchester United,2021-01-12,0,37.3,1,0,15,11,1,62.7,2,0,13,13
+2020/21,Wolverhampton Wanderers,Everton,2021-01-12,1,52.8,2,0,6,12,2,47.2,2,0,11,5
+2020/21,Southampton,Liverpool,2021-01-04,1,33.0,1,0,5,7,0,67.0,3,0,12,17
+2020/21,Newcastle United,Leicester City,2021-01-03,1,43.3,0,0,10,8,2,56.7,2,0,11,9
+2020/21,Chelsea,Manchester City,2021-01-03,1,54.6,3,0,11,9,3,45.4,1,0,10,18
+2020/21,Tottenham Hotspur,Leeds United,2021-01-02,3,36.7,2,1,15,20,0,63.3,1,0,13,18
+2020/21,Crystal Palace,Sheffield United,2021-01-02,2,44.4,1,0,8,9,0,55.6,3,0,18,7
+2020/21,Brighton and Hove Albion,Wolverhampton Wanderers,2021-01-02,3,54.5,2,0,13,13,3,45.5,1,0,8,11
+2020/21,West Bromwich Albion,Arsenal,2021-01-02,0,38.1,1,0,7,7,4,61.9,2,0,4,21
+2020/21,Everton,West Ham United,2021-01-01,0,60.0,2,0,9,10,1,40.0,0,0,7,11
+2020/21,Manchester United,Aston Villa,2021-01-01,2,48.4,4,0,22,19,1,51.6,0,0,10,15
+2020/21,Newcastle United,Liverpool,2020-12-30,0,26.9,2,0,9,8,0,73.1,3,0,13,11
+2020/21,Brighton and Hove Albion,Arsenal,2020-12-29,0,49.7,2,0,11,13,1,50.3,0,0,4,11
+2020/21,Burnley,Sheffield United,2020-12-29,1,37.1,1,0,13,5,0,62.9,2,0,17,7
+2020/21,Southampton,West Ham United,2020-12-29,0,62.6,3,0,16,8,0,37.4,1,0,15,8
+2020/21,West Bromwich Albion,Leeds United,2020-12-29,0,24.4,0,0,7,4,5,75.6,1,0,10,14
+2020/21,Manchester United,Wolverhampton Wanderers,2020-12-29,1,58.2,1,0,11,11,0,41.8,1,0,7,9
+2020/21,Crystal Palace,Leicester City,2020-12-28,1,33.1,0,0,10,4,1,66.9,1,0,7,17
+2020/21,Chelsea,Aston Villa,2020-12-28,1,63.4,3,0,16,16,1,36.6,1,0,3,10
+2020/21,Leeds United,Burnley,2020-12-27,1,51.4,0,0,8,11,0,48.6,3,0,14,14
+2020/21,West Ham United,Brighton and Hove Albion,2020-12-27,2,43.6,0,0,6,11,2,56.4,0,0,8,13
+2020/21,Liverpool,West Bromwich Albion,2020-12-27,1,78.4,0,0,8,17,1,21.6,1,0,5,5
+2020/21,Wolverhampton Wanderers,Tottenham Hotspur,2020-12-27,1,54.8,4,0,20,11,1,45.2,1,0,13,6
+2020/21,Arsenal,Chelsea,2020-12-26,3,39.0,2,0,13,15,1,61.0,1,0,10,19
+2020/21,Manchester City,Newcastle United,2020-12-26,2,75.1,2,0,5,11,0,24.9,2,0,12,7
+2020/21,Sheffield United,Everton,2020-12-26,0,43.8,2,0,11,10,1,56.2,4,0,10,7
+2020/21,Leicester City,Manchester United,2020-12-26,2,54.4,2,0,10,10,2,45.6,1,0,17,9
+2020/21,Aston Villa,Crystal Palace,2020-12-26,3,38.6,1,1,18,20,0,61.4,4,0,16,13
+2020/21,Fulham,Southampton,2020-12-26,0,46.7,2,0,15,10,0,53.3,0,0,12,3
+2020/21,Burnley,Wolverhampton Wanderers,2020-12-21,2,36.4,2,0,11,10,1,63.6,1,0,15,15
+2020/21,Chelsea,West Ham United,2020-12-21,3,53.7,0,0,11,11,0,46.3,0,0,6,6
+2020/21,Brighton and Hove Albion,Sheffield United,2020-12-20,1,73.5,1,0,9,21,1,26.5,5,1,11,5
+2020/21,Tottenham Hotspur,Leicester City,2020-12-20,0,56.4,2,0,15,8,2,43.6,2,0,14,17
+2020/21,Manchester United,Leeds United,2020-12-20,6,41.5,1,0,6,26,2,58.5,0,0,6,17
+2020/21,West Bromwich Albion,Aston Villa,2020-12-20,0,32.7,1,1,14,1,3,67.3,2,0,8,19
+2020/21,Crystal Palace,Liverpool,2020-12-19,0,35.3,1,0,5,5,7,64.7,0,0,11,14
+2020/21,Southampton,Manchester City,2020-12-19,0,48.3,2,0,9,9,1,51.7,2,0,11,11
+2020/21,Everton,Arsenal,2020-12-19,2,42.2,1,0,9,9,1,57.8,3,0,9,13
+2020/21,Newcastle United,Fulham,2020-12-19,1,49.5,1,0,7,12,1,50.5,3,1,17,11
+2020/21,Aston Villa,Burnley,2020-12-17,0,59.1,1,0,17,27,0,40.9,1,0,19,6
+2020/21,Sheffield United,Manchester United,2020-12-17,2,40.1,3,0,17,12,3,59.9,2,0,8,15
+2020/21,Arsenal,Southampton,2020-12-16,1,35.2,1,1,13,9,1,64.8,3,0,13,13
+2020/21,Leeds United,Newcastle United,2020-12-16,5,68.7,3,0,10,25,2,31.3,1,0,13,10
+2020/21,Leicester City,Everton,2020-12-16,0,61.0,2,0,12,14,2,39.0,3,0,9,11
+2020/21,Fulham,Brighton and Hove Albion,2020-12-16,0,46.4,1,0,15,9,0,53.6,0,0,11,9
+2020/21,Liverpool,Tottenham Hotspur,2020-12-16,2,75.8,0,0,8,17,1,24.2,2,0,9,8
+2020/21,West Ham United,Crystal Palace,2020-12-16,1,51.9,0,0,8,9,1,48.1,1,1,12,8
+2020/21,Wolverhampton Wanderers,Chelsea,2020-12-15,2,45.1,2,0,12,12,1,54.9,2,0,12,13
+2020/21,Manchester City,West Bromwich Albion,2020-12-15,1,77.2,2,0,5,26,1,22.8,3,0,8,5
+2020/21,Southampton,Sheffield United,2020-12-13,3,68.2,0,0,8,16,0,31.8,1,0,14,3
+2020/21,Crystal Palace,Tottenham Hotspur,2020-12-13,1,42.9,1,0,15,16,1,57.1,1,0,11,14
+2020/21,Fulham,Liverpool,2020-12-13,1,24.9,3,0,9,10,1,75.1,1,0,5,12
+2020/21,Arsenal,Burnley,2020-12-13,0,64.7,2,1,5,18,1,35.3,1,0,11,10
+2020/21,Leicester City,Brighton and Hove Albion,2020-12-13,3,54.1,2,0,9,15,0,45.9,1,0,10,12
+2020/21,Wolverhampton Wanderers,Aston Villa,2020-12-12,0,50.5,2,1,23,16,1,49.5,5,1,15,13
+2020/21,Newcastle United,West Bromwich Albion,2020-12-12,2,45.3,2,0,9,12,1,54.7,3,0,12,13
+2020/21,Manchester United,Manchester City,2020-12-12,0,46.1,1,0,13,11,0,53.9,1,0,6,9
+2020/21,Everton,Chelsea,2020-12-12,1,28.0,2,0,10,9,0,72.0,3,0,11,10
+2020/21,Leeds United,West Ham United,2020-12-11,1,64.0,1,0,12,13,2,36.0,2,0,10,19
+2020/21,Brighton and Hove Albion,Southampton,2020-12-07,1,47.7,3,0,12,12,2,52.3,3,0,12,10
+2020/21,West Bromwich Albion,Crystal Palace,2020-12-06,1,50.1,2,1,10,9,5,49.9,2,0,16,18
+2020/21,Sheffield United,Leicester City,2020-12-06,1,29.7,1,0,13,4,2,70.3,3,0,6,13
+2020/21,Tottenham Hotspur,Arsenal,2020-12-06,2,30.2,1,0,16,5,0,69.8,2,0,12,11
+2020/21,Liverpool,Wolverhampton Wanderers,2020-12-06,4,60.6,1,0,8,11,0,39.4,1,0,14,9
+2020/21,West Ham United,Manchester United,2020-12-05,1,39.3,0,0,9,19,3,60.7,0,0,10,15
+2020/21,Chelsea,Leeds United,2020-12-05,3,45.8,0,0,12,23,1,54.2,2,0,9,8
+2020/21,Burnley,Everton,2020-12-05,1,41.4,0,0,6,8,1,58.6,0,0,9,13
+2020/21,Manchester City,Fulham,2020-12-05,2,68.9,0,0,7,15,0,31.1,0,0,6,6
+2020/21,Leicester City,Fulham,2020-11-30,1,68.0,0,0,9,16,2,32.0,2,0,21,10
+2020/21,West Ham United,Aston Villa,2020-11-30,2,34.0,1,0,20,6,1,66.0,1,0,7,16
+2020/21,Southampton,Manchester United,2020-11-29,2,49.9,1,0,12,10,3,50.1,0,0,12,15
+2020/21,Chelsea,Tottenham Hotspur,2020-11-29,0,60.3,4,0,20,13,0,39.7,2,0,9,5
+2020/21,Arsenal,Wolverhampton Wanderers,2020-11-29,1,56.2,3,0,13,13,2,43.8,4,0,13,11
+2020/21,Brighton and Hove Albion,Liverpool,2020-11-28,1,40.4,2,0,9,11,1,59.6,1,0,13,6
+2020/21,Manchester City,Burnley,2020-11-28,5,68.6,0,0,12,19,0,31.4,0,0,4,9
+2020/21,Everton,Leeds United,2020-11-28,0,41.8,1,0,8,15,1,58.2,2,0,14,23
+2020/21,West Bromwich Albion,Sheffield United,2020-11-28,1,48.7,2,0,10,17,0,51.3,3,0,9,21
+2020/21,Crystal Palace,Newcastle United,2020-11-27,0,57.4,2,0,9,12,2,42.6,2,0,10,14
+2020/21,Burnley,Crystal Palace,2020-11-23,1,46.1,2,0,13,10,0,53.9,0,0,9,15
+2020/21,Wolverhampton Wanderers,Southampton,2020-11-23,1,45.3,2,0,14,20,1,54.7,0,0,14,7
+2020/21,Fulham,Everton,2020-11-22,2,54.1,2,0,14,14,3,45.9,0,0,10,9
+2020/21,Sheffield United,West Ham United,2020-11-22,0,50.9,0,0,7,9,1,49.1,0,0,6,15
+2020/21,Leeds United,Arsenal,2020-11-22,0,66.3,3,0,9,25,0,33.7,0,1,8,9
+2020/21,Liverpool,Leicester City,2020-11-22,3,56.4,0,0,15,24,0,43.6,2,0,6,11
+2020/21,Newcastle United,Chelsea,2020-11-21,0,29.0,2,0,11,8,2,71.0,0,0,12,14
+2020/21,Aston Villa,Brighton and Hove Albion,2020-11-21,1,55.4,2,0,5,15,2,44.6,1,1,18,7
+2020/21,Tottenham Hotspur,Manchester City,2020-11-21,2,33.9,2,0,13,4,0,66.1,2,0,19,22
+2020/21,Manchester United,West Bromwich Albion,2020-11-21,1,63.1,1,0,12,17,0,36.9,1,0,17,7
+2020/21,West Bromwich Albion,Tottenham Hotspur,2020-11-08,0,41.2,1,0,17,12,1,58.8,0,0,12,19
+2020/21,Leicester City,Wolverhampton Wanderers,2020-11-08,1,49.6,2,0,12,10,0,50.4,3,0,8,8
+2020/21,Manchester City,Liverpool,2020-11-08,1,54.6,3,0,19,7,1,45.4,1,0,11,10
+2020/21,Arsenal,Aston Villa,2020-11-08,0,58.8,0,0,11,13,3,41.2,0,0,13,15
+2020/21,Everton,Manchester United,2020-11-07,1,54.7,4,0,12,7,3,45.3,2,0,19,13
+2020/21,Crystal Palace,Leeds United,2020-11-07,4,35.2,0,0,9,10,1,64.8,2,0,16,9
+2020/21,Chelsea,Sheffield United,2020-11-07,4,70.1,0,0,5,20,1,29.9,2,0,14,6
+2020/21,West Ham United,Fulham,2020-11-07,1,53.0,2,0,10,16,0,47.0,2,0,9,13
+2020/21,Brighton and Hove Albion,Burnley,2020-11-06,0,58.9,1,0,11,19,0,41.1,0,0,5,4
+2020/21,Southampton,Newcastle United,2020-11-06,2,60.7,1,0,12,15,0,39.3,2,0,11,4
+2020/21,Fulham,West Bromwich Albion,2020-11-02,2,45.7,3,0,13,13,0,54.3,2,0,11,10
+2020/21,Leeds United,Leicester City,2020-11-02,1,67.5,1,0,9,11,4,32.5,1,0,5,10
+2020/21,Aston Villa,Southampton,2020-11-01,3,55.9,1,0,12,19,4,44.1,2,0,17,9
+2020/21,Newcastle United,Everton,2020-11-01,2,37.7,2,0,9,11,1,62.3,4,0,10,15
+2020/21,Manchester United,Arsenal,2020-11-01,0,53.3,3,0,12,8,1,46.7,3,0,12,7
+2020/21,Tottenham Hotspur,Brighton and Hove Albion,2020-11-01,2,43.4,2,0,14,9,1,56.6,1,0,13,6
+2020/21,Burnley,Chelsea,2020-10-31,0,36.3,1,0,10,5,3,63.7,0,0,15,14
+2020/21,Liverpool,West Ham United,2020-10-31,2,72.4,0,0,13,9,1,27.6,1,0,14,4
+2020/21,Sheffield United,Manchester City,2020-10-31,0,35.2,0,0,14,3,1,64.8,0,0,6,16
+2020/21,Wolverhampton Wanderers,Crystal Palace,2020-10-30,2,45.0,0,0,13,15,0,55.0,2,1,4,11
+2020/21,Brighton and Hove Albion,West Bromwich Albion,2020-10-26,1,49.7,2,0,14,5,1,50.3,0,0,7,9
+2020/21,Burnley,Tottenham Hotspur,2020-10-26,0,38.3,2,0,9,13,1,61.7,0,0,7,9
+2020/21,Southampton,Everton,2020-10-25,2,54.3,1,0,11,13,0,45.7,2,1,11,6
+2020/21,Wolverhampton Wanderers,Newcastle United,2020-10-25,1,63.4,0,0,10,16,1,36.6,1,0,10,5
+2020/21,Arsenal,Leicester City,2020-10-25,0,56.3,3,0,13,12,1,43.7,5,0,9,6
+2020/21,West Ham United,Manchester City,2020-10-24,1,30.5,2,0,14,6,1,69.5,0,0,6,14
+2020/21,Fulham,Crystal Palace,2020-10-24,1,64.2,0,1,11,16,2,35.8,1,0,11,14
+2020/21,Manchester United,Chelsea,2020-10-24,0,50.2,3,0,8,14,0,49.8,1,0,6,6
+2020/21,Liverpool,Sheffield United,2020-10-24,2,62.2,0,0,7,17,1,37.8,3,0,15,13
+2020/21,Aston Villa,Leeds United,2020-10-23,0,40.8,2,0,14,12,3,59.2,2,0,17,27
+2020/21,West Bromwich Albion,Burnley,2020-10-19,0,56.8,2,0,15,13,0,43.2,2,0,17,9
+2020/21,Leeds United,Wolverhampton Wanderers,2020-10-19,0,67.8,2,0,13,13,1,32.2,1,0,12,7
+2020/21,Sheffield United,Fulham,2020-10-18,1,41.5,0,0,5,10,1,58.5,2,0,9,15
+2020/21,Crystal Palace,Brighton and Hove Albion,2020-10-18,1,34.3,3,0,13,1,1,65.7,2,1,13,20
+2020/21,Tottenham Hotspur,West Ham United,2020-10-18,3,51.2,0,0,13,11,3,48.8,5,0,12,13
+2020/21,Leicester City,Aston Villa,2020-10-18,0,50.5,4,0,18,11,1,49.5,3,0,18,10
+2020/21,Everton,Liverpool,2020-10-17,2,41.9,3,1,15,11,2,58.1,2,0,9,22
+2020/21,Chelsea,Southampton,2020-10-17,3,53.4,1,0,11,11,3,46.6,1,0,9,13
+2020/21,Manchester City,Arsenal,2020-10-17,1,58.5,4,0,15,13,0,41.5,1,0,10,11
+2020/21,Newcastle United,Manchester United,2020-10-17,1,36.4,1,0,9,7,4,63.6,1,0,12,28
+2020/21,Leicester City,West Ham United,2020-10-04,0,69.5,2,0,10,4,3,30.5,2,0,8,14
+2020/21,Southampton,West Bromwich Albion,2020-10-04,2,61.6,2,0,19,13,0,38.4,1,0,10,5
+2020/21,Arsenal,Sheffield United,2020-10-04,2,64.5,0,0,3,6,1,35.5,1,0,9,6
+2020/21,Wolverhampton Wanderers,Fulham,2020-10-04,1,47.1,1,0,15,14,0,52.9,1,0,8,10
+2020/21,Manchester United,Tottenham Hotspur,2020-10-04,1,38.4,2,1,14,5,6,61.6,1,0,11,22
+2020/21,Aston Villa,Liverpool,2020-10-04,7,30.2,2,0,7,18,2,69.8,1,0,10,14
+2020/21,Chelsea,Crystal Palace,2020-10-03,4,70.9,2,0,17,17,0,29.1,0,0,13,4
+2020/21,Everton,Brighton and Hove Albion,2020-10-03,4,43.4,0,0,13,11,2,56.6,1,0,14,11
+2020/21,Leeds United,Manchester City,2020-10-03,1,52.1,2,0,11,12,1,47.9,1,0,12,23
+2020/21,Newcastle United,Burnley,2020-10-03,3,47.7,2,0,13,10,1,52.3,3,0,17,7
+2020/21,Fulham,Aston Villa,2020-09-28,0,65.0,6,0,18,16,3,35.0,3,0,14,12
+2020/21,Liverpool,Arsenal,2020-09-28,3,66.0,2,0,11,21,1,34.0,2,0,7,4
+2020/21,Sheffield United,Leeds United,2020-09-27,0,36.3,2,0,18,14,1,63.7,1,0,4,17
+2020/21,Tottenham Hotspur,Newcastle United,2020-09-27,1,65.8,1,0,15,23,1,34.2,4,0,9,6
+2020/21,Manchester City,Leicester City,2020-09-27,2,71.7,1,0,13,16,5,28.3,3,0,8,7
+2020/21,West Ham United,Wolverhampton Wanderers,2020-09-27,4,36.9,0,0,7,15,0,63.1,1,0,11,11
+2020/21,West Bromwich Albion,Chelsea,2020-09-26,3,24.1,1,0,8,9,3,75.9,3,0,16,22
+2020/21,Burnley,Southampton,2020-09-26,0,53.4,1,0,8,10,1,46.6,0,0,10,5
+2020/21,Brighton and Hove Albion,Manchester United,2020-09-26,2,53.3,4,0,18,18,3,46.7,2,0,16,7
+2020/21,Crystal Palace,Everton,2020-09-26,1,42.3,3,0,16,8,2,57.7,1,0,15,10
+2020/21,Aston Villa,Sheffield United,2020-09-21,1,71.9,3,0,12,18,0,28.1,1,1,13,4
+2020/21,Wolverhampton Wanderers,Manchester City,2020-09-21,1,34.8,0,0,7,10,3,65.2,3,0,8,14
+2020/21,Southampton,Tottenham Hotspur,2020-09-20,2,52.5,4,0,17,14,5,47.5,3,0,18,9
+2020/21,Newcastle United,Brighton and Hove Albion,2020-09-20,0,47.2,3,0,16,6,3,52.8,0,1,15,13
+2020/21,Chelsea,Liverpool,2020-09-20,0,38.7,1,1,10,5,2,61.3,0,0,6,18
+2020/21,Leicester City,Burnley,2020-09-20,4,67.8,1,0,11,14,2,32.2,2,0,13,16
+2020/21,Everton,West Bromwich Albion,2020-09-19,5,71.3,1,0,9,17,2,28.7,0,1,11,6
+2020/21,Leeds United,Fulham,2020-09-19,4,50.3,1,0,13,10,3,49.7,2,0,18,14
+2020/21,Manchester United,Crystal Palace,2020-09-19,1,75.8,2,0,13,17,3,24.2,1,0,10,14
+2020/21,Arsenal,West Ham United,2020-09-19,2,62.6,0,0,11,7,1,37.4,1,0,13,14
+2020/21,Sheffield United,Wolverhampton Wanderers,2020-09-14,0,55.1,2,0,13,9,2,44.9,1,0,7,11
+2020/21,Brighton and Hove Albion,Chelsea,2020-09-14,1,52.3,1,0,8,13,3,47.7,0,0,13,10
+2020/21,West Bromwich Albion,Leicester City,2020-09-13,0,35.8,1,0,12,7,3,64.2,1,0,9,13
+2020/21,Tottenham Hotspur,Everton,2020-09-13,0,51.6,1,0,15,9,1,48.4,0,0,7,15
+2020/21,Fulham,Arsenal,2020-09-12,0,45.6,2,0,12,5,3,54.4,2,0,12,13
+2020/21,Crystal Palace,Southampton,2020-09-12,1,29.4,2,0,14,5,0,70.6,1,1,11,9
+2020/21,Liverpool,Leeds United,2020-09-12,4,48.8,1,0,9,22,3,51.2,0,0,6,6
+2020/21,West Ham United,Newcastle United,2020-09-12,0,58.3,2,0,13,15,2,41.7,2,0,7,15
+2019/20,Arsenal,Watford,2020-07-26,3,51.1,3,0,9,13,2,48.9,3,0,12,19
+2019/20,Burnley,Brighton and Hove Albion,2020-07-26,1,54.2,3,0,11,13,2,45.8,0,0,11,15
+2019/20,Chelsea,Wolverhampton Wanderers,2020-07-26,2,62.9,2,0,10,11,0,37.1,3,0,16,5
+2019/20,Crystal Palace,Tottenham Hotspur,2020-07-26,1,47.2,3,0,11,13,1,52.8,2,0,13,7
+2019/20,Everton,AFC Bournemouth,2020-07-26,1,70.0,1,0,11,13,3,30.0,0,0,9,13
+2019/20,Leicester City,Manchester United,2020-07-26,0,45.8,1,1,12,14,2,54.2,5,0,11,7
+2019/20,Manchester City,Norwich City,2020-07-26,5,73.1,1,0,7,31,0,26.9,1,0,4,5
+2019/20,Newcastle United,Liverpool,2020-07-26,1,25.3,1,0,11,3,3,74.7,0,0,5,14
+2019/20,Southampton,Sheffield United,2020-07-26,3,72.1,0,0,9,13,1,27.9,1,0,16,5
+2019/20,West Ham United,Aston Villa,2020-07-26,1,63.0,2,0,16,10,1,37.0,1,0,13,13
+2019/20,Manchester United,West Ham United,2020-07-22,1,57.2,3,0,10,11,1,42.8,1,0,9,12
+2019/20,Liverpool,Chelsea,2020-07-22,5,50.0,1,0,8,10,3,50.0,0,0,11,10
+2019/20,Watford,Manchester City,2020-07-21,0,23.1,2,0,14,2,4,76.9,0,0,11,26
+2019/20,Aston Villa,Arsenal,2020-07-21,1,31.0,2,0,13,8,0,69.0,4,0,19,7
+2019/20,Brighton and Hove Albion,Newcastle United,2020-07-20,0,62.5,4,0,13,11,0,37.5,2,0,12,12
+2019/20,Sheffield United,Everton,2020-07-20,0,50.6,1,0,11,8,1,49.4,3,0,19,5
+2019/20,Wolverhampton Wanderers,Crystal Palace,2020-07-20,2,53.4,2,0,11,11,0,46.6,1,0,15,7
+2019/20,AFC Bournemouth,Southampton,2020-07-19,0,43.0,2,0,12,11,2,57.0,2,0,11,16
+2019/20,Tottenham Hotspur,Leicester City,2020-07-19,3,29.0,2,0,15,7,0,71.0,1,0,10,24
+2019/20,Norwich City,Burnley,2020-07-18,0,42.3,0,2,9,6,2,57.7,0,0,16,23
+2019/20,West Ham United,Watford,2020-07-17,3,40.6,0,0,11,10,1,59.4,2,0,11,14
+2019/20,Everton,Aston Villa,2020-07-16,1,54.9,2,0,15,9,1,45.1,1,0,13,15
+2019/20,Leicester City,Sheffield United,2020-07-16,2,54.4,1,0,12,15,0,45.6,2,0,10,5
+2019/20,Crystal Palace,Manchester United,2020-07-16,0,40.6,1,0,10,13,2,59.4,2,0,15,17
+2019/20,Southampton,Brighton and Hove Albion,2020-07-16,1,67.9,1,0,6,21,1,32.1,0,0,10,10
+2019/20,Burnley,Wolverhampton Wanderers,2020-07-15,1,46.7,0,0,10,9,1,53.3,0,0,8,14
+2019/20,Manchester City,AFC Bournemouth,2020-07-15,2,72.5,1,0,10,8,1,27.5,1,0,10,15
+2019/20,Newcastle United,Tottenham Hotspur,2020-07-15,1,52.8,2,0,6,22,3,47.2,3,0,13,8
+2019/20,Arsenal,Liverpool,2020-07-15,2,31.1,3,0,14,3,1,68.9,1,0,10,24
+2019/20,Chelsea,Norwich City,2020-07-14,1,67.7,2,0,10,22,0,32.3,2,0,9,2
+2019/20,Manchester United,Southampton,2020-07-13,2,47.5,1,0,14,8,2,52.5,3,0,15,9
+2019/20,Wolverhampton Wanderers,Everton,2020-07-12,3,55.1,0,0,9,14,0,44.9,2,0,9,6
+2019/20,Aston Villa,Crystal Palace,2020-07-12,2,44.9,2,0,21,12,0,55.1,4,1,21,9
+2019/20,Tottenham Hotspur,Arsenal,2020-07-12,2,37.3,5,0,16,15,1,62.7,3,0,11,13
+2019/20,AFC Bournemouth,Leicester City,2020-07-12,4,44.1,2,0,11,9,1,55.9,1,1,12,13
+2019/20,Norwich City,West Ham United,2020-07-11,0,52.5,1,0,9,11,4,47.5,0,0,8,19
+2019/20,Watford,Newcastle United,2020-07-11,2,47.7,1,0,23,17,1,52.3,4,0,15,8
+2019/20,Liverpool,Burnley,2020-07-11,1,70.8,1,0,7,23,1,29.2,2,0,4,6
+2019/20,Sheffield United,Chelsea,2020-07-11,3,23.7,1,0,8,9,0,76.3,0,0,6,15
+2019/20,Brighton and Hove Albion,Manchester City,2020-07-11,0,29.8,1,0,7,3,5,70.2,0,0,3,26
+2019/20,AFC Bournemouth,Tottenham Hotspur,2020-07-09,0,35.7,3,0,11,9,0,64.3,2,0,14,9
+2019/20,Everton,Southampton,2020-07-09,1,38.7,3,0,13,11,1,61.3,3,0,14,16
+2019/20,Aston Villa,Manchester United,2020-07-09,0,33.4,2,0,7,9,3,66.6,3,0,13,14
+2019/20,Manchester City,Newcastle United,2020-07-08,5,73.6,0,0,13,23,0,26.4,0,0,7,6
+2019/20,Sheffield United,Wolverhampton Wanderers,2020-07-08,1,42.8,2,0,5,7,0,57.2,0,0,6,6
+2019/20,West Ham United,Burnley,2020-07-08,0,53.2,1,0,7,21,1,46.8,1,0,7,8
+2019/20,Brighton and Hove Albion,Liverpool,2020-07-08,1,44.4,1,0,7,12,3,55.6,4,0,15,20
+2019/20,Crystal Palace,Chelsea,2020-07-07,2,42.0,1,0,11,13,3,58.0,0,0,10,14
+2019/20,Watford,Norwich City,2020-07-07,2,43.5,2,0,11,9,1,56.5,4,0,15,12
+2019/20,Arsenal,Leicester City,2020-07-07,1,37.5,1,1,10,11,1,62.5,0,0,14,13
+2019/20,Tottenham Hotspur,Everton,2020-07-06,1,51.6,3,0,14,12,0,48.4,2,0,18,11
+2019/20,Burnley,Sheffield United,2020-07-05,1,47.4,0,0,8,9,1,52.6,0,0,14,10
+2019/20,Newcastle United,West Ham United,2020-07-05,2,57.4,1,0,9,11,2,42.6,0,0,11,17
+2019/20,Liverpool,Aston Villa,2020-07-05,2,71.2,1,0,18,6,0,28.8,1,0,8,9
+2019/20,Southampton,Manchester City,2020-07-05,1,26.3,1,0,6,8,0,73.7,2,0,7,26
+2019/20,Norwich City,Brighton and Hove Albion,2020-07-04,0,58.0,2,0,11,12,1,42.0,2,0,13,8
+2019/20,Leicester City,Crystal Palace,2020-07-04,3,52.2,2,0,18,15,0,47.8,1,0,8,7
+2019/20,Manchester United,AFC Bournemouth,2020-07-04,5,69.3,0,0,3,19,2,30.7,1,0,12,7
+2019/20,Wolverhampton Wanderers,Arsenal,2020-07-04,0,51.9,2,0,6,10,2,48.1,4,0,11,8
+2019/20,Chelsea,Watford,2020-07-04,3,70.4,0,0,9,21,0,29.6,2,0,12,7
+2019/20,Sheffield United,Tottenham Hotspur,2020-07-02,3,32.5,2,0,13,7,1,67.5,0,0,13,9
+2019/20,Manchester City,Liverpool,2020-07-02,4,47.0,2,0,8,14,0,53.0,2,0,7,11
+2019/20,AFC Bournemouth,Newcastle United,2020-07-01,1,54.9,2,0,11,12,4,45.1,0,0,10,12
+2019/20,Arsenal,Norwich City,2020-07-01,4,51.6,1,0,10,13,0,48.4,4,0,10,8
+2019/20,Everton,Leicester City,2020-07-01,2,34.9,1,0,13,7,1,65.1,1,0,10,15
+2019/20,West Ham United,Chelsea,2020-07-01,3,28.8,2,0,10,10,2,71.2,1,0,9,17
+2019/20,Brighton and Hove Albion,Manchester United,2020-06-30,0,38.0,0,0,10,8,3,62.0,1,0,9,12
+2019/20,Crystal Palace,Burnley,2020-06-29,0,58.4,1,0,12,17,1,41.6,1,0,13,8
+2019/20,Watford,Southampton,2020-06-28,1,47.6,3,0,18,8,3,52.4,0,0,9,11
+2019/20,Aston Villa,Wolverhampton Wanderers,2020-06-27,0,48.0,1,0,16,11,1,52.0,1,0,16,9
+2019/20,Burnley,Watford,2020-06-25,1,55.2,1,0,13,9,0,44.8,0,0,15,10
+2019/20,Southampton,Arsenal,2020-06-25,0,52.6,0,1,10,12,2,47.4,2,0,14,10
+2019/20,Chelsea,Manchester City,2020-06-25,2,35.3,1,0,13,15,1,64.7,1,1,3,11
+2019/20,Manchester United,Sheffield United,2020-06-24,3,68.2,1,0,10,15,0,31.8,0,0,6,4
+2019/20,Newcastle United,Aston Villa,2020-06-24,1,52.1,2,0,15,13,1,47.9,2,0,13,14
+2019/20,Norwich City,Everton,2020-06-24,0,46.6,0,0,8,9,1,53.4,1,0,13,12
+2019/20,Wolverhampton Wanderers,AFC Bournemouth,2020-06-24,1,55.1,3,0,11,10,0,44.9,3,0,11,4
+2019/20,Liverpool,Crystal Palace,2020-06-24,4,73.3,0,0,7,21,0,26.7,0,0,5,3
+2019/20,Leicester City,Brighton and Hove Albion,2020-06-23,0,66.4,2,0,10,11,0,33.6,2,0,13,10
+2019/20,Tottenham Hotspur,West Ham United,2020-06-23,2,64.5,2,0,12,15,0,35.5,2,0,7,10
+2019/20,Manchester City,Burnley,2020-06-22,5,71.7,1,0,8,19,0,28.3,1,0,7,1
+2019/20,Newcastle United,Sheffield United,2020-06-21,3,46.0,2,0,9,12,0,54.0,0,1,10,7
+2019/20,Aston Villa,Chelsea,2020-06-21,1,26.0,2,0,9,8,2,74.0,1,0,17,19
+2019/20,Everton,Liverpool,2020-06-21,0,29.9,2,0,15,8,0,70.1,2,0,12,10
+2019/20,Watford,Leicester City,2020-06-20,1,31.7,0,0,15,8,1,68.3,1,0,12,15
+2019/20,Brighton and Hove Albion,Arsenal,2020-06-20,2,41.3,2,0,13,9,1,58.7,1,0,8,13
+2019/20,West Ham United,Wolverhampton Wanderers,2020-06-20,0,42.2,1,0,8,7,2,57.8,1,0,7,10
+2019/20,AFC Bournemouth,Crystal Palace,2020-06-20,0,58.7,3,0,13,12,2,41.3,2,0,15,7
+2019/20,Norwich City,Southampton,2020-06-19,0,55.0,1,0,9,9,3,45.0,1,0,15,22
+2019/20,Tottenham Hotspur,Manchester United,2020-06-19,1,38.8,0,0,17,10,1,61.2,1,0,18,12
+2019/20,Aston Villa,Sheffield United,2020-06-17,0,45.1,1,0,11,14,0,54.9,1,0,14,5
+2019/20,Manchester City,Arsenal,2020-06-17,3,67.1,1,0,9,20,0,32.9,1,1,7,3
+2019/20,Leicester City,Aston Villa,2020-03-09,4,64.6,2,0,15,15,0,35.4,1,0,12,4
+2019/20,Chelsea,Everton,2020-03-08,4,60.2,1,0,8,17,0,39.8,2,0,10,3
+2019/20,Manchester United,Manchester City,2020-03-08,2,27.7,2,0,11,12,0,72.3,4,0,9,7
+2019/20,Liverpool,AFC Bournemouth,2020-03-07,2,74.5,0,0,10,14,1,25.5,1,0,12,6
+2019/20,Arsenal,West Ham United,2020-03-07,1,68.9,1,0,11,9,0,31.1,2,0,9,14
+2019/20,Crystal Palace,Watford,2020-03-07,1,44.2,4,0,12,10,0,55.8,4,0,16,10
+2019/20,Sheffield United,Norwich City,2020-03-07,1,41.8,0,0,12,10,0,58.2,0,0,8,12
+2019/20,Southampton,Newcastle United,2020-03-07,0,38.0,0,1,14,6,1,62.0,3,0,15,14
+2019/20,Wolverhampton Wanderers,Brighton and Hove Albion,2020-03-07,0,43.1,1,0,4,11,0,56.9,3,0,7,7
+2019/20,Burnley,Tottenham Hotspur,2020-03-07,1,45.0,5,0,16,21,1,55.0,4,0,11,13
+2019/20,Everton,Manchester United,2020-03-01,1,44.1,3,0,11,16,1,55.9,4,0,11,14
+2019/20,Tottenham Hotspur,Wolverhampton Wanderers,2020-03-01,2,65.5,3,0,12,13,3,34.5,2,0,14,14
+2019/20,Brighton and Hove Albion,Crystal Palace,2020-02-29,0,66.5,2,0,8,23,1,33.5,1,0,9,12
+2019/20,AFC Bournemouth,Chelsea,2020-02-29,2,26.9,2,0,8,9,2,73.1,2,0,5,23
+2019/20,Newcastle United,Burnley,2020-02-29,0,54.0,4,0,11,21,0,46.0,3,0,9,7
+2019/20,West Ham United,Southampton,2020-02-29,3,33.7,1,0,8,14,1,66.3,1,0,11,10
+2019/20,Watford,Liverpool,2020-02-29,3,29.2,0,0,4,14,0,70.8,0,0,8,7
+2019/20,Norwich City,Leicester City,2020-02-28,1,42.6,1,0,13,11,0,57.4,2,0,16,19
+2019/20,Liverpool,West Ham United,2020-02-24,3,69.3,0,0,4,25,2,30.7,3,0,10,7
+2019/20,Manchester United,Watford,2020-02-23,3,58.0,0,0,6,21,0,42.0,1,0,15,7
+2019/20,Wolverhampton Wanderers,Norwich City,2020-02-23,3,39.8,2,0,11,19,0,60.2,3,0,6,6
+2019/20,Arsenal,Everton,2020-02-23,3,51.3,0,0,12,9,2,48.7,4,0,12,17
+2019/20,Chelsea,Tottenham Hotspur,2020-02-22,2,49.1,1,0,14,17,1,50.9,2,0,14,5
+2019/20,Burnley,AFC Bournemouth,2020-02-22,3,42.1,4,0,9,16,0,57.9,3,0,9,12
+2019/20,Crystal Palace,Newcastle United,2020-02-22,1,44.2,2,0,15,18,0,55.8,6,1,11,8
+2019/20,Sheffield United,Brighton and Hove Albion,2020-02-22,1,66.3,0,0,5,13,1,33.7,2,0,6,9
+2019/20,Southampton,Aston Villa,2020-02-22,2,45.9,1,0,13,28,0,54.1,4,0,17,4
+2019/20,Leicester City,Manchester City,2020-02-22,0,31.9,0,0,14,10,1,68.1,0,0,10,18
+2019/20,Manchester City,West Ham United,2020-02-19,2,77.3,0,0,5,20,0,22.7,1,0,7,3
+2019/20,Chelsea,Manchester United,2020-02-17,0,61.2,4,0,11,17,2,38.8,3,0,11,9
+2019/20,Aston Villa,Tottenham Hotspur,2020-02-16,2,54.3,2,0,12,18,3,45.7,0,0,10,23
+2019/20,Arsenal,Newcastle United,2020-02-16,4,68.4,2,0,15,15,0,31.6,0,0,9,10
+2019/20,Southampton,Burnley,2020-02-15,1,63.6,2,0,8,10,2,36.4,2,0,11,9
+2019/20,Norwich City,Liverpool,2020-02-15,0,36.7,1,0,5,5,1,63.3,2,0,11,17
+2019/20,Wolverhampton Wanderers,Leicester City,2020-02-14,0,40.8,2,0,13,15,0,59.2,2,1,10,9
+2019/20,Sheffield United,AFC Bournemouth,2020-02-09,2,54.3,2,0,10,16,1,45.7,3,0,8,10
+2019/20,Everton,Crystal Palace,2020-02-08,3,46.6,0,0,11,14,1,53.4,1,0,12,10
+2019/20,Brighton and Hove Albion,Watford,2020-02-08,1,67.2,2,0,9,10,1,32.8,2,0,12,5
+2019/20,Burnley,Arsenal,2020-02-02,0,42.7,1,0,8,15,0,57.3,3,0,11,13
+2019/20,Tottenham Hotspur,Manchester City,2020-02-02,2,33.1,2,0,8,3,0,66.9,3,1,14,19
+2019/20,Leicester City,Chelsea,2020-02-01,2,49.7,2,0,16,14,2,50.3,2,0,14,7
+2019/20,AFC Bournemouth,Aston Villa,2020-02-01,2,39.6,1,1,10,16,1,60.4,3,0,15,18
+2019/20,Crystal Palace,Sheffield United,2020-02-01,0,60.7,3,1,9,13,1,39.3,2,0,15,10
+2019/20,Liverpool,Southampton,2020-02-01,4,61.5,0,0,9,16,0,38.5,2,0,15,17
+2019/20,Newcastle United,Norwich City,2020-02-01,0,43.4,2,0,10,15,0,56.6,1,0,15,19
+2019/20,Watford,Everton,2020-02-01,2,44.6,2,0,17,11,3,55.4,2,1,14,12
+2019/20,West Ham United,Brighton and Hove Albion,2020-02-01,3,35.1,1,0,8,12,3,64.9,1,0,9,19
+2019/20,Manchester United,Wolverhampton Wanderers,2020-02-01,0,63.7,3,0,14,16,0,36.3,2,0,15,15
+2019/20,West Ham United,Liverpool,2020-01-29,0,29.4,2,0,6,7,2,70.6,0,0,6,13
+2019/20,Wolverhampton Wanderers,Liverpool,2020-01-23,1,46.4,0,0,6,10,2,53.6,1,0,11,13
+2019/20,Leicester City,West Ham United,2020-01-22,4,67.3,1,0,10,19,1,32.7,1,0,19,6
+2019/20,Tottenham Hotspur,Norwich City,2020-01-22,2,50.4,0,0,12,14,1,49.6,1,0,7,13
+2019/20,Manchester United,Burnley,2020-01-22,0,72.2,0,0,11,24,2,27.8,2,0,7,5
+2019/20,AFC Bournemouth,Brighton and Hove Albion,2020-01-21,3,34.7,1,0,9,11,1,65.3,1,0,12,21
+2019/20,Aston Villa,Watford,2020-01-21,2,64.5,2,0,11,16,1,35.5,2,0,18,8
+2019/20,Crystal Palace,Southampton,2020-01-21,0,44.4,1,0,12,6,2,55.6,2,0,13,15
+2019/20,Everton,Newcastle United,2020-01-21,2,54.9,1,0,13,17,2,45.1,1,0,10,9
+2019/20,Sheffield United,Manchester City,2020-01-21,0,32.7,4,0,13,4,1,67.3,3,0,13,18
+2019/20,Chelsea,Arsenal,2020-01-21,2,58.8,2,0,11,19,2,41.2,1,1,6,2
+2019/20,Burnley,Leicester City,2020-01-19,2,44.5,1,0,14,8,1,55.5,0,0,8,18
+2019/20,Liverpool,Manchester United,2020-01-19,2,53.2,1,0,7,16,0,46.8,3,0,10,9
+2019/20,Arsenal,Sheffield United,2020-01-18,1,61.0,1,0,9,11,1,39.0,2,0,13,12
+2019/20,Brighton and Hove Albion,Aston Villa,2020-01-18,1,55.3,3,0,11,10,1,44.7,3,0,13,8
+2019/20,Manchester City,Crystal Palace,2020-01-18,2,72.5,1,0,9,25,2,27.5,2,0,7,5
+2019/20,Norwich City,AFC Bournemouth,2020-01-18,1,66.0,2,1,10,16,0,34.0,2,1,10,6
+2019/20,Southampton,Wolverhampton Wanderers,2020-01-18,2,52.5,2,0,13,11,3,47.5,1,0,12,8
+2019/20,West Ham United,Everton,2020-01-18,1,48.8,1,0,11,12,1,51.2,0,0,13,11
+2019/20,Newcastle United,Chelsea,2020-01-18,1,30.1,1,0,9,7,0,69.9,1,0,14,19
+2019/20,Watford,Tottenham Hotspur,2020-01-18,0,41.5,2,0,13,15,0,58.5,3,0,13,16
+2019/20,AFC Bournemouth,Watford,2020-01-12,0,56.7,1,0,3,10,3,43.3,1,0,13,18
+2019/20,Aston Villa,Manchester City,2020-01-12,1,29.4,2,0,5,7,6,70.6,1,0,12,22
+2019/20,Crystal Palace,Arsenal,2020-01-11,1,42.7,2,0,14,6,1,57.3,3,1,22,7
+2019/20,Chelsea,Burnley,2020-01-11,3,65.5,0,0,7,18,0,34.5,3,0,4,7
+2019/20,Everton,Brighton and Hove Albion,2020-01-11,1,53.8,2,0,7,14,0,46.2,1,0,7,9
+2019/20,Leicester City,Southampton,2020-01-11,1,58.2,0,0,9,5,2,41.8,3,0,17,16
+2019/20,Manchester United,Norwich City,2020-01-11,4,59.6,0,0,18,13,0,40.4,0,0,7,8
+2019/20,Wolverhampton Wanderers,Newcastle United,2020-01-11,1,65.7,0,0,13,9,1,34.3,3,0,12,5
+2019/20,Tottenham Hotspur,Liverpool,2020-01-11,0,33.2,0,0,4,14,1,66.8,2,0,8,13
+2019/20,Sheffield United,West Ham United,2020-01-10,1,46.9,1,0,11,13,0,53.1,0,0,6,7
+2019/20,Liverpool,Sheffield United,2020-01-02,2,74.8,0,0,5,19,0,25.2,0,0,8,3
+2019/20,Brighton and Hove Albion,Chelsea,2020-01-01,1,47.7,2,0,8,16,1,52.3,3,0,15,16
+2019/20,Burnley,Aston Villa,2020-01-01,1,61.9,1,0,12,20,2,38.1,1,0,10,11
+2019/20,Newcastle United,Leicester City,2020-01-01,0,23.4,1,0,8,5,3,76.6,1,0,12,17
+2019/20,Southampton,Tottenham Hotspur,2020-01-01,1,40.9,3,0,21,12,0,59.1,4,0,8,11
+2019/20,Watford,Wolverhampton Wanderers,2020-01-01,2,36.4,3,1,12,9,1,63.6,1,0,6,16
+2019/20,Manchester City,Everton,2020-01-01,2,65.4,0,0,11,16,1,34.6,4,0,11,7
+2019/20,Norwich City,Crystal Palace,2020-01-01,1,40.6,5,0,12,15,1,59.4,0,0,9,12
+2019/20,West Ham United,AFC Bournemouth,2020-01-01,4,42.6,1,1,3,14,0,57.4,2,0,12,3
+2019/20,Arsenal,Manchester United,2020-01-01,2,48.8,2,0,11,10,0,51.2,0,0,15,10
+2019/20,Arsenal,Chelsea,2019-12-29,1,42.1,5,0,13,7,2,57.9,4,0,19,13
+2019/20,Liverpool,Wolverhampton Wanderers,2019-12-29,1,62.9,1,0,7,10,0,37.1,0,0,3,10
+2019/20,Manchester City,Sheffield United,2019-12-29,2,72.9,1,0,5,16,0,27.1,1,0,6,8
+2019/20,Brighton and Hove Albion,AFC Bournemouth,2019-12-28,2,55.1,0,0,9,16,0,44.9,2,0,11,10
+2019/20,Newcastle United,Everton,2019-12-28,1,42.7,2,0,13,20,2,57.3,2,0,13,22
+2019/20,Southampton,Crystal Palace,2019-12-28,1,59.9,1,0,13,14,1,40.1,2,0,7,5
+2019/20,Watford,Aston Villa,2019-12-28,3,48.8,3,1,16,20,0,51.2,1,0,9,11
+2019/20,Norwich City,Tottenham Hotspur,2019-12-28,2,41.1,3,0,12,5,2,58.9,3,0,10,15
+2019/20,West Ham United,Leicester City,2019-12-28,1,42.7,4,0,16,14,2,57.3,1,0,4,13
+2019/20,Burnley,Manchester United,2019-12-28,0,38.6,4,0,17,8,2,61.4,3,0,10,14
+2019/20,Wolverhampton Wanderers,Manchester City,2019-12-27,3,61.9,0,0,7,21,2,38.1,1,1,13,7
+2019/20,AFC Bournemouth,Arsenal,2019-12-26,1,39.5,4,0,5,12,1,60.5,4,0,13,17
+2019/20,Aston Villa,Norwich City,2019-12-26,1,42.5,2,0,15,11,0,57.5,3,0,12,16
+2019/20,Chelsea,Southampton,2019-12-26,0,66.1,3,0,10,10,2,33.9,2,0,9,5
+2019/20,Crystal Palace,West Ham United,2019-12-26,2,58.2,0,0,5,13,1,41.8,2,0,10,10
+2019/20,Everton,Burnley,2019-12-26,1,67.5,0,0,15,21,0,32.5,0,0,14,6
+2019/20,Sheffield United,Watford,2019-12-26,1,58.1,0,0,11,16,1,41.9,3,0,8,5
+2019/20,Manchester United,Newcastle United,2019-12-26,4,73.3,2,0,10,22,1,26.7,2,0,7,7
+2019/20,Leicester City,Liverpool,2019-12-26,0,41.2,1,0,5,3,4,58.8,1,0,7,15
+2019/20,Tottenham Hotspur,Brighton and Hove Albion,2019-12-26,2,53.8,4,0,10,11,1,46.2,2,0,9,11
+2019/20,Watford,Manchester United,2019-12-22,2,36.1,3,0,16,11,0,63.9,1,0,11,17
+2019/20,Tottenham Hotspur,Chelsea,2019-12-22,0,44.5,4,1,9,5,2,55.5,3,0,11,13
+2019/20,Everton,Arsenal,2019-12-21,0,43.0,2,0,10,9,0,57.0,3,0,11,6
+2019/20,AFC Bournemouth,Burnley,2019-12-21,0,64.8,2,0,13,3,1,35.2,4,0,21,2
+2019/20,Aston Villa,Southampton,2019-12-21,1,56.5,2,0,16,19,3,43.5,1,0,15,17
+2019/20,Brighton and Hove Albion,Sheffield United,2019-12-21,0,69.0,1,0,6,9,1,31.0,3,0,11,7
+2019/20,Newcastle United,Crystal Palace,2019-12-21,1,42.5,2,0,12,8,0,57.5,0,0,11,16
+2019/20,Norwich City,Wolverhampton Wanderers,2019-12-21,1,50.2,2,0,7,13,2,49.8,4,0,14,14
+2019/20,Manchester City,Leicester City,2019-12-21,3,62.7,2,0,14,23,1,37.3,2,0,9,5
+2019/20,Crystal Palace,Brighton and Hove Albion,2019-12-16,1,34.8,1,0,7,11,1,65.2,1,0,12,15
+2019/20,Manchester United,Everton,2019-12-15,1,66.5,1,0,10,24,1,33.5,2,0,12,8
+2019/20,Wolverhampton Wanderers,Tottenham Hotspur,2019-12-15,1,57.8,4,0,14,19,2,42.2,4,0,10,9
+2019/20,Arsenal,Manchester City,2019-12-15,0,42.4,1,0,9,6,3,57.6,4,0,24,14
+2019/20,Liverpool,Watford,2019-12-14,2,67.9,2,0,8,16,0,32.1,1,0,6,8
+2019/20,Burnley,Newcastle United,2019-12-14,1,48.0,0,0,15,7,0,52.0,2,0,12,9
+2019/20,Chelsea,AFC Bournemouth,2019-12-14,0,67.0,1,0,9,18,1,33.0,2,0,14,11
+2019/20,Leicester City,Norwich City,2019-12-14,1,56.8,0,0,11,18,1,43.2,5,0,15,10
+2019/20,Sheffield United,Aston Villa,2019-12-14,2,56.7,2,0,10,7,0,43.3,2,0,9,8
+2019/20,Southampton,West Ham United,2019-12-14,0,57.0,1,0,9,11,1,43.0,3,0,14,11
+2019/20,West Ham United,Arsenal,2019-12-09,1,35.8,2,0,12,11,3,64.2,0,0,6,10
+2019/20,Aston Villa,Leicester City,2019-12-08,1,40.4,6,0,21,15,4,59.6,2,0,15,23
+2019/20,Newcastle United,Southampton,2019-12-08,2,45.3,1,0,11,12,1,54.7,3,0,17,19
+2019/20,Norwich City,Sheffield United,2019-12-08,1,58.2,0,0,6,14,2,41.8,4,1,12,9
+2019/20,Brighton and Hove Albion,Wolverhampton Wanderers,2019-12-08,2,62.0,3,0,10,13,2,38.0,0,0,7,13
+2019/20,Everton,Chelsea,2019-12-07,3,30.0,3,0,14,13,1,70.0,0,0,9,15
+2019/20,AFC Bournemouth,Liverpool,2019-12-07,0,26.2,0,0,5,3,3,73.8,1,0,6,21
+2019/20,Tottenham Hotspur,Burnley,2019-12-07,5,49.0,1,0,12,13,0,51.0,1,0,8,7
+2019/20,Watford,Crystal Palace,2019-12-07,0,50.2,4,0,15,13,0,49.8,2,0,16,3
+2019/20,Manchester City,Manchester United,2019-12-07,1,71.9,3,0,10,22,2,28.1,2,0,10,11
+2019/20,Sheffield United,Newcastle United,2019-12-05,0,73.3,2,0,10,13,2,26.7,0,0,6,6
+2019/20,Arsenal,Brighton and Hove Albion,2019-12-05,1,49.2,3,0,10,12,2,50.8,1,0,11,20
+2019/20,Chelsea,Aston Villa,2019-12-04,2,64.5,2,0,18,25,1,35.5,1,0,10,9
+2019/20,Leicester City,Watford,2019-12-04,2,63.0,3,0,13,12,0,37.0,2,0,16,4
+2019/20,Manchester United,Tottenham Hotspur,2019-12-04,2,46.6,0,0,9,12,1,53.4,1,0,9,8
+2019/20,Southampton,Norwich City,2019-12-04,2,40.1,1,0,12,14,1,59.9,1,0,7,10
+2019/20,Wolverhampton Wanderers,West Ham United,2019-12-04,2,49.4,1,0,8,13,0,50.6,2,0,9,6
+2019/20,Liverpool,Everton,2019-12-04,5,58.5,1,0,13,11,2,41.5,2,0,17,12
+2019/20,Crystal Palace,AFC Bournemouth,2019-12-03,1,30.8,3,1,6,7,0,69.2,3,0,15,6
+2019/20,Burnley,Manchester City,2019-12-03,1,24.5,1,0,9,4,4,75.5,1,0,6,17
+2019/20,Norwich City,Arsenal,2019-12-01,2,39.9,2,0,8,15,2,60.1,1,0,10,16
+2019/20,Wolverhampton Wanderers,Sheffield United,2019-12-01,1,59.4,1,0,12,13,1,40.6,5,0,18,10
+2019/20,Leicester City,Everton,2019-12-01,2,69.3,0,0,7,16,1,30.7,1,0,9,11
+2019/20,Manchester United,Aston Villa,2019-12-01,2,62.3,4,0,16,16,2,37.7,1,0,8,9
+2019/20,Newcastle United,Manchester City,2019-11-30,2,23.6,1,0,4,6,2,76.4,2,0,6,24
+2019/20,Burnley,Crystal Palace,2019-11-30,0,43.5,2,0,13,15,2,56.5,0,0,9,7
+2019/20,Chelsea,West Ham United,2019-11-30,0,65.7,0,0,0,19,1,34.3,3,0,16,5
+2019/20,Liverpool,Brighton and Hove Albion,2019-11-30,2,44.8,0,1,3,15,1,55.2,0,0,10,12
+2019/20,Tottenham Hotspur,AFC Bournemouth,2019-11-30,3,52.6,0,0,10,14,2,47.4,2,0,12,20
+2019/20,Southampton,Watford,2019-11-30,2,62.8,1,0,6,11,1,37.2,0,0,10,6
+2019/20,Aston Villa,Newcastle United,2019-11-25,2,62.0,1,0,10,17,0,38.0,1,0,9,11
+2019/20,Sheffield United,Manchester United,2019-11-24,3,40.6,1,0,13,12,3,59.4,2,0,10,11
+2019/20,West Ham United,Tottenham Hotspur,2019-11-23,2,47.1,3,0,12,11,3,52.9,2,0,14,15
+2019/20,AFC Bournemouth,Wolverhampton Wanderers,2019-11-23,1,46.6,2,1,10,9,2,53.4,1,0,12,18
+2019/20,Arsenal,Southampton,2019-11-23,2,61.0,6,0,13,12,2,39.0,2,0,19,21
+2019/20,Brighton and Hove Albion,Leicester City,2019-11-23,0,52.6,2,0,9,7,2,47.4,0,0,1,19
+2019/20,Crystal Palace,Liverpool,2019-11-23,1,40.0,0,0,8,16,2,60.0,1,0,7,12
+2019/20,Everton,Norwich City,2019-11-23,0,57.3,3,0,12,18,2,42.7,5,0,11,13
+2019/20,Watford,Burnley,2019-11-23,0,61.9,1,0,14,15,3,38.1,3,0,13,11
+2019/20,Manchester City,Chelsea,2019-11-23,2,46.7,1,0,5,15,1,53.3,1,0,9,11
+2019/20,Manchester United,Brighton and Hove Albion,2019-11-10,3,42.7,2,0,10,21,1,57.3,5,0,14,6
+2019/20,Wolverhampton Wanderers,Aston Villa,2019-11-10,2,50.1,4,0,17,17,1,49.9,3,0,8,13
+2019/20,Liverpool,Manchester City,2019-11-10,3,45.0,0,0,10,12,1,55.0,2,0,5,18
+2019/20,Chelsea,Crystal Palace,2019-11-09,2,60.6,3,0,9,23,0,39.4,2,0,17,3
+2019/20,Burnley,West Ham United,2019-11-09,3,40.0,2,0,17,14,0,60.0,1,0,10,7
+2019/20,Newcastle United,AFC Bournemouth,2019-11-09,2,33.9,2,0,10,21,1,66.1,0,0,5,16
+2019/20,Southampton,Everton,2019-11-09,1,47.3,1,0,12,4,2,52.7,1,0,12,24
+2019/20,Tottenham Hotspur,Sheffield United,2019-11-09,1,61.1,2,0,6,17,1,38.9,2,0,9,14
+2019/20,Leicester City,Arsenal,2019-11-09,2,50.2,1,0,10,19,0,49.8,1,0,10,8
+2019/20,Norwich City,Watford,2019-11-08,0,65.8,1,0,7,17,2,34.2,2,1,13,12
+2019/20,Crystal Palace,Leicester City,2019-11-03,0,44.2,2,0,15,12,2,55.8,2,0,16,14
+2019/20,Everton,Tottenham Hotspur,2019-11-03,1,47.3,1,0,9,7,1,52.7,2,1,8,5
+2019/20,AFC Bournemouth,Manchester United,2019-11-02,1,42.6,4,0,14,13,0,57.4,3,0,12,15
+2019/20,Arsenal,Wolverhampton Wanderers,2019-11-02,1,57.5,0,0,6,10,1,42.5,2,0,15,24
+2019/20,Aston Villa,Liverpool,2019-11-02,1,26.3,1,0,12,4,2,73.7,2,0,9,25
+2019/20,Brighton and Hove Albion,Norwich City,2019-11-02,2,58.5,0,0,11,21,0,41.5,1,0,8,7
+2019/20,Manchester City,Southampton,2019-11-02,2,75.3,3,0,11,26,1,24.7,1,0,10,3
+2019/20,Sheffield United,Burnley,2019-11-02,3,45.6,1,0,8,13,0,54.4,2,0,12,6
+2019/20,West Ham United,Newcastle United,2019-11-02,2,69.5,2,0,10,16,3,30.5,1,0,7,12
+2019/20,Watford,Chelsea,2019-11-02,1,32.8,4,0,8,12,2,67.2,2,0,5,16
+2019/20,Newcastle United,Wolverhampton Wanderers,2019-10-27,1,43.1,2,1,8,13,1,56.9,2,0,16,13
+2019/20,Arsenal,Crystal Palace,2019-10-27,2,56.2,2,0,18,15,2,43.8,0,0,9,10
+2019/20,Liverpool,Tottenham Hotspur,2019-10-27,2,68.0,3,0,9,21,1,32.0,3,0,11,11
+2019/20,Norwich City,Manchester United,2019-10-27,1,46.1,2,0,13,10,3,53.9,2,0,10,21
+2019/20,Manchester City,Aston Villa,2019-10-26,3,63.1,1,1,10,26,0,36.9,1,0,5,11
+2019/20,Brighton and Hove Albion,Everton,2019-10-26,3,55.5,2,0,12,8,2,44.5,1,0,12,10
+2019/20,Watford,AFC Bournemouth,2019-10-26,0,40.2,5,0,14,7,0,59.8,3,0,8,15
+2019/20,West Ham United,Sheffield United,2019-10-26,1,60.8,2,0,7,12,1,39.2,2,0,10,10
+2019/20,Burnley,Chelsea,2019-10-26,2,36.7,3,0,7,13,4,63.3,2,0,8,16
+2019/20,Southampton,Leicester City,2019-10-25,0,27.4,0,1,3,6,9,72.6,0,0,12,25
+2019/20,Sheffield United,Arsenal,2019-10-21,1,31.4,4,0,10,8,0,68.6,4,0,12,9
+2019/20,Manchester United,Liverpool,2019-10-20,1,32.0,0,0,6,7,1,68.0,1,0,14,10
+2019/20,Everton,West Ham United,2019-10-19,2,51.3,2,0,15,19,0,48.7,2,0,15,8
+2019/20,AFC Bournemouth,Norwich City,2019-10-19,0,47.7,1,0,8,11,0,52.3,3,0,11,10
+2019/20,Aston Villa,Brighton and Hove Albion,2019-10-19,2,48.9,1,0,9,24,1,51.1,2,1,17,20
+2019/20,Chelsea,Newcastle United,2019-10-19,1,71.1,2,0,9,16,0,28.9,1,0,12,5
+2019/20,Leicester City,Burnley,2019-10-19,2,64.5,0,0,4,19,1,35.5,3,0,10,13
+2019/20,Tottenham Hotspur,Watford,2019-10-19,1,69.4,4,0,5,12,1,30.6,3,0,9,7
+2019/20,Wolverhampton Wanderers,Southampton,2019-10-19,1,57.0,3,0,10,4,1,43.0,2,0,17,14
+2019/20,Crystal Palace,Manchester City,2019-10-19,0,28.7,1,0,8,7,2,71.3,1,0,10,21
+2019/20,Arsenal,AFC Bournemouth,2019-10-06,1,52.5,1,0,12,12,0,47.5,2,0,6,10
+2019/20,Manchester City,Wolverhampton Wanderers,2019-10-06,0,76.0,5,0,11,18,2,24.0,2,0,14,7
+2019/20,Southampton,Chelsea,2019-10-06,1,43.3,0,0,8,10,4,56.7,1,0,15,13
+2019/20,Newcastle United,Manchester United,2019-10-06,1,31.9,3,0,12,12,0,68.1,3,0,10,12
+2019/20,Brighton and Hove Albion,Tottenham Hotspur,2019-10-05,3,47.7,2,0,11,17,0,52.3,1,0,7,8
+2019/20,Burnley,Everton,2019-10-05,1,40.8,2,0,5,9,0,59.2,1,1,12,11
+2019/20,Liverpool,Leicester City,2019-10-05,2,50.7,1,0,9,18,1,49.3,4,0,17,2
+2019/20,Norwich City,Aston Villa,2019-10-05,1,57.6,1,0,14,21,5,42.4,3,0,17,22
+2019/20,Watford,Sheffield United,2019-10-05,0,39.5,0,0,7,8,0,60.5,2,0,6,9
+2019/20,West Ham United,Crystal Palace,2019-10-05,1,51.7,3,0,11,9,2,48.3,2,0,7,7
+2019/20,Manchester United,Arsenal,2019-09-30,1,54.8,4,0,18,16,1,45.2,2,0,13,10
+2019/20,Leicester City,Newcastle United,2019-09-29,5,68.9,1,0,12,13,0,31.1,1,1,9,3
+2019/20,Sheffield United,Liverpool,2019-09-28,0,29.6,1,0,8,12,1,70.4,1,0,4,16
+2019/20,AFC Bournemouth,West Ham United,2019-09-28,2,49.1,3,0,7,13,2,50.9,1,0,8,17
+2019/20,Aston Villa,Burnley,2019-09-28,2,60.2,1,0,10,16,2,39.8,4,0,16,10
+2019/20,Chelsea,Brighton and Hove Albion,2019-09-28,2,52.6,2,0,5,24,0,47.4,3,0,13,8
+2019/20,Crystal Palace,Norwich City,2019-09-28,2,44.6,3,0,14,15,0,55.4,1,0,10,10
+2019/20,Tottenham Hotspur,Southampton,2019-09-28,2,41.4,0,1,5,9,1,58.6,2,0,16,14
+2019/20,Wolverhampton Wanderers,Watford,2019-09-28,2,39.1,0,0,5,6,0,60.9,1,0,6,14
+2019/20,Everton,Manchester City,2019-09-28,1,37.2,2,0,4,12,3,62.8,2,0,8,19
+2019/20,Crystal Palace,Wolverhampton Wanderers,2019-09-22,1,49.9,2,0,7,13,1,50.1,1,1,10,13
+2019/20,West Ham United,Manchester United,2019-09-22,2,46.5,2,0,8,8,0,53.5,2,0,9,9
+2019/20,Arsenal,Aston Villa,2019-09-22,3,58.1,5,1,13,21,2,41.9,1,0,15,14
+2019/20,Chelsea,Liverpool,2019-09-22,1,55.0,3,0,8,13,2,45.0,3,0,13,6
+2019/20,Leicester City,Tottenham Hotspur,2019-09-21,2,44.2,1,0,16,16,1,55.8,2,0,13,11
+2019/20,Burnley,Norwich City,2019-09-21,2,41.4,0,0,11,13,0,58.6,1,0,10,11
+2019/20,Everton,Sheffield United,2019-09-21,0,69.8,1,0,9,16,2,30.2,3,0,9,2
+2019/20,Manchester City,Watford,2019-09-21,8,68.7,2,0,5,28,0,31.3,2,0,9,5
+2019/20,Newcastle United,Brighton and Hove Albion,2019-09-21,0,28.7,2,0,12,11,0,71.3,1,0,8,16
+2019/20,Southampton,AFC Bournemouth,2019-09-20,1,64.8,1,0,8,25,3,35.2,3,0,9,6
+2019/20,Aston Villa,West Ham United,2019-09-16,0,46.6,2,0,13,10,0,53.4,1,1,12,13
+2019/20,AFC Bournemouth,Everton,2019-09-15,3,40.5,0,0,5,13,1,59.5,4,0,14,14
+2019/20,Watford,Arsenal,2019-09-15,2,52.4,3,0,14,31,2,47.6,3,0,4,7
+2019/20,Liverpool,Newcastle United,2019-09-14,3,75.3,0,0,5,21,1,24.7,0,0,4,8
+2019/20,Brighton and Hove Albion,Burnley,2019-09-14,1,62.5,0,0,13,14,1,37.5,2,0,7,7
+2019/20,Manchester United,Leicester City,2019-09-14,1,41.7,1,0,14,10,0,58.3,2,0,14,9
+2019/20,Sheffield United,Southampton,2019-09-14,0,48.2,1,1,10,17,1,51.8,1,0,7,11
+2019/20,Tottenham Hotspur,Crystal Palace,2019-09-14,4,64.1,4,0,19,13,0,35.9,3,0,11,11
+2019/20,Wolverhampton Wanderers,Chelsea,2019-09-14,2,45.3,1,0,8,11,5,54.7,2,0,11,15
+2019/20,Norwich City,Manchester City,2019-09-14,3,31.4,3,0,8,7,2,68.6,1,0,7,25
+2019/20,Everton,Wolverhampton Wanderers,2019-09-01,3,58.7,1,0,12,15,2,41.3,4,1,12,8
+2019/20,Arsenal,Tottenham Hotspur,2019-09-01,2,54.8,3,0,13,26,2,45.2,5,0,19,13
+2019/20,Southampton,Manchester United,2019-08-31,1,41.4,1,1,17,10,1,58.6,2,0,7,21
+2019/20,Chelsea,Sheffield United,2019-08-31,2,62.3,0,0,6,13,2,37.7,1,0,11,8
+2019/20,Crystal Palace,Aston Villa,2019-08-31,1,52.8,2,0,15,22,0,47.2,4,1,16,10
+2019/20,Leicester City,AFC Bournemouth,2019-08-31,3,55.0,1,0,9,15,1,45.0,3,0,11,8
+2019/20,Manchester City,Brighton and Hove Albion,2019-08-31,4,53.5,1,0,10,15,0,46.5,1,0,6,6
+2019/20,Newcastle United,Watford,2019-08-31,1,48.8,2,0,5,13,1,51.2,3,0,11,13
+2019/20,West Ham United,Norwich City,2019-08-31,2,48.6,2,0,16,18,0,51.4,1,0,10,8
+2019/20,Burnley,Liverpool,2019-08-31,0,36.2,0,0,10,7,3,63.8,0,0,16,15
+2019/20,AFC Bournemouth,Manchester City,2019-08-25,1,26.2,1,0,7,10,3,73.8,3,0,13,18
+2019/20,Tottenham Hotspur,Newcastle United,2019-08-25,0,80.2,2,0,10,17,1,19.8,2,0,5,8
+2019/20,Wolverhampton Wanderers,Burnley,2019-08-25,1,65.1,0,0,9,17,1,34.9,2,0,11,13
+2019/20,Norwich City,Chelsea,2019-08-24,2,46.6,1,0,9,6,3,53.4,1,0,9,23
+2019/20,Brighton and Hove Albion,Southampton,2019-08-24,0,50.7,1,1,9,12,2,49.3,3,0,10,12
+2019/20,Manchester United,Crystal Palace,2019-08-24,1,71.3,2,0,8,22,2,28.7,4,0,18,5
+2019/20,Sheffield United,Leicester City,2019-08-24,1,49.1,1,0,11,7,2,50.9,0,0,6,10
+2019/20,Watford,West Ham United,2019-08-24,1,54.9,1,0,12,23,3,45.1,1,0,11,16
+2019/20,Liverpool,Arsenal,2019-08-24,3,52.0,1,0,8,25,1,48.0,1,0,5,9
+2019/20,Aston Villa,Everton,2019-08-23,2,35.2,2,0,10,7,0,64.8,3,0,18,12
+2019/20,Wolverhampton Wanderers,Manchester United,2019-08-19,1,34.4,2,0,17,6,1,65.6,2,0,8,9
+2019/20,Sheffield United,Crystal Palace,2019-08-18,1,42.5,3,0,16,15,0,57.5,1,0,11,6
+2019/20,Chelsea,Leicester City,2019-08-18,1,50.2,1,0,9,14,1,49.8,0,0,14,12
+2019/20,Arsenal,Burnley,2019-08-17,2,67.5,2,0,13,15,1,32.5,1,0,11,18
+2019/20,Aston Villa,AFC Bournemouth,2019-08-17,1,62.6,0,0,10,21,2,37.4,2,0,13,12
+2019/20,Brighton and Hove Albion,West Ham United,2019-08-17,1,57.3,0,0,11,16,1,42.7,2,0,10,8
+2019/20,Everton,Watford,2019-08-17,1,44.1,2,0,11,12,0,55.9,3,0,11,8
+2019/20,Norwich City,Newcastle United,2019-08-17,3,63.3,1,0,9,15,1,36.7,3,0,11,12
+2019/20,Southampton,Liverpool,2019-08-17,1,36.2,2,0,10,14,2,63.8,1,0,6,15
+2019/20,Manchester City,Tottenham Hotspur,2019-08-17,2,55.4,1,0,14,30,2,44.6,0,0,4,3
+2019/20,Leicester City,Wolverhampton Wanderers,2019-08-11,0,70.0,0,0,3,16,0,30.0,2,0,13,8
+2019/20,Newcastle United,Arsenal,2019-08-11,0,38.1,1,0,12,9,1,61.9,3,0,7,8
+2019/20,Manchester United,Chelsea,2019-08-11,4,46.2,3,0,15,11,0,53.8,4,0,13,18
+2019/20,West Ham United,Manchester City,2019-08-10,0,42.9,2,0,6,5,5,57.1,2,0,13,14
+2019/20,AFC Bournemouth,Sheffield United,2019-08-10,1,52.9,2,0,10,13,1,47.1,1,0,19,8
+2019/20,Burnley,Southampton,2019-08-10,3,46.5,0,0,6,10,0,53.5,0,0,12,11
+2019/20,Crystal Palace,Everton,2019-08-10,0,35.4,2,0,16,6,0,64.6,1,1,14,10
+2019/20,Watford,Brighton and Hove Albion,2019-08-10,0,48.2,0,0,15,11,3,51.8,1,0,11,5
+2019/20,Tottenham Hotspur,Aston Villa,2019-08-10,3,70.1,1,0,13,31,1,29.9,0,0,9,7
+2019/20,Liverpool,Norwich City,2019-08-09,4,57.9,0,0,9,15,1,42.1,2,0,9,12
+2019/18,Brighton and Hove Albion,Manchester City,2019-05-12,1,23.7,0,0,12,6,4,76.3,0,0,8,20
+2019/18,Burnley,Arsenal,2019-05-12,1,39.7,5,0,11,14,3,60.3,1,0,3,17
+2019/18,Crystal Palace,AFC Bournemouth,2019-05-12,5,45.0,3,0,11,17,3,55.0,0,0,8,16
+2019/18,Fulham,Newcastle United,2019-05-12,0,68.1,1,0,6,16,4,31.9,0,0,8,13
+2019/18,Leicester City,Chelsea,2019-05-12,0,46.9,0,0,9,9,0,53.1,1,0,8,14
+2019/18,Liverpool,Wolverhampton Wanderers,2019-05-12,2,59.0,0,0,3,13,0,41.0,2,0,11,7
+2019/18,Manchester United,Cardiff City,2019-05-12,0,73.6,3,0,9,26,2,26.4,3,0,6,13
+2019/18,Southampton,Huddersfield Town,2019-05-12,1,53.7,0,0,8,10,1,46.3,1,0,6,10
+2019/18,Tottenham Hotspur,Everton,2019-05-12,2,55.0,0,0,10,11,2,45.0,2,0,13,16
+2019/18,Watford,West Ham United,2019-05-12,1,48.3,1,1,10,17,4,51.7,0,0,10,16
+2019/18,Manchester City,Leicester City,2019-05-06,1,61.0,3,0,12,19,0,39.0,2,0,5,7
+2019/18,Chelsea,Watford,2019-05-05,3,58.4,0,0,6,19,0,41.6,1,0,12,16
+2019/18,Huddersfield Town,Manchester United,2019-05-05,1,35.8,1,0,10,7,1,64.2,1,0,10,23
+2019/18,Arsenal,Brighton and Hove Albion,2019-05-05,1,70.5,5,0,9,20,1,29.5,2,0,14,11
+2019/18,AFC Bournemouth,Tottenham Hotspur,2019-05-04,1,53.6,1,0,11,20,0,46.4,5,2,12,11
+2019/18,West Ham United,Southampton,2019-05-04,3,56.3,1,0,2,17,0,43.7,1,0,11,11
+2019/18,Wolverhampton Wanderers,Fulham,2019-05-04,1,39.2,1,0,10,19,0,60.8,3,0,15,6
+2019/18,Cardiff City,Crystal Palace,2019-05-04,2,39.3,0,0,14,18,3,60.7,0,0,11,21
+2019/18,Newcastle United,Liverpool,2019-05-04,2,30.9,1,0,10,14,3,69.1,1,0,4,11
+2019/18,Everton,Burnley,2019-05-03,2,60.1,0,0,8,20,0,39.9,2,0,9,5
+2019/18,Leicester City,Arsenal,2019-04-28,3,67.2,3,0,13,24,0,32.8,1,1,13,6
+2019/18,Burnley,Manchester City,2019-04-28,0,30.1,1,0,5,2,1,69.9,1,0,7,25
+2019/18,Manchester United,Chelsea,2019-04-28,1,51.7,3,0,9,7,1,48.3,2,0,14,16
+2019/18,Tottenham Hotspur,West Ham United,2019-04-27,0,63.0,0,0,3,14,1,37.0,2,0,8,16
+2019/18,Crystal Palace,Everton,2019-04-27,0,36.1,2,0,9,8,0,63.9,0,0,15,22
+2019/18,Fulham,Cardiff City,2019-04-27,1,73.0,0,0,10,8,0,27.0,0,0,8,13
+2019/18,Southampton,AFC Bournemouth,2019-04-27,3,44.4,2,0,8,22,3,55.6,1,0,9,9
+2019/18,Watford,Wolverhampton Wanderers,2019-04-27,1,56.5,3,0,10,10,2,43.5,2,0,11,11
+2019/18,Brighton and Hove Albion,Newcastle United,2019-04-27,1,49.8,2,0,7,9,1,50.2,3,0,10,9
+2019/18,Liverpool,Huddersfield Town,2019-04-26,5,70.3,0,0,5,21,0,29.7,0,0,14,5
+2019/18,Wolverhampton Wanderers,Arsenal,2019-04-24,3,29.6,2,0,12,11,1,70.4,3,0,9,11
+2019/18,Manchester United,Manchester City,2019-04-24,0,36.8,2,0,10,12,2,63.2,2,0,10,8
+2019/18,Tottenham Hotspur,Brighton and Hove Albion,2019-04-23,1,78.5,1,0,7,29,0,21.5,2,0,13,6
+2019/18,Watford,Southampton,2019-04-23,1,62.2,5,0,10,15,1,37.8,2,0,14,8
+2019/18,Chelsea,Burnley,2019-04-22,2,76.4,2,0,9,22,2,23.6,1,0,4,6
+2019/18,Everton,Manchester United,2019-04-21,4,48.3,1,0,11,15,0,51.7,1,0,7,7
+2019/18,Arsenal,Crystal Palace,2019-04-21,2,72.6,4,0,15,12,3,27.4,1,0,12,16
+2019/18,Cardiff City,Liverpool,2019-04-21,0,23.9,1,0,6,7,2,76.1,1,0,5,17
+2019/18,AFC Bournemouth,Fulham,2019-04-20,0,49.0,1,0,11,15,1,51.0,3,0,18,17
+2019/18,Newcastle United,Southampton,2019-04-20,3,43.4,0,0,5,15,1,56.6,2,0,11,15
+2019/18,Manchester City,Tottenham Hotspur,2019-04-20,1,60.7,1,0,11,15,0,39.3,2,0,11,10
+2019/18,Huddersfield Town,Watford,2019-04-20,1,45.7,2,0,15,13,2,54.3,2,0,9,11
+2019/18,West Ham United,Leicester City,2019-04-20,2,49.3,2,0,8,11,2,50.7,0,0,9,11
+2019/18,Wolverhampton Wanderers,Brighton and Hove Albion,2019-04-20,0,68.2,0,0,0,23,0,31.8,1,0,8,5
+2019/18,Brighton and Hove Albion,Cardiff City,2019-04-16,0,63.9,0,0,11,14,2,36.1,1,0,13,10
+2019/18,Watford,Arsenal,2019-04-15,0,34.1,2,1,12,11,1,65.9,0,0,8,19
+2019/18,Crystal Palace,Manchester City,2019-04-14,1,27.6,0,0,5,7,3,72.4,0,0,11,20
+2019/18,Liverpool,Chelsea,2019-04-14,2,61.8,0,0,5,15,0,38.2,1,0,9,6
+2019/18,Tottenham Hotspur,Huddersfield Town,2019-04-13,4,70.0,2,0,10,22,0,30.0,2,0,12,7
+2019/18,Brighton and Hove Albion,AFC Bournemouth,2019-04-13,0,50.1,2,1,10,8,5,49.9,4,0,6,14
+2019/18,Burnley,Cardiff City,2019-04-13,2,46.0,2,0,7,14,0,54.0,4,0,10,14
+2019/18,Fulham,Everton,2019-04-13,2,40.6,2,0,8,12,0,59.4,1,0,10,9
+2019/18,Southampton,Wolverhampton Wanderers,2019-04-13,3,30.7,1,0,13,12,1,69.3,3,0,8,17
+2019/18,Manchester United,West Ham United,2019-04-13,2,42.3,1,0,14,14,1,57.7,1,0,5,18
+2019/18,Leicester City,Newcastle United,2019-04-12,0,71.7,2,0,6,12,1,28.3,3,0,10,11
+2019/18,Chelsea,West Ham United,2019-04-08,2,54.0,2,0,8,16,0,46.0,1,0,7,9
+2019/18,Everton,Arsenal,2019-04-07,1,42.9,1,0,8,23,0,57.1,4,0,9,7
+2019/18,AFC Bournemouth,Burnley,2019-04-06,1,59.9,2,0,12,10,3,40.1,3,0,16,10
+2019/18,Huddersfield Town,Leicester City,2019-04-06,1,44.8,3,0,13,10,4,55.2,0,0,11,18
+2019/18,Newcastle United,Crystal Palace,2019-04-06,0,53.8,1,0,12,18,1,46.2,2,0,13,3
+2019/18,Southampton,Liverpool,2019-04-05,1,33.0,2,0,8,11,3,67.0,4,0,7,17
+2019/18,Chelsea,Brighton and Hove Albion,2019-04-03,3,68.3,0,0,5,17,0,31.7,0,0,9,3
+2019/18,Manchester City,Cardiff City,2019-04-03,2,78.8,0,0,3,27,0,21.2,3,0,7,4
+2019/18,Tottenham Hotspur,Crystal Palace,2019-04-03,2,65.3,1,0,8,26,0,34.7,0,0,5,5
+2019/18,Watford,Fulham,2019-04-02,4,46.6,3,0,12,15,1,53.4,2,0,5,17
+2019/18,Wolverhampton Wanderers,Manchester United,2019-04-02,2,49.8,1,0,5,9,1,50.2,2,1,11,18
+2019/18,Arsenal,Newcastle United,2019-04-01,2,70.6,2,0,11,7,0,29.4,0,0,10,3
+2019/18,Cardiff City,Chelsea,2019-03-31,1,28.9,2,0,8,8,2,71.1,3,0,14,21
+2019/18,Liverpool,Tottenham Hotspur,2019-03-31,2,48.7,0,0,5,14,1,51.3,1,0,8,11
+2019/18,Fulham,Manchester City,2019-03-30,0,34.6,2,0,4,5,2,65.4,0,0,12,24
+2019/18,Brighton and Hove Albion,Southampton,2019-03-30,0,60.2,1,0,8,14,1,39.8,2,0,10,8
+2019/18,Burnley,Wolverhampton Wanderers,2019-03-30,2,37.2,1,0,12,6,0,62.8,1,0,10,8
+2019/18,Crystal Palace,Huddersfield Town,2019-03-30,2,48.5,0,0,10,19,0,51.5,0,0,7,15
+2019/18,Leicester City,AFC Bournemouth,2019-03-30,2,58.8,0,0,6,18,0,41.2,2,0,12,8
+2019/18,Manchester United,Watford,2019-03-30,2,51.5,1,0,14,8,1,48.5,2,0,9,20
+2019/18,West Ham United,Everton,2019-03-30,0,49.3,1,0,7,3,2,50.7,1,0,14,17
+2019/18,Fulham,Liverpool,2019-03-17,1,37.2,2,0,11,7,2,62.8,1,0,7,16
+2019/18,Everton,Chelsea,2019-03-17,2,32.7,1,0,17,15,0,67.3,2,0,9,17
+2019/18,AFC Bournemouth,Newcastle United,2019-03-16,2,48.9,3,0,9,10,2,51.1,2,0,12,12
+2019/18,Burnley,Leicester City,2019-03-16,1,62.2,1,0,9,13,2,37.8,1,1,10,9
+2019/18,West Ham United,Huddersfield Town,2019-03-16,4,64.1,0,0,7,16,3,35.9,2,0,15,15
+2019/18,Liverpool,Burnley,2019-03-10,4,68.6,2,0,4,23,2,31.4,0,0,7,3
+2019/18,Chelsea,Wolverhampton Wanderers,2019-03-10,1,75.6,1,0,8,22,1,24.4,4,0,14,2
+2019/18,Arsenal,Manchester United,2019-03-10,2,46.1,2,0,12,14,0,53.9,2,0,18,14
+2019/18,Crystal Palace,Brighton and Hove Albion,2019-03-09,1,62.7,1,0,8,15,2,37.3,5,0,18,4
+2019/18,Cardiff City,West Ham United,2019-03-09,2,29.3,2,0,7,16,0,70.7,1,0,12,9
+2019/18,Huddersfield Town,AFC Bournemouth,2019-03-09,0,56.5,3,0,14,8,2,43.5,1,0,9,8
+2019/18,Leicester City,Fulham,2019-03-09,3,52.8,0,0,9,18,1,47.2,2,0,13,6
+2019/18,Newcastle United,Everton,2019-03-09,3,45.5,3,0,13,19,2,54.5,1,0,10,7
+2019/18,Southampton,Tottenham Hotspur,2019-03-09,2,36.8,4,0,16,12,1,63.2,2,0,9,16
+2019/18,Manchester City,Watford,2019-03-09,3,71.1,1,0,11,19,1,28.9,1,0,7,2
+2019/18,Watford,Leicester City,2019-03-03,2,39.0,5,0,15,6,1,61.0,1,0,12,14
+2019/18,Fulham,Chelsea,2019-03-03,1,36.0,2,0,11,12,2,64.0,1,0,10,20
+2019/18,Everton,Liverpool,2019-03-03,0,42.2,1,0,12,7,0,57.8,2,0,10,10
+2019/18,Tottenham Hotspur,Arsenal,2019-03-02,1,60.2,3,0,15,11,1,39.8,2,1,14,9
+2019/18,AFC Bournemouth,Manchester City,2019-03-02,0,18.0,1,0,7,0,1,82.0,2,0,7,23
+2019/18,Brighton and Hove Albion,Huddersfield Town,2019-03-02,1,52.7,2,0,11,14,0,47.3,2,0,6,6
+2019/18,Burnley,Crystal Palace,2019-03-02,1,56.3,1,0,9,18,3,43.7,2,0,9,10
+2019/18,Manchester United,Southampton,2019-03-02,3,64.2,2,0,7,16,2,35.8,1,0,10,9
+2019/18,Wolverhampton Wanderers,Cardiff City,2019-03-02,2,56.3,1,0,11,13,0,43.7,2,0,6,12
+2019/18,West Ham United,Newcastle United,2019-03-02,2,55.8,3,0,8,10,0,44.2,4,0,14,17
+2019/18,Arsenal,AFC Bournemouth,2019-02-27,5,64.8,2,0,11,16,1,35.2,2,0,9,13
+2019/18,Southampton,Fulham,2019-02-27,2,40.9,0,0,15,14,0,59.1,1,0,13,14
+2019/18,Chelsea,Tottenham Hotspur,2019-02-27,2,46.5,1,0,7,11,0,53.5,1,0,14,9
+2019/18,Crystal Palace,Manchester United,2019-02-27,1,45.5,2,0,8,17,3,54.5,3,0,9,13
+2019/18,Liverpool,Watford,2019-02-27,5,61.6,0,0,5,19,0,38.4,2,0,7,5
+2019/18,Manchester City,West Ham United,2019-02-27,1,75.6,0,0,2,20,0,24.4,2,0,6,2
+2019/18,Cardiff City,Everton,2019-02-26,0,32.8,3,0,12,6,3,67.2,1,0,12,12
+2019/18,Huddersfield Town,Wolverhampton Wanderers,2019-02-26,1,49.9,2,0,10,15,0,50.1,2,0,10,7
+2019/18,Leicester City,Brighton and Hove Albion,2019-02-26,2,49.1,1,0,6,19,1,50.9,1,0,4,15
+2019/18,Newcastle United,Burnley,2019-02-26,2,54.3,1,0,8,13,0,45.7,3,0,8,12
+2019/18,Arsenal,Southampton,2019-02-24,2,62.1,0,0,7,12,0,37.9,0,0,14,10
+2019/18,Manchester United,Liverpool,2019-02-24,0,35.4,1,0,15,6,0,64.6,3,0,17,7
+2019/18,Burnley,Tottenham Hotspur,2019-02-23,2,30.5,1,0,9,10,1,69.5,3,0,12,17
+2019/18,AFC Bournemouth,Wolverhampton Wanderers,2019-02-23,1,44.6,4,0,10,10,1,55.4,5,0,15,10
+2019/18,Newcastle United,Huddersfield Town,2019-02-23,2,54.3,2,0,11,29,0,45.7,0,1,7,3
+2019/18,Leicester City,Crystal Palace,2019-02-23,1,65.4,2,0,7,27,4,34.6,1,0,14,7
+2019/18,Cardiff City,Watford,2019-02-22,1,35.4,1,0,10,15,5,64.6,2,0,11,12
+2019/18,West Ham United,Fulham,2019-02-22,3,55.1,1,0,11,21,1,44.9,1,0,11,8
+2019/18,Wolverhampton Wanderers,Newcastle United,2019-02-11,1,59.5,1,0,7,22,1,40.5,3,0,9,9
+2019/18,Tottenham Hotspur,Leicester City,2019-02-10,3,53.1,3,0,11,12,1,46.9,1,0,4,20
+2019/18,Manchester City,Chelsea,2019-02-10,6,55.8,1,0,9,15,0,44.2,2,0,13,12
+2019/18,Fulham,Manchester United,2019-02-09,0,51.2,3,0,14,15,3,48.8,2,0,9,15
+2019/18,Crystal Palace,West Ham United,2019-02-09,1,57.2,3,0,12,25,1,42.8,0,0,9,6
+2019/18,Huddersfield Town,Arsenal,2019-02-09,1,54.6,3,0,17,16,2,45.4,2,0,12,9
+2019/18,Liverpool,AFC Bournemouth,2019-02-09,3,65.6,2,0,14,20,0,34.4,2,0,6,12
+2019/18,Southampton,Cardiff City,2019-02-09,1,66.7,3,0,15,14,2,33.3,3,0,12,6
+2019/18,Watford,Everton,2019-02-09,1,44.0,2,0,21,7,0,56.0,0,1,10,9
+2019/18,Brighton and Hove Albion,Burnley,2019-02-09,1,68.2,1,0,8,16,3,31.8,1,0,7,9
+2019/18,Everton,Manchester City,2019-02-06,0,38.8,1,0,12,4,2,61.2,1,0,6,15
+2019/18,West Ham United,Liverpool,2019-02-04,1,26.7,1,0,9,13,1,73.3,1,0,11,11
+2019/18,Leicester City,Manchester United,2019-02-03,0,44.8,4,0,14,17,1,55.2,4,0,9,10
+2019/18,Manchester City,Arsenal,2019-02-03,3,58.8,1,0,11,19,1,41.2,1,0,8,4
+2019/18,Tottenham Hotspur,Newcastle United,2019-02-02,1,71.6,0,0,6,21,0,28.4,1,0,6,8
+2019/18,Brighton and Hove Albion,Watford,2019-02-02,0,55.1,1,0,15,21,0,44.9,0,0,10,5
+2019/18,Burnley,Southampton,2019-02-02,1,54.2,3,0,10,15,1,45.8,1,0,9,10
+2019/18,Chelsea,Huddersfield Town,2019-02-02,5,65.0,0,0,8,23,0,35.0,0,0,5,5
+2019/18,Crystal Palace,Fulham,2019-02-02,2,37.3,2,0,9,17,0,62.7,3,0,12,8
+2019/18,Everton,Wolverhampton Wanderers,2019-02-02,1,64.0,3,0,12,13,3,36.0,1,0,14,8
+2019/18,Cardiff City,AFC Bournemouth,2019-02-02,2,26.9,1,0,17,12,0,73.1,2,0,14,9
+2019/18,AFC Bournemouth,Chelsea,2019-01-30,4,32.1,1,0,8,12,0,67.9,0,0,6,11
+2019/18,Southampton,Crystal Palace,2019-01-30,1,58.8,2,0,11,13,1,41.2,2,1,8,15
+2019/18,Liverpool,Leicester City,2019-01-30,1,72.1,1,0,13,10,1,27.9,3,0,6,5
+2019/18,Tottenham Hotspur,Watford,2019-01-30,2,68.5,0,0,6,17,1,31.5,4,0,9,9
+2019/18,Arsenal,Cardiff City,2019-01-29,2,70.9,3,0,14,15,1,29.1,3,0,12,19
+2019/18,Fulham,Brighton and Hove Albion,2019-01-29,4,61.9,2,0,10,24,2,38.1,3,0,5,15
+2019/18,Huddersfield Town,Everton,2019-01-29,0,58.4,1,0,13,10,1,41.6,4,1,10,10
+2019/18,Wolverhampton Wanderers,West Ham United,2019-01-29,3,54.7,4,0,8,20,0,45.3,1,0,10,4
+2019/18,Manchester United,Burnley,2019-01-29,2,74.4,1,0,10,28,2,25.6,3,0,9,6
+2019/18,Newcastle United,Manchester City,2019-01-29,2,23.8,2,0,9,7,1,76.2,3,0,7,12
+2019/18,Huddersfield Town,Manchester City,2019-01-20,0,32.4,2,0,10,5,3,67.6,2,0,9,12
+2019/18,Fulham,Tottenham Hotspur,2019-01-20,1,26.8,2,0,10,12,2,73.2,3,0,8,14
+2019/18,Wolverhampton Wanderers,Leicester City,2019-01-19,4,45.6,3,0,11,12,3,54.4,3,0,10,16
+2019/18,AFC Bournemouth,West Ham United,2019-01-19,2,38.5,0,0,6,10,0,61.5,1,0,10,9
+2019/18,Liverpool,Crystal Palace,2019-01-19,4,70.6,0,1,6,19,3,29.4,1,0,8,9
+2019/18,Manchester United,Brighton and Hove Albion,2019-01-19,2,56.0,1,0,11,20,1,44.0,0,0,11,7
+2019/18,Newcastle United,Cardiff City,2019-01-19,3,53.5,0,0,11,16,0,46.5,1,0,6,9
+2019/18,Southampton,Everton,2019-01-19,2,39.4,2,0,12,11,1,60.6,1,0,11,7
+2019/18,Watford,Burnley,2019-01-19,0,54.8,1,0,14,9,0,45.2,2,0,9,12
+2019/18,Arsenal,Chelsea,2019-01-19,2,35.7,0,0,13,13,0,64.3,2,0,15,13
+2019/18,Manchester City,Wolverhampton Wanderers,2019-01-14,3,76.1,1,0,6,24,0,23.9,0,1,3,3
+2019/18,Everton,AFC Bournemouth,2019-01-13,2,50.9,5,0,17,15,0,49.1,0,0,8,16
+2019/18,Tottenham Hotspur,Manchester United,2019-01-13,0,61.2,1,0,8,21,1,38.8,2,0,8,13
+2019/18,West Ham United,Arsenal,2019-01-12,1,41.4,0,0,7,11,0,58.6,2,0,10,11
+2019/18,Brighton and Hove Albion,Liverpool,2019-01-12,0,29.1,0,0,15,7,1,70.9,0,0,5,10
+2019/18,Burnley,Fulham,2019-01-12,2,41.8,1,0,5,11,1,58.2,2,0,9,12
+2019/18,Cardiff City,Huddersfield Town,2019-01-12,0,38.9,3,0,12,3,0,61.1,1,0,14,14
+2019/18,Crystal Palace,Watford,2019-01-12,1,55.3,1,0,11,15,2,44.7,4,0,11,16
+2019/18,Leicester City,Southampton,2019-01-12,1,71.7,2,0,7,23,2,28.3,1,1,9,8
+2019/18,Chelsea,Newcastle United,2019-01-12,2,65.9,1,0,6,10,1,34.1,1,0,13,9
+2019/18,Manchester City,Liverpool,2019-01-03,2,49.6,4,0,12,9,1,50.4,2,0,7,7
+2019/18,AFC Bournemouth,Watford,2019-01-02,3,57.0,1,0,9,25,3,43.0,4,0,15,11
+2019/18,Chelsea,Southampton,2019-01-02,0,71.6,1,0,8,17,0,28.4,2,0,11,6
+2019/18,Huddersfield Town,Burnley,2019-01-02,1,42.9,0,1,11,9,2,57.1,4,1,9,16
+2019/18,West Ham United,Brighton and Hove Albion,2019-01-02,2,54.3,0,0,9,13,2,45.7,1,0,11,13
+2019/18,Wolverhampton Wanderers,Crystal Palace,2019-01-02,0,51.9,4,0,9,9,2,48.1,1,0,7,17
+2019/18,Newcastle United,Manchester United,2019-01-02,0,34.9,1,0,10,14,2,65.1,2,0,9,16
+2019/18,Everton,Leicester City,2019-01-01,0,59.6,3,0,5,17,1,40.4,1,0,8,8
+2019/18,Arsenal,Fulham,2019-01-01,4,59.6,0,0,7,16,1,40.4,1,0,12,9
+2019/18,Cardiff City,Tottenham Hotspur,2019-01-01,0,26.9,1,0,6,5,3,73.1,0,0,6,13
+2019/18,Crystal Palace,Chelsea,2018-12-30,0,34.2,0,0,11,4,1,65.8,1,0,8,12
+2019/18,Burnley,West Ham United,2018-12-30,2,43.0,1,0,15,17,0,57.0,4,0,11,11
+2019/18,Southampton,Manchester City,2018-12-30,1,23.4,2,1,11,5,3,76.6,3,0,10,14
+2019/18,Manchester United,AFC Bournemouth,2018-12-30,4,64.9,2,1,10,11,1,35.1,0,0,7,7
+2019/18,Brighton and Hove Albion,Everton,2018-12-29,1,44.8,0,0,10,11,0,55.2,2,0,11,13
+2019/18,Fulham,Huddersfield Town,2018-12-29,1,43.5,3,0,12,14,0,56.5,1,0,10,9
+2019/18,Leicester City,Cardiff City,2018-12-29,0,62.2,0,0,14,16,1,37.8,2,0,16,12
+2019/18,Tottenham Hotspur,Wolverhampton Wanderers,2018-12-29,1,60.8,3,0,7,10,3,39.2,2,0,7,11
+2019/18,Watford,Newcastle United,2018-12-29,1,62.7,1,0,17,12,1,37.3,2,0,16,8
+2019/18,Liverpool,Arsenal,2018-12-29,5,47.9,1,0,8,15,1,52.1,2,0,13,8
+2019/18,Southampton,West Ham United,2018-12-27,1,45.8,2,0,10,11,2,54.2,0,0,3,16
+2019/18,Fulham,Wolverhampton Wanderers,2018-12-26,1,29.8,2,0,9,11,1,70.2,1,0,6,14
+2019/18,Burnley,Everton,2018-12-26,1,49.0,2,0,11,11,5,51.0,4,0,19,13
+2019/18,Crystal Palace,Cardiff City,2018-12-26,0,62.4,0,0,9,31,0,37.6,3,0,11,9
+2019/18,Leicester City,Manchester City,2018-12-26,2,33.9,2,0,5,10,1,66.1,2,1,8,11
+2019/18,Liverpool,Newcastle United,2018-12-26,4,75.0,0,0,7,16,0,25.0,0,0,10,6
+2019/18,Manchester United,Huddersfield Town,2018-12-26,3,64.7,1,0,9,16,1,35.3,1,0,13,10
+2019/18,Tottenham Hotspur,AFC Bournemouth,2018-12-26,5,56.7,2,0,5,10,0,43.3,1,0,8,14
+2019/18,Brighton and Hove Albion,Arsenal,2018-12-26,1,32.0,2,0,10,12,1,68.0,1,0,4,7
+2019/18,Watford,Chelsea,2018-12-26,1,35.0,1,0,15,11,2,65.0,0,0,5,10
+2019/18,Everton,Tottenham Hotspur,2018-12-23,2,41.5,0,0,13,10,6,58.5,2,0,9,17
+2019/18,Arsenal,Burnley,2018-12-22,3,60.1,2,0,10,11,1,39.9,5,0,14,7
+2019/18,AFC Bournemouth,Brighton and Hove Albion,2018-12-22,2,57.2,2,0,8,14,0,42.8,0,1,18,10
+2019/18,Chelsea,Leicester City,2018-12-22,0,72.1,0,0,10,17,1,27.9,2,0,9,8
+2019/18,Huddersfield Town,Southampton,2018-12-22,1,62.3,2,0,12,16,3,37.7,3,0,9,13
+2019/18,Manchester City,Crystal Palace,2018-12-22,2,78.3,0,0,7,19,3,21.7,4,0,6,5
+2019/18,Newcastle United,Fulham,2018-12-22,0,53.5,1,0,9,9,0,46.5,2,0,12,4
+2019/18,West Ham United,Watford,2018-12-22,0,51.6,3,0,9,18,2,48.4,2,0,11,11
+2019/18,Cardiff City,Manchester United,2018-12-22,1,25.7,2,0,13,9,5,74.3,1,0,13,17
+2019/18,Wolverhampton Wanderers,Liverpool,2018-12-21,0,38.3,0,0,7,11,2,61.7,0,0,3,15
+2019/18,Brighton and Hove Albion,Chelsea,2018-12-16,1,41.7,2,0,14,6,2,58.3,2,0,6,10
+2019/18,Southampton,Arsenal,2018-12-16,3,33.8,3,0,12,12,2,66.2,1,0,10,13
+2019/18,Liverpool,Manchester United,2018-12-16,3,64.5,0,0,6,36,1,35.5,2,0,14,6
+2019/18,Manchester City,Everton,2018-12-15,3,67.0,1,0,7,13,1,33.0,2,0,9,9
+2019/18,Crystal Palace,Leicester City,2018-12-15,1,43.3,2,0,10,8,0,56.7,1,0,8,12
+2019/18,Huddersfield Town,Newcastle United,2018-12-15,0,73.5,1,0,5,15,1,26.5,1,0,13,8
+2019/18,Tottenham Hotspur,Burnley,2018-12-15,1,70.3,0,0,7,15,0,29.7,2,0,8,4
+2019/18,Watford,Cardiff City,2018-12-15,3,71.5,0,0,7,17,2,28.5,0,0,5,10
+2019/18,Wolverhampton Wanderers,AFC Bournemouth,2018-12-15,2,37.8,1,0,15,10,0,62.2,2,0,7,13
+2019/18,Fulham,West Ham United,2018-12-15,0,56.0,2,0,14,16,2,44.0,1,0,10,6
+2019/18,Everton,Watford,2018-12-10,2,56.6,1,0,13,12,2,43.4,1,0,13,15
+2019/18,Newcastle United,Wolverhampton Wanderers,2018-12-09,1,50.4,2,1,10,12,2,49.6,5,0,17,13
+2019/18,AFC Bournemouth,Liverpool,2018-12-08,0,40.5,2,0,9,8,4,59.5,1,0,11,10
+2019/18,Arsenal,Huddersfield Town,2018-12-08,1,61.9,5,0,13,14,0,38.1,4,0,20,6
+2019/18,Burnley,Brighton and Hove Albion,2018-12-08,1,37.4,2,0,11,14,0,62.6,0,0,11,14
+2019/18,Cardiff City,Southampton,2018-12-08,1,36.2,2,0,9,13,0,63.8,2,0,10,12
+2019/18,Manchester United,Fulham,2018-12-08,4,62.7,1,0,11,20,1,37.3,1,1,15,10
+2019/18,West Ham United,Crystal Palace,2018-12-08,3,48.3,1,0,10,13,2,51.7,2,0,8,8
+2019/18,Chelsea,Manchester City,2018-12-08,2,38.7,2,0,12,8,0,61.3,0,0,11,14
+2019/18,Leicester City,Tottenham Hotspur,2018-12-08,0,42.2,3,0,12,11,2,57.8,1,0,7,7
+2019/18,Burnley,Liverpool,2018-12-05,1,25.8,1,0,10,10,3,74.2,0,0,3,18
+2019/18,Everton,Newcastle United,2018-12-05,1,76.3,0,0,7,19,1,23.7,5,0,18,8
+2019/18,Fulham,Leicester City,2018-12-05,1,45.5,0,0,12,25,1,54.5,0,0,7,13
+2019/18,Wolverhampton Wanderers,Chelsea,2018-12-05,2,29.9,4,0,18,6,1,70.1,4,0,10,17
+2019/18,Manchester United,Arsenal,2018-12-05,2,44.8,3,0,13,10,2,55.2,3,0,10,9
+2019/18,Tottenham Hotspur,Southampton,2018-12-05,3,52.1,0,0,7,13,1,47.9,0,0,5,18
+2019/18,AFC Bournemouth,Huddersfield Town,2018-12-04,2,32.8,4,0,14,6,1,67.2,2,0,11,23
+2019/18,Brighton and Hove Albion,Crystal Palace,2018-12-04,3,31.5,2,1,14,9,1,68.5,3,0,12,18
+2019/18,West Ham United,Cardiff City,2018-12-04,3,61.0,1,0,10,17,1,39.0,2,0,10,9
+2019/18,Watford,Manchester City,2018-12-04,1,29.9,0,0,4,11,2,70.1,1,0,8,15
+2019/18,Chelsea,Fulham,2018-12-02,2,66.0,2,0,8,16,0,34.0,1,0,17,9
+2019/18,Arsenal,Tottenham Hotspur,2018-12-02,4,59.3,3,0,15,22,2,40.7,3,1,17,11
+2019/18,Liverpool,Everton,2018-12-02,1,57.6,3,0,12,16,0,42.4,2,0,7,9
+2019/18,Crystal Palace,Burnley,2018-12-01,2,58.6,1,0,9,29,0,41.4,1,0,10,4
+2019/18,Huddersfield Town,Brighton and Hove Albion,2018-12-01,1,32.1,0,1,10,7,2,67.9,2,0,12,14
+2019/18,Leicester City,Watford,2018-12-01,2,37.7,2,0,7,7,0,62.3,1,1,6,8
+2019/18,Manchester City,AFC Bournemouth,2018-12-01,3,73.1,0,0,9,16,1,26.9,0,0,3,4
+2019/18,Newcastle United,West Ham United,2018-12-01,0,58.7,3,0,10,16,3,41.3,3,0,10,7
+2019/18,Southampton,Manchester United,2018-12-01,2,40.3,4,0,12,16,2,59.7,4,0,13,11
+2019/18,Cardiff City,Wolverhampton Wanderers,2018-11-30,2,47.9,1,0,3,17,1,52.1,2,0,12,15
+2019/18,Burnley,Newcastle United,2018-11-26,1,56.5,0,0,6,14,2,43.5,1,0,11,17
+2019/18,AFC Bournemouth,Arsenal,2018-11-25,1,41.3,2,0,6,11,2,58.7,1,0,9,20
+2019/18,Wolverhampton Wanderers,Huddersfield Town,2018-11-25,0,44.8,1,0,9,12,2,55.2,2,0,8,14
+2019/18,Brighton and Hove Albion,Leicester City,2018-11-24,1,54.6,3,0,10,14,1,45.4,1,1,7,8
+2019/18,Everton,Cardiff City,2018-11-24,1,70.7,0,0,12,16,0,29.3,3,0,13,7
+2019/18,Fulham,Southampton,2018-11-24,3,37.2,2,0,10,10,2,62.8,3,0,6,19
+2019/18,Manchester United,Crystal Palace,2018-11-24,0,59.8,1,0,13,12,0,40.2,2,0,12,13
+2019/18,Watford,Liverpool,2018-11-24,0,36.3,0,0,12,5,3,63.7,1,1,13,10
+2019/18,West Ham United,Manchester City,2018-11-24,0,30.7,0,0,6,9,4,69.3,0,0,3,9
+2019/18,Tottenham Hotspur,Chelsea,2018-11-24,3,39.9,0,0,19,18,1,60.1,3,0,12,13
+2019/18,Liverpool,Fulham,2018-11-11,2,73.0,1,0,11,21,0,27.0,1,0,9,8
+2019/18,Chelsea,Everton,2018-11-11,0,68.7,4,0,7,15,0,31.3,3,0,11,6
+2019/18,Arsenal,Wolverhampton Wanderers,2018-11-11,1,71.7,2,0,9,10,1,28.3,2,0,16,13
+2019/18,Manchester City,Manchester United,2018-11-11,3,64.9,1,0,12,17,1,35.1,1,0,12,6
+2019/18,Cardiff City,Brighton and Hove Albion,2018-11-10,2,60.6,2,0,7,20,1,39.4,1,1,21,7
+2019/18,Huddersfield Town,West Ham United,2018-11-10,1,43.9,1,0,9,15,1,56.1,1,0,8,12
+2019/18,Leicester City,Burnley,2018-11-10,0,63.0,2,0,13,22,0,37.0,0,0,10,6
+2019/18,Newcastle United,AFC Bournemouth,2018-11-10,2,39.3,2,0,9,18,1,60.7,1,0,11,14
+2019/18,Southampton,Watford,2018-11-10,1,42.3,3,0,13,14,1,57.7,2,0,13,12
+2019/18,Crystal Palace,Tottenham Hotspur,2018-11-10,0,35.4,1,0,12,11,1,64.6,1,0,9,11
+2019/18,Huddersfield Town,Fulham,2018-11-05,1,45.1,1,0,11,10,0,54.9,2,0,8,8
+2019/18,Manchester City,Southampton,2018-11-04,6,67.3,1,0,14,18,1,32.7,1,0,9,13
+2019/18,Chelsea,Crystal Palace,2018-11-04,3,73.7,0,0,6,15,1,26.3,1,0,13,7
+2019/18,AFC Bournemouth,Manchester United,2018-11-03,1,48.7,4,0,12,18,2,51.3,3,0,12,18
+2019/18,Cardiff City,Leicester City,2018-11-03,0,40.1,2,0,13,11,1,59.9,2,0,12,13
+2019/18,Everton,Brighton and Hove Albion,2018-11-03,3,61.5,0,0,9,14,1,38.5,1,0,17,5
+2019/18,Newcastle United,Watford,2018-11-03,1,41.9,1,0,12,10,0,58.1,5,0,11,16
+2019/18,West Ham United,Burnley,2018-11-03,4,62.8,1,0,7,22,2,37.2,4,0,9,6
+2019/18,Arsenal,Liverpool,2018-11-03,1,61.8,1,0,7,12,1,38.2,1,0,7,13
+2019/18,Wolverhampton Wanderers,Tottenham Hotspur,2018-11-03,2,48.6,1,0,11,16,3,51.4,2,0,8,10
+2019/18,Tottenham Hotspur,Manchester City,2018-10-29,0,48.0,2,0,13,4,1,52.0,2,0,13,13
+2019/18,Burnley,Chelsea,2018-10-28,0,30.2,4,0,14,7,4,69.8,2,0,10,24
+2019/18,Crystal Palace,Arsenal,2018-10-28,2,42.2,1,0,10,16,2,57.8,2,0,16,7
+2019/18,Manchester United,Everton,2018-10-28,2,53.7,2,0,15,14,1,46.3,1,0,12,14
+2019/18,Brighton and Hove Albion,Wolverhampton Wanderers,2018-10-27,1,39.9,3,0,11,7,0,60.1,0,0,8,25
+2019/18,Fulham,AFC Bournemouth,2018-10-27,0,52.0,2,1,16,11,3,48.0,1,0,3,12
+2019/18,Liverpool,Cardiff City,2018-10-27,4,79.6,0,0,6,19,1,20.4,0,0,4,2
+2019/18,Southampton,Newcastle United,2018-10-27,0,50.2,0,0,9,22,0,49.8,1,0,12,6
+2019/18,Watford,Huddersfield Town,2018-10-27,3,48.1,1,0,9,12,0,51.9,2,0,13,13
+2019/18,Leicester City,West Ham United,2018-10-27,1,64.2,1,0,17,21,1,35.8,1,1,5,11
+2019/18,Arsenal,Leicester City,2018-10-22,3,69.1,2,0,10,19,1,30.9,2,0,10,8
+2019/18,Everton,Crystal Palace,2018-10-21,2,59.8,2,0,13,20,0,40.2,1,0,17,7
+2019/18,Chelsea,Manchester United,2018-10-20,2,62.3,2,0,9,21,2,37.7,5,0,17,7
+2019/18,AFC Bournemouth,Southampton,2018-10-20,0,57.3,1,0,11,9,0,42.7,2,0,14,8
+2019/18,Cardiff City,Fulham,2018-10-20,4,40.5,3,0,15,22,2,59.5,3,0,16,9
+2019/18,Manchester City,Burnley,2018-10-20,5,69.1,2,0,11,24,0,30.9,2,0,5,5
+2019/18,Newcastle United,Brighton and Hove Albion,2018-10-20,0,68.0,0,0,13,27,1,32.0,2,0,17,8
+2019/18,West Ham United,Tottenham Hotspur,2018-10-20,0,44.0,3,0,8,13,1,56.0,0,0,10,10
+2019/18,Wolverhampton Wanderers,Watford,2018-10-20,0,44.8,3,0,23,10,2,55.2,1,0,13,9
+2019/18,Huddersfield Town,Liverpool,2018-10-20,0,47.8,0,0,9,13,1,52.2,2,0,6,11
+2019/18,Fulham,Arsenal,2018-10-07,1,48.9,2,0,11,21,5,51.1,0,0,12,9
+2019/18,Southampton,Chelsea,2018-10-07,0,34.7,6,0,13,15,3,65.3,0,0,11,21
+2019/18,Liverpool,Manchester City,2018-10-07,0,49.4,1,0,10,7,0,50.6,3,0,10,6
+2019/18,Burnley,Huddersfield Town,2018-10-06,1,31.8,2,0,9,6,1,68.2,2,0,11,18
+2019/18,Crystal Palace,Wolverhampton Wanderers,2018-10-06,0,67.1,3,0,11,11,1,32.9,4,0,13,7
+2019/18,Leicester City,Everton,2018-10-06,1,51.3,2,1,10,8,2,48.7,1,0,11,17
+2019/18,Tottenham Hotspur,Cardiff City,2018-10-06,1,75.5,3,0,7,19,0,24.5,1,1,11,8
+2019/18,Watford,AFC Bournemouth,2018-10-06,0,47.2,3,1,11,14,4,52.8,1,0,9,10
+2019/18,Manchester United,Newcastle United,2018-10-06,3,73.0,2,0,16,18,2,27.0,2,0,8,13
+2019/18,Brighton and Hove Albion,West Ham United,2018-10-05,1,35.4,3,0,12,9,0,64.6,2,0,8,17
+2019/18,AFC Bournemouth,Crystal Palace,2018-10-01,2,44.4,3,0,9,11,1,55.6,4,0,12,10
+2019/18,Cardiff City,Burnley,2018-09-30,1,54.3,1,0,11,20,2,45.7,3,0,15,3
+2019/18,West Ham United,Manchester United,2018-09-29,3,49.0,0,0,12,8,1,51.0,1,0,12,9
+2019/18,Arsenal,Watford,2018-09-29,2,63.5,2,0,11,9,0,36.5,2,0,17,14
+2019/18,Everton,Fulham,2018-09-29,3,51.2,0,0,13,19,0,48.8,3,0,13,6
+2019/18,Huddersfield Town,Tottenham Hotspur,2018-09-29,0,52.7,2,0,17,9,2,47.3,2,0,16,10
+2019/18,Manchester City,Brighton and Hove Albion,2018-09-29,2,80.1,0,0,4,28,0,19.9,3,0,10,4
+2019/18,Newcastle United,Leicester City,2018-09-29,0,41.5,0,0,11,6,2,58.5,0,0,5,12
+2019/18,Wolverhampton Wanderers,Southampton,2018-09-29,2,48.8,3,0,11,14,0,51.2,1,0,7,17
+2019/18,Chelsea,Liverpool,2018-09-29,1,47.2,0,0,7,10,1,52.8,2,0,9,13
+2019/18,West Ham United,Chelsea,2018-09-23,0,28.2,2,0,11,6,0,71.8,1,0,9,17
+2019/18,Arsenal,Everton,2018-09-23,2,62.5,2,0,17,9,0,37.5,1,0,12,10
+2019/18,Fulham,Watford,2018-09-22,1,60.7,2,0,11,15,1,39.3,1,0,9,11
+2019/18,Burnley,AFC Bournemouth,2018-09-22,4,37.6,2,0,17,12,0,62.4,0,0,6,19
+2019/18,Cardiff City,Manchester City,2018-09-22,0,21.4,1,0,6,2,5,78.6,1,0,4,21
+2019/18,Crystal Palace,Newcastle United,2018-09-22,0,61.9,1,0,8,16,0,38.1,1,0,11,6
+2019/18,Leicester City,Huddersfield Town,2018-09-22,3,62.0,2,0,10,18,1,38.0,1,0,16,9
+2019/18,Liverpool,Southampton,2018-09-22,3,60.6,0,0,7,12,0,39.4,2,0,10,7
+2019/18,Manchester United,Wolverhampton Wanderers,2018-09-22,1,64.5,1,0,5,15,1,35.5,1,0,17,11
+2019/18,Brighton and Hove Albion,Tottenham Hotspur,2018-09-22,1,28.6,2,0,15,8,2,71.4,1,0,9,16
+2019/18,Southampton,Brighton and Hove Albion,2018-09-17,2,51.2,2,0,10,14,2,48.8,3,0,13,12
+2019/18,Wolverhampton Wanderers,Burnley,2018-09-16,1,58.9,2,0,10,30,0,41.1,4,0,9,7
+2019/18,Everton,West Ham United,2018-09-16,1,55.9,2,0,15,16,3,44.1,5,0,12,9
+2019/18,Tottenham Hotspur,Liverpool,2018-09-15,1,60.4,0,0,17,11,2,39.6,0,0,16,17
+2019/18,AFC Bournemouth,Leicester City,2018-09-15,4,46.7,3,0,13,10,2,53.3,2,1,15,14
+2019/18,Chelsea,Cardiff City,2018-09-15,4,76.8,0,0,8,18,1,23.2,0,0,10,6
+2019/18,Huddersfield Town,Crystal Palace,2018-09-15,0,58.4,1,0,11,15,1,41.6,2,0,17,7
+2019/18,Manchester City,Fulham,2018-09-15,3,64.7,0,0,7,28,0,35.3,0,0,7,9
+2019/18,Newcastle United,Arsenal,2018-09-15,1,36.3,0,0,13,4,2,63.7,0,0,11,12
+2019/18,Watford,Manchester United,2018-09-15,1,42.9,2,0,9,14,2,57.1,1,1,11,9
+2019/18,Cardiff City,Arsenal,2018-09-02,2,27.7,3,0,12,14,3,72.3,4,0,14,17
+2019/18,Burnley,Manchester United,2018-09-02,0,46.6,2,0,7,9,2,53.4,3,1,13,21
+2019/18,Watford,Tottenham Hotspur,2018-09-02,2,34.4,2,0,9,7,1,65.6,1,0,8,11
+2019/18,Leicester City,Liverpool,2018-09-01,1,51.2,3,0,9,12,2,48.8,2,0,12,10
+2019/18,Brighton and Hove Albion,Fulham,2018-09-01,2,41.5,3,0,12,15,2,58.5,3,0,14,10
+2019/18,Chelsea,AFC Bournemouth,2018-09-01,2,72.6,2,0,10,24,0,27.4,2,0,7,8
+2019/18,Crystal Palace,Southampton,2018-09-01,0,50.7,1,0,11,20,2,49.3,1,0,12,19
+2019/18,Everton,Huddersfield Town,2018-09-01,1,57.6,3,0,13,11,1,42.4,3,0,14,9
+2019/18,West Ham United,Wolverhampton Wanderers,2018-09-01,0,47.7,2,0,10,13,1,52.3,1,0,11,15
+2019/18,Manchester City,Newcastle United,2018-09-01,2,78.1,0,0,5,24,1,21.9,0,0,13,3
+2019/18,Manchester United,Tottenham Hotspur,2018-08-27,0,57.0,2,0,11,23,3,43.0,3,0,16,9
+2019/18,Watford,Crystal Palace,2018-08-26,2,43.7,4,0,14,13,1,56.3,2,0,11,9
+2019/18,Fulham,Burnley,2018-08-26,4,63.8,2,0,11,25,2,36.2,1,0,8,12
+2019/18,Newcastle United,Chelsea,2018-08-26,1,18.9,3,0,16,6,2,81.1,1,0,8,15
+2019/18,Wolverhampton Wanderers,Manchester City,2018-08-25,1,28.9,1,0,13,11,1,71.1,2,0,8,18
+2019/18,AFC Bournemouth,Everton,2018-08-25,2,49.9,0,1,12,17,2,50.1,3,1,10,11
+2019/18,Arsenal,West Ham United,2018-08-25,3,61.5,1,0,16,17,1,38.5,3,0,13,13
+2019/18,Huddersfield Town,Cardiff City,2018-08-25,0,58.0,0,1,8,5,0,42.0,1,0,10,14
+2019/18,Southampton,Leicester City,2018-08-25,1,51.7,1,1,13,11,2,48.3,1,0,11,8
+2019/18,Liverpool,Brighton and Hove Albion,2018-08-25,1,70.0,1,0,8,22,0,30.0,1,0,14,6
+2019/18,Crystal Palace,Liverpool,2018-08-20,0,36.8,1,1,6,8,2,63.2,1,0,13,16
+2019/18,Burnley,Watford,2018-08-19,1,58.4,1,0,8,8,3,41.6,2,0,19,9
+2019/18,Manchester City,Huddersfield Town,2018-08-19,6,76.9,0,0,9,32,1,23.1,2,0,4,5
+2019/18,Brighton and Hove Albion,Manchester United,2018-08-19,3,33.4,1,0,16,6,2,66.6,1,0,13,9
+2019/18,Cardiff City,Newcastle United,2018-08-18,0,51.3,2,0,14,12,0,48.7,2,1,16,12
+2019/18,Everton,Southampton,2018-08-18,2,58.0,0,0,8,13,1,42.0,5,0,20,15
+2019/18,Leicester City,Wolverhampton Wanderers,2018-08-18,2,42.8,2,1,10,6,0,57.2,1,0,8,11
+2019/18,Tottenham Hotspur,Fulham,2018-08-18,3,59.6,0,0,9,25,1,40.4,0,0,5,10
+2019/18,West Ham United,AFC Bournemouth,2018-08-18,1,61.0,6,0,14,11,2,39.0,2,0,10,12
+2019/18,Chelsea,Arsenal,2018-08-18,3,62.3,0,0,12,24,2,37.7,2,0,9,15
+2019/18,Liverpool,West Ham United,2018-08-12,4,64.8,1,0,14,18,0,35.2,2,0,9,5
+2019/18,Southampton,Burnley,2018-08-12,0,47.7,0,0,10,18,0,52.3,1,0,9,16
+2019/18,Arsenal,Manchester City,2018-08-12,0,42.0,2,0,11,9,2,58.0,2,0,14,17
+2019/18,Newcastle United,Tottenham Hotspur,2018-08-11,1,40.4,2,0,11,15,2,59.6,2,0,12,15
+2019/18,AFC Bournemouth,Cardiff City,2018-08-11,2,62.9,1,0,11,12,0,37.1,1,0,9,10
+2019/18,Fulham,Crystal Palace,2018-08-11,0,66.3,1,0,9,15,2,33.7,2,0,11,12
+2019/18,Huddersfield Town,Chelsea,2018-08-11,0,37.2,2,0,9,6,3,62.8,1,0,8,13
+2019/18,Watford,Brighton and Hove Albion,2018-08-11,2,53.2,2,0,10,19,0,46.8,2,0,16,6
+2019/18,Wolverhampton Wanderers,Everton,2018-08-11,2,57.4,0,0,8,11,2,42.6,1,1,7,8
+2019/18,Manchester United,Leicester City,2018-08-10,2,46.3,2,0,11,8,1,53.7,1,0,8,13
